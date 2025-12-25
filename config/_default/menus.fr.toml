@@ -1,0 +1,19 @@
+[[main]]
+  name = "Accueil"
+  pageRef = "/"
+  weight = 10
+
+[[main]]
+  name = "Matériel"
+  pageRef = "categories/conseils-elevage"
+  weight = 20
+
+[[main]]
+  name = "Nutrition"
+  pageRef = "tags/alimentation"
+  weight = 30
+
+[[main]]
+  name = "Santé"
+  pageRef = "tags/santé"
+  weight = 40

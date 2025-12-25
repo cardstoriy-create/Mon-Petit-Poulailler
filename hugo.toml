@@ -1,0 +1,58 @@
+baseURL = "https://www.mon-petit-poulailler.com/"
+title = "Mon Petit Poulailler"
+theme = "blowfish"
+languageCode = "fr"
+
+# Nouvelle syntaxe pour la pagination (Hugo v0.128+)
+[pagination]
+  pagerSize = 20
+
+# --- CONFIGURATION DU THÈME BLOWFISH ---
+[params]
+  colorScheme = "blowfish"
+  mainSections = ["posts"]
+  amazonTag = "monpetitpoulailler-21"
+  mermaid = true
+  showLogo = true
+  copyright = "En tant que Partenaire Amazon, je réalise un bénéfice sur les achats remplissant les conditions requises. | © 2025 Mon Petit Poulailler"
+
+# --- CONFIGURATION DE L'AUTEUR (Martin) ---
+[params.author]
+  name = "Martin"
+  image = "martin.png"
+  headline = "Expert menuisier et passionné d'élevage"
+  bio = "À Mon Petit Poulailler, nous partageons nos conseils pour un élevage familial sain et heureux."
+
+# --- CONFIGURATION DE LA PAGE D'ACCUEIL ---
+# Note : Le layout "card" est désactivé ici pour garantir l'affichage du logo
+[params.homepage]
+  showRecent = true
+  showRecentItems = 20
+
+[params.header]
+  showLogo = true
+  showMenu = true
+  showLogoText = true
+  logo = "martin.png"
+
+[params.footer]
+  showCopyright = true
+  content = "En tant que Partenaire Amazon, je réalise un bénéfice sur les achats remplissant les conditions requises. | © 2025 Mon Petit Poulailler"
+
+[params.article]
+  showDate = true
+  showReadingTime = true
+  showAuthor = true
+  showFeature = true
+
+[params.brand]
+  logo = "martin.png"
+
+# --- CONFIGURATION LINGUISTIQUE (Priorité Blowfish) ---
+[languages.fr]
+  languageName = "Français"
+  contentDir = "content"
+  weight = 1
+  [languages.fr.params.header]
+    showLogo = true
+    logo = "martin.png"

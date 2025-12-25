@@ -1,0 +1,18 @@
+{{- $asin := .Get "asin" -}}
+{{- $text := .Get "text" | default "Voir le prix sur Amazon" -}}
+{{- $tag := .Site.Params.amazonTag | default "monpetitpoulailler-21" -}}
+
+<div class="amazon-container">
+  <a href="https://www.amazon.fr/dp/{{ $asin }}/?tag={{ $tag }}" 
+     target="_blank" 
+     rel="nofollow sponsored" 
+     class="amazon-card no-underline">
+      <div class="flex-grow">
+          <span class="amazon-label">Le Choix de Martin</span>
+          <span class="amazon-text">{{ $text }}</span>
+      </div>
+      <div class="amazon-icon">
+          {{ partial "icon.html" "cart" }}
+      </div>
+  </a>
+</div>

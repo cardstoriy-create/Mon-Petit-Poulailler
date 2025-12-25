@@ -1,0 +1,7 @@
+# ... (début du fichier inchangé)
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      [cite_start]HUGO_VERSION: 0.153.2  # Correction ici [cite: 6, 18]
+# ... (reste du fichier)
