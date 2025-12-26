@@ -2,6 +2,7 @@ baseURL = "https://www.mon-petit-poulailler.com/"
 title = "Mon Petit Poulailler"
 theme = "blowfish"
 languageCode = "fr"
+defaultContentLanguage = "fr"
 
 # Nouvelle syntaxe pour la pagination (Hugo v0.128+)
 [pagination]
