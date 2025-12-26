@@ -75,3 +75,19 @@ Migration d'un blog Blogger vers Hugo. Transformation en guide élégant style "
    - Site hébergé sur Cloudflare Pages.
    - Domaine `mon-petit-poulailler.com` (Namecheap) relié via les DNS Cloudflare.
    - Sécurisation SSL (HTTPS) active.
+
+   Date : 26 Décembre 2025.
+
+🎯 Décisions :
+
+Configuration réussie de l'extension Roo Code avec une clé API Google Gemini.
+
+Mise à jour du shortcode conseil.html pour accepter des titres et icônes personnalisés.
+
+Intégration d'une "Liste Noire" visuelle pour les aliments toxiques.
+
+🚀 Prochaines étapes :
+
+Générer les images pour les autres membres de la famille (Julie, Lucas).
+
+Vérifier le rendu mobile des boîtes de conseil.

@@ -12,7 +12,7 @@ mermaid: true
 
 **Les aliments les plus toxiques pour les poules sont les épluchures de pommes de terre crues (solanine), l'avocat (persine), le chocolat (théobromine), les oignons et l'ail crus, ainsi que les pépins de fruits (cyanure) et les haricots secs crus. Pour garantir la sécurité de votre élevage, évitez également tout aliment moisi, trop salé ou trop sucré.**
 
----
+![Martin et Anna trient les restes de cuisine](feature.webp)
 
 À "Mon Petit Poulailler", le moment des restes de cuisine est un vrai spectacle. **Barnabé** le chien guette toujours une miette tombée, tandis que nos poules se précipitent sur le seau que leur apporte **Lucas**. Mais attention : recycler ses déchets est un geste écologique merveilleux, à condition de savoir que certains aliments courants peuvent être mortels pour vos protégées. 
 
@@ -72,6 +72,7 @@ Les haricots secs crus contiennent de la **phytohémagglutinine**, une lectine e
 
 ## 📋 La "Liste Noire" récapitulative
 
+{{< conseil title="⚠️ LA LISTE NOIRE" icon="🚫" >}}
 * ❌ **Avocat** (peau et noyau)
 * ❌ **Chocolat** et bonbons
 * ❌ **Oignons et Ail crus**
@@ -79,6 +80,7 @@ Les haricots secs crus contiennent de la **phytohémagglutinine**, une lectine e
 * ❌ **Pépins de pommes et poires**
 * ❌ **Haricots secs crus**
 * ❌ **Aliments moisis** (risque de botulisme mortel)
+{{< /conseil >}}
 
 ## ⚠️ Urgence : Que faire en cas d'ingestion ?
 
