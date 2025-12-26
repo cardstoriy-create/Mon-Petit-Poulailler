@@ -55,3 +55,23 @@ Migration d'un blog Blogger vers Hugo. Transformation en guide élégant style "
 1. **GitHub :** Pousser les modifications locales (Dossier DOCS + Rapport) vers le dépôt distant.
 2. **Cloudflare :** Connecter le dépôt pour lancer le premier déploiement automatisé.
 3. **Contenu :** Illustrer l'article "Aliments Interdits" avec le visuel de Martin et Anna.
+
+
+## [26/12/2025] - Mise en ligne officielle (MVP)
+
+**Statut :** Succès ✅
+**Site :** https://www.mon-petit-poulailler.com/
+
+**Accomplissements :**
+1. **Environnement de développement :**
+   - Installation de Go 1.23.0 et Hugo Extended 0.139.0.
+   - Initialisation du dépôt Git et clonage du thème Blowfish.
+
+2. **Configuration Technique :**
+   - Correction du fichier `hugo.toml` (Langue par défaut `fr`).
+   - Résolution du conflit de version Hugo/Blowfish sur Cloudflare (Upgrade vers Hugo 0.141.0).
+
+3. **Déploiement & Domaine :**
+   - Site hébergé sur Cloudflare Pages.
+   - Domaine `mon-petit-poulailler.com` (Namecheap) relié via les DNS Cloudflare.
+   - Sécurisation SSL (HTTPS) active.
