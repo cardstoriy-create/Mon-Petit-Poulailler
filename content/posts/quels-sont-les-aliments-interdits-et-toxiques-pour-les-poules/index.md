@@ -1,22 +1,28 @@
 ---
 title: "Attention Gourmandise ! Le Guide des Aliments Interdits pour vos Poules"
-date: 2025-12-13T20:12:00Z
+date: 2025-12-27T10:00:00Z
 draft: false
-description: "Découvrez la liste noire des aliments toxiques pour les poules : avocat, chocolat, solanine et bien d'autres dangers à éviter."
+description: "Découvrez la liste noire des aliments toxiques pour les poules : avocat, chocolat, solanine et bien d'autres dangers à éviter pour leur santé."
 tags: ["Alimentation", "Santé", "Sécurité"]
 categories: ["Conseils Élevage"]
 author: "Martin"
-showHero: false
+showHero: true
 mermaid: true
 ---
 
-**Les aliments les plus toxiques pour les poules sont les épluchures de pommes de terre crues (solanine), l'avocat (persine), le chocolat (théobromine), les oignons et l'ail crus, ainsi que les pépins de fruits (cyanure) et les haricots secs crus. Pour garantir la sécurité de votre élevage, évitez également tout aliment moisi, trop salé ou trop sucré.**
+**Quels sont les aliments interdits pour les poules ? Les plus toxiques sont l'avocat (contenant de la persine), le chocolat (théobromine), les épluchures de pommes de terre crues ou vertes (solanine), les oignons et les haricots secs crus. Ces produits peuvent causer des troubles cardiaques ou respiratoires mortels en moins de 24 heures.**
 
-![Martin et Anna trient les restes de cuisine](feature.webp)
+---
 
-À "Mon Petit Poulailler", le moment des restes de cuisine est un vrai spectacle. **Barnabé** le chien guette toujours une miette tombée, tandis que nos poules se précipitent sur le seau que leur apporte **Lucas**. Mais attention : recycler ses déchets est un geste écologique merveilleux, à condition de savoir que certains aliments courants peuvent être mortels pour vos protégées. 
+## La sécurité alimentaire : Une affaire de famille
 
-Avec **Julie**, nous avons établi une liste stricte pour que les enfants ne fassent jamais d'erreur fatale. En tant qu'expert menuisier et passionné de nutrition avicole, je vous aide à y voir clair pour protéger votre petit cheptel.
+À "Mon Petit Poulailler", le moment des restes de cuisine est un vrai spectacle. Ce matin, **Julie** et **Martin** ont réuni **Anna** et **Lucas** pour une leçon importante. "Toutes nos épluchures ne sont pas des cadeaux," explique Julie. 
+
+Pendant que **Barnabé** le chien surveille les environs et que **Pistache** le chat finit sa sieste, nous trions ensemble ce qui ira au compost et ce qui ira aux poules. Transmettre ces réflexes aux enfants est essentiel pour protéger notre petit cheptel.
+
+![La famille trie les aliments pour les poules en toute sécurité](aliments-interdits.webp)
+
+---
 
 ## 📊 Synthèse visuelle de la Toxicité
 
@@ -34,70 +40,56 @@ style E fill:#fff4dd,stroke:#d4a017,stroke-width:2px
 style F fill:#e1f5fe,stroke:#01579b,stroke-width:2px
 {{< /mermaid >}}
 
-## 1. La Famille des Solanacées (Crues)
+---
 
-C'est l'erreur la plus fréquente au poulailler. Certains légumes de nos potagers sont dangereux lorsqu'ils sont crus ou encore verts.
+## 1. L'Avocat : Le danger invisible de la persine
+
+C'est l'alerte la plus critique de ce guide. L'avocat (fruit, peau et noyau) contient de la **persine**, une toxine fongicide. Pour une poule, l'ingestion de persine provoque souvent une détresse respiratoire foudroyante et des dommages cardiaques irréversibles. **Même en petite quantité, c'est un interdit absolu.**
+
+## 2. La Famille des Solanacées (Pommes de terre et Tomates)
+
+Certains légumes de nos potagers sont dangereux lorsqu'ils sont crus ou encore verts :
 
 | Aliment Toxique | Partie Dangereuse | Pourquoi ? |
 | :--- | :--- | :--- |
 | **Pomme de terre** | Peau, germes, zones vertes | Contient de la **solanine** (neurotoxique). |
 | **Tomate** | Tige, feuilles, fruits verts | Solanine concentrée dans les parties vertes. |
-| **Aubergine / Poivron** | Plante et fruits non mûrs | Toxines de la famille de la solanine. |
+| **Aubergine** | Plante et fruits non mûrs | Toxines irritantes pour le système digestif. |
 
 {{< conseil >}}
-**Le conseil de Martin :** Si vous voulez donner des pommes de terre, elles doivent être parfaitement cuites à l'eau et l'eau de cuisson doit être impérativement jetée. Pour en savoir plus, lisez notre [guide sur les pommes de terre]({{< ref "épluchures-de-pommes-de-terre-aux-poules-crues-ou-cuites-le-guide-de-sécurité-pour-les-débutants.md" >}}).
+**Le conseil de Martin :** Si vous voulez donner des pommes de terre, elles doivent être parfaitement cuites à l'eau et l'eau de cuisson doit être jetée. Pour plus de détails, lisez notre [guide sur les pommes de terre]({{< ref "épluchures-de-pommes-de-terre-aux-poules-crues-ou-cuites-le-guide-de-sécurité-pour-les-débutants.md" >}}).
 {{< /conseil >}}
 
-## 2. Fruits Exotiques et Pépins
+---
 
-Certains fruits sains pour nous sont de véritables poisons pour elles.
+## 3. Bulbes, Sel et Sucres
 
-* **L'Avocat :** La peau et le noyau contiennent de la **persine**, une toxine qui peut causer des troubles cardiaques foudroyants. Même **Pistache** la poule n'y a pas droit !
-* **Les Pépins et Noyaux :** Les pépins de pommes ou de poires contiennent de l'amygdaline, qui se transforme en **cyanure** lors de la digestion. Retirez impérativement le cœur des fruits !
+* **Oignons et Ail :** En excès, ils détruisent les globules rouges (anémie). De plus, ils altèrent le goût des œufs que **Anna** ramasse chaque matin.
+* **Le Sel :** Les poules ne l'éliminent pas. Les restes de plats industriels peuvent détruire leurs reins rapidement.
+* **Le Chocolat :** La théobromine est un poison cardiaque pour les volailles, tout comme pour les chiens.
 
-## 3. Bulbes et Odeurs Fortes
+---
 
-L'ail, l'oignon, le poireau et l'échalote (crus) s'attaquent aux globules rouges de la poule et peuvent provoquer une anémie. De plus, ils donnent un goût désagréable aux œufs frais que **Anna** ramasse chaque matin.
+## 4. Les bons réflexes au quotidien
 
-## 4. Sel, Sucre et Graisses
-
-* **Le Sel :** Les poules y sont extrêmement sensibles. Un excès de sodium entraîne une déshydratation sévère et des problèmes rénaux. Évitez absolument les plats cuisinés industriels.
-* **Le Chocolat :** Il contient de la théobromine, toxique pour leur cœur et leur système nerveux.
-
-{{< amazon asin="B00I0S8FEE" text="Voir le mélange de graines équilibré recommandé par Martin" >}}
-
-## 5. Légumineuses et Haricots Crus
-
-Les haricots secs crus contiennent de la **phytohémagglutinine**, une lectine extrêmement toxique qui provoque des lésions intestinales graves en quelques heures.
-
-## 📋 La "Liste Noire" récapitulative
+Lucas adore donner les restes, mais il suit désormais la règle d'or de Martin : **"Si c'est trop transformé, trop salé ou moisi pour nous, c'est interdit pour elles."**
 
 {{< conseil title="⚠️ LA LISTE NOIRE" icon="🚫" >}}
-* ❌ **Avocat** (peau et noyau)
-* ❌ **Chocolat** et bonbons
-* ❌ **Oignons et Ail crus**
-* ❌ **Parties vertes des pommes de terre**
-* ❌ **Pépins de pommes et poires**
-* ❌ **Haricots secs crus**
-* ❌ **Aliments moisis** (risque de botulisme mortel)
+* ❌ **Avocat** (Persine mortelle)
+* ❌ **Chocolat** (Théobromine)
+* ❌ **Pommes de terre crues/vertes** (Solanine)
+* ❌ **Haricots secs crus** (Phytohémagglutinine)
+* ❌ **Aliments moisis** (Risque de botulisme)
 {{< /conseil >}}
 
-## ⚠️ Urgence : Que faire en cas d'ingestion ?
-
-Si vous voyez l'une de vos poules léthargique, avec une diarrhée sévère ou en difficulté respiratoire après avoir mangé un aliment suspect :
-
-1. **Isolez** la poule dans un endroit calme.
-2. **Retirez** immédiatement la source de nourriture suspecte de l'enclos.
-3. **Hydratez-la** avec de l'eau fraîche et propre.
-4. **Contactez un vétérinaire** aviaire sans tarder.
+---
 
 ## Conclusion
 
-Un bon éleveur est un éleveur vigilant. Privilégiez toujours une base de granulés de qualité, de l'herbe fraîche et des légumes mûrs. Vos poules vous remercieront avec de magnifiques œufs sains pour toute la famille !
+Un poulailler en pleine forme commence par une gamelle sécurisée. Privilégiez les céréales, les légumes mûrs et l'herbe fraîche. Vos poules vous remercieront avec des œufs délicieux pour toute la famille !
 
 ---
 
 **À découvrir aussi :**
-
 * [Peut-on donner du pain aux poules ?]({{< ref "peut-on-donner-du-pain-aux-poules.md" >}})
-* [Guide complet des épluchures]({{< ref "épluchures-de-pommes-de-terre-aux-poules-crues-ou-cuites-le-guide-de-sécurité-pour-les-débutants.md" >}})
+* [Les 10 accessoires indispensables]({{< ref "les-10-accessoires-indispensables-pour-accueillir-vos-premières-poules-et-démarrer-sans-stress.md" >}})

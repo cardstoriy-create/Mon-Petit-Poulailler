@@ -3,9 +3,9 @@
 ## 1. 🎯 Identité et Vision du Projet
 Migration d'un blog Blogger vers Hugo. Transformation en guide élégant style "livre d'enfant".
 
-* **Personnages :** Martin (expert), Julie, Anna, Lucas, Barnabé et Pistache.
-* **Visuel :** Esthétique "fait main", couleurs douces, bordures irrégulières (Artist Grain).
-* **Stratégie :** Affiliation Amazon propre, sécurité alimentaire stricte, ton bienveillant.
+* **Personnages :** Martin (expert bienveillant), Julie, Anna (la petite fille aux couettes), Lucas, Barnabé et Pistache.
+* **Visuel :** Esthétique "fait main", couleurs douces, style **"Artist Grain"** (Aquarelle/Crayon).
+* **Stratégie :** Affiliation Amazon propre, sécurité alimentaire stricte, ton pédagogique.
 
 ---
 
@@ -14,7 +14,7 @@ Migration d'un blog Blogger vers Hugo. Transformation en guide élégant style "
 | N° | **Titre de l'Article** | Thématique | Statut |
 | :--- | :--- | :--- | :--- |
 | 10 | **Porte Automatique** | Matériel | ✅ Terminé |
-| 11 | **Aliments Interdits** | Nutrition | ✅ Terminé |
+| 11 | **Aliments Interdits** | Nutrition | 🎨 En cours (Illustration) |
 | 12 | **Abreuvoirs Chauffants** | Matériel | ✅ Terminé |
 | 13 | **Journal Jamstack** | Documentation | ✅ Créé (DOCS) |
 
@@ -23,71 +23,45 @@ Migration d'un blog Blogger vers Hugo. Transformation en guide élégant style "
 ## 3. ⚙️ Socle Technique et Infrastructure
 * **Moteur :** Hugo v0.153.2 (Extended).
 * **Thème :** Blowfish (Git Submodule).
-* **Langue :** Français (`fr`).
-* **Hébergement :** Cloudflare Pages (Migration actée).
-* **Documentation :** Protocole Jamstack disponible dans `DOCS/protocole-jamstack.md`.
+* **Hébergement :** Cloudflare Pages.
+* **Domaine :** `mon-petit-poulailler.com` (Namecheap + Cloudflare).
+* **Infrastructure Google Cloud :** Projet actif nommé `mon-petit-poulailler-pro`.
 
 ---
 
-## 4. 🛠️ Outils de Production
-* **Éditeur :** VS Code avec extensions Hugo & GitLens.
-* **Visuels :** Génération IA via prompts "Artist Grain" (Aquarelle/Crayon).
-* **Shortcodes :** `amazon.html` (Affiliation), `conseil.html` (Astuces), `mermaid` (Diagrammes).
+## 4. 🛠️ Outils de Production (Version AI Pro)
+* **IDE :** VS Code avec extension **Gemini Code Assist** (Officielle).
+* **CLI :** **Google Cloud SDK** installé et authentifié sur `cardstoriy@gmail.com`.
+* **Assistant IA :** Gemini 3.0 (Mode Agent activé).
+* **Visuels :** **Nano Banana Pro** (Style Artist Grain - 100 images 4K/jour).
+* **Quotas validés :** 500 prompts/jour, 200 actions agent/jour.
 
 ---
 
 ## 5. 🔄 Historique des Mises à Jour
-* **25 Déc. (13h) :** Migration technique Hugo v0.153.2 stable.
-* **25 Déc. (15h) :** Correction visuelle (Bordures 20px, suppression Hero automatique).
-* **25 Déc. (20h) :** Résolution du bug "Logo invisible" sur l'accueil.
-* **26 Déc. (00h) :** Création du dossier `DOCS` et rédaction du protocole Jamstack.
+* **25 Déc. :** Migration technique Hugo v0.153.2 stable et mise en ligne initiale.
+* **26 Déc. :** Tentatives infructueuses avec "Roo Code" et "Continue" (Limites de débit API).
+* **27 Déc. (Matin) :** Grand nettoyage. Désinstallation des extensions tierces.
+* **27 Déc. (Midi) :** Création du projet Google Cloud `mon-petit-poulailler-pro` et installation du Google Cloud CLI (SDK) sur Windows.
+* **27 Déc. (Après-midi) :** Configuration de la surveillance (Cloud Monitoring) et des alertes de quota par Email.
 
 ---
 
-## 6. Mise à jour de session (26 Décembre 2025)
+## 6. Mise à jour de session (27 Décembre 2025)
 
-### 🎯 Décisions prises
-* **Standardisation :** Adoption stricte du protocole Jamstack en 5 étapes pour sécuriser le développement.
-* **Documentation :** Centralisation des procédures techniques dans le dossier `DOCS/`.
-* **Optimisation Cloudflare :** Désactivation prévue de "Rocket Loader" et forçage de la version Go 1.24.0.
+### 🎯 Décisions et État Technique
+* **Validation de l'Infrastructure :** Le lien entre l'ordinateur local et le compte AI Pro est désormais opérationnel via le CLI (`gcloud`).
+* **Simplification :** Abandon total des projets orphelins (RooCode, etc.) au profit d'un projet unique et professionnel.
+* **Sécurisation :** Mise en place d'une règle d'alerte (Alert Policy) sur le service `cloudaicompanion.googleapis.com` avec notification par email en cas de pic d'utilisation (> 0.1/s).
+* **Mode Agent :** L'agent Gemini est désormais capable d'analyser la `@codebase` pour comprendre la structure du site Hugo.
 
-### 🚀 Étapes prioritaires
-1. **GitHub :** Pousser les modifications locales (Dossier DOCS + Rapport) vers le dépôt distant.
-2. **Cloudflare :** Connecter le dépôt pour lancer le premier déploiement automatisé.
-3. **Contenu :** Illustrer l'article "Aliments Interdits" avec le visuel de Martin et Anna.
+### 🚀 Étapes prioritaires pour la reprise
+1. **Production Visuelle :** Générer l'image n°11 (Martin et Anna) avec le prompt "Artist Grain" validé.
+2. **Intégration Hugo :** Placer le visuel dans `static/images/` et mettre à jour l'article `content/posts/article-11.md`.
+3. **Nettoyage Cloud :** Supprimer définitivement les anciens projets inutilisés (RooCode, Continue, Default) dans la console Google Cloud.
 
-
-## [26/12/2025] - Mise en ligne officielle (MVP)
-
-**Statut :** Succès ✅
-**Site :** https://www.mon-petit-poulailler.com/
-
-**Accomplissements :**
-1. **Environnement de développement :**
-   - Installation de Go 1.23.0 et Hugo Extended 0.139.0.
-   - Initialisation du dépôt Git et clonage du thème Blowfish.
-
-2. **Configuration Technique :**
-   - Correction du fichier `hugo.toml` (Langue par défaut `fr`).
-   - Résolution du conflit de version Hugo/Blowfish sur Cloudflare (Upgrade vers Hugo 0.141.0).
-
-3. **Déploiement & Domaine :**
-   - Site hébergé sur Cloudflare Pages.
-   - Domaine `mon-petit-poulailler.com` (Namecheap) relié via les DNS Cloudflare.
-   - Sécurisation SSL (HTTPS) active.
-
-   Date : 26 Décembre 2025.
-
-🎯 Décisions :
-
-Configuration réussie de l'extension Roo Code avec une clé API Google Gemini.
-
-Mise à jour du shortcode conseil.html pour accepter des titres et icônes personnalisés.
-
-Intégration d'une "Liste Noire" visuelle pour les aliments toxiques.
-
-🚀 Prochaines étapes :
-
-Générer les images pour les autres membres de la famille (Julie, Lucas).
-
-Vérifier le rendu mobile des boîtes de conseil.
+* **27 Déc. (Fin de journée) :** * Intégration de l'article n°11 "Aliments Interdits".
+    * Ajout de deux illustrations WebP (feature.webp en 16:9 et aliments-interdits.webp).
+    * Mise à jour des standards visuels : rotation des personnages (Julie, Lucas, Anna) et présence des animaux (Barnabé, Pistache).
+    * Correction de la sécurité avicole (Alerte Persine dans l'avocat).
+    * Vérification réussie de l'activité API dans la console Google Cloud.
