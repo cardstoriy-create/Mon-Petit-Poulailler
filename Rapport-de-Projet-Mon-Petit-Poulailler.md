@@ -65,3 +65,8 @@ Migration d'un blog Blogger vers Hugo. Transformation en guide élégant style "
     * Mise à jour des standards visuels : rotation des personnages (Julie, Lucas, Anna) et présence des animaux (Barnabé, Pistache).
     * Correction de la sécurité avicole (Alerte Persine dans l'avocat).
     * Vérification réussie de l'activité API dans la console Google Cloud.
+
+### ✅ Session du 27 Décembre - Synchronisation Jamstack
+* **Action :** Audit de conformité avec `DOCS/protocole-jamstack.md`.
+* **Résultat :** Synchronisation réussie des versions sur Cloudflare Pages (Hugo 0.152.2 / Go 1.24.0).
+* **Statut technique :** Workflow CI/CD validé à 100%. Le rendu local est désormais identique au rendu en ligne.
