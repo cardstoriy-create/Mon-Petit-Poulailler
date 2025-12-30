@@ -1,0 +1,108 @@
+A faire : Centraliser ton Identifiant Partenaire (Tracking ID) dans la configuration de Hugo te permettra de le mettre à jour en une seule seconde sur tout le site si jamais tu devais changer de compte Amazon.
+
+Une fois les articles terminés, consulter le fichier "Modification_liens_amazon.md" pour plus de détails
+	C:\Users\madji\Documents\Mon-Petit-Poulailler\_Mon-Petit-Poulailler_ressources\
+
+
+----------------------------------------------------------
+Environnement de travail du projet "Mon Petit Poulailler"
+PowerShell Extension v2025.4.0 installé
+Hugo version ...
+Gemini Cod Assist
+Console Google cloud (?)
+----------------------------------------------------------
+Gestion des scripts (fichier) : scripts/Set-Article.ps1
+Mise à jour des scripts (commande dans Terminal ): .\scripts\Set-Article.ps1
+Mise à jour fichier Journal "Rapport-de-Projet-Mon-Petit-Poulailler.md"
+
+	IMPORTANT : pour mise à jour du Journal, vérifier que le scipt est en mode "APPEND" (Sinon il écrase le fichier)
+
+	# =========================================================================================
+	# SCRIPT : Update-Journal.ps1 (MODE APPEND - SUIVI LOG)
+	# RÔLE : Ajoute une entrée au journal sans effacer l'historique
+	# =========================================================================================
+
+Possibilité de rappeler dans la discussion, cela permet de l'intégrer immédiatement à notre contexte de session  : 
+	coller le contenu des Instructions de "Rapport-de-Projet-Mon-Petit-Poulailler.md"
+	dans le chat de discussion et écrire "Mets à jour tes connaissances avec ce nouveau journal."
+----------------------------------------------------------
+Children's book illustration, 16:9 Aspect Ratio, Full Bleed Image (No white borders, No vignetting). Hand-drawn aesthetic on thick watercolor paper texture covering the entire canvas.
+Style: Soft watercolor washes, colored pencil hatching. Warm pastel colors (cream, sunny yellow, sky blue).
+Negative Constraints: NO TEXT, NO WRITING, NO CAPTIONS. No white background, no empty margins, no isolated characters. The sky and grass must fill the edges.
+
+
+Ecrire un prompt pour lui demander de se conformer à ses "Instructions" de gem et aux images de référence de ses "connaissances" (fichier "Guide-Visuel-Illustrateur-Doux-Nano-Banana.md", images "Reference-Style.jpg" pour le style pictural général, "Reference-DogAndCat.jpg" pour le chien et le chat, "Reference-Family.jpg" pour les membres de la famille)
+
+Barnabé (The Dog)
+Pistache (The Cat)
+Martin (The Father)
+Julie (The Mother)
+Anna (The Daughter)
+Lucas (The Son)
+
+"Reference-Style.jpg" : pour le style pictural général"
+"Reference-DogAndCat.jpg" : pour le chien et le chat"
+"Reference-Family.jpg" : pour la famille
+"ReferenceScenery.jpg" : pour la maison familiale, le potager,l'arbre
+
+
+------------------------------------------   paraméttrages du mode "Ingénieur DevOps" 30/12/2025   ----------------------------------------------------------
+
+Nous passons d'un mode "Assistant de rédaction" à un mode "Ingénieur DevOps" où je prépare les outils et tu valides leur exécution.
+- Le collage direct dans la console Windows peut parfois transformer certains accents ou caractères spéciaux en symboles illisibles. Pour garantir un encodage UTF-8 sans BOM pour que Hugo puisse lire les fichiers correctement. Passer par un fichier .ps1 garantit que le texte est sauvegardé exactement tel qu'il apparaît dans l'éditeur VS Code. 
+
+
+1. Faut-il un fichier .ps1 par article ?
+Non, ce ne serait pas efficace à long terme. Au lieu de cela, nous allons utiliser un Script de Déploiement Maître unique.
+
+Plutôt que de créer article1.ps1, article2.ps1, etc., nous utiliserons un seul script nommé Update-Content.ps1.
+
+Ce script contiendra des variables (Titre, Contenu, Dossier) que nous mettrons à jour à chaque fois.
+
+Cela permet de garder un environnement propre sans accumuler des dizaines de scripts orphelins.
+
+
+2. Optimisation du mode "Ingénieur DevOps"
+Pour élever ton projet au standard professionnel, je te suggère de créer un dossier spécifique à la racine de ton projet :
+
+Dossier suggéré : C:\Users\madji\Documents\Mon-Petit-Poulailler\scripts\
+
+À l'intérieur de ce dossier, nous placerons trois types de fichiers essentiels :
+Update-Article.ps1, Sync-Images.ps1, Build-Test.ps1
+
+
+
+PowerShell Extension v2025.4.0 installé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

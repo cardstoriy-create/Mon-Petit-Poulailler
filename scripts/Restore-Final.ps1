@@ -1,3 +1,17 @@
+# Script : Restore-Final.ps1
+# Mission : Restaurer l'article "Réglementation Ville" (Version Complète France/Belgique + Images)
+$Utf8NoBom = New-Object System.Text.UTF8Encoding($false)
+
+# Chemin absolu basé sur l'emplacement actuel
+$BaseDir = Get-Location
+$DirPath = "$BaseDir/content/posts/reglementation-poulailler-ville"
+
+# Sécurité : Création du dossier si inexistant
+if (!(Test-Path $DirPath)) { 
+    New-Item -ItemType Directory -Path $DirPath -Force 
+}
+
+$Content = @"
 ---
 title: "Installer un Poulailler en Ville : Ce que dit la Loi en France et en Belgique (Guide 2025)"
 date: 2025-12-12T10:00:00Z
@@ -81,3 +95,9 @@ En conclusion, avoir un poulailler en ville est une expérience merveilleuse qui
 Prêt à choisir votre modèle ? N'oubliez pas de vérifier votre règlement de copropriété ou votre bail si vous êtes locataire, car ces documents privés peuvent parfois interdire les animaux de ferme, même si la mairie l'autorise.
 
 **Alors, quand accueillez-vous vos premières citadines ?**
+"@
+
+# Écriture du fichier index.md
+[System.IO.File]::WriteAllLines("$DirPath/index.md", $Content, $Utf8NoBom)
+
+Write-Host "✅ Fichier index.md restauré avec succès (Version complète France/Belgique) !" -ForegroundColor Green

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Pourquoi mes poules ne pondent plus ? 5 Raisons & Solutions"
 date: 2025-12-22T18:01:00Z
 draft: false
@@ -33,11 +33,11 @@ Pour un trio de poules (la taille idéale pour débuter), voici les quantités e
 | Produit | Utilité & Conseil Quantité | Voir le prix |
 | :--- | :--- | :--- |
 | **Coquilles d'Huîtres** | Calcium pur. **Un sac de 5kg** suffit pour environ 6 mois pour 3 poules. | [Voir sur Amazon](https://amzn.to/4qtImV0) |
-| **Mélange de Graines** | Riche en protéines. **Comptez ~15kg par mois** pour nourrir 3 poules. | [Voir sur Amazon](https://amzn.to/490aF7O) |
+| **Mélange de Graines** | Riche en protéines. **Comptez ~15kg par mois** pour nourrir 3 poules. | [Voir sur Amazon](https://amzn.to/45y9Xw7) |
 | **Porte ChickenGuard** | **Résiste au gel.** Le seul moteur capable de soulever votre propre trappe en bois (DIY). | [Voir sur Amazon](https://amzn.to/3NkZVIr) |
 
 ## 4. Le stress et la sécurité du poulailler
-Une poule stressée cesse immédiatement de pondre. La présence d'un prédateur ou une infestation de [poux rouges]({{< ref "poux-rouges-guide" >}}) peut traumatiser vos oiseaux. Sécuriser l'habitat avec une [porte automatique]({{< ref "porte-automatique-guide" >}}) aide à stabiliser leur environnement.
+Une poule stressée cesse immédiatement de pondre. La présence d'un prédateur ou une infestation de [poux rouges](/posts/poux-rouges-guide/) peut traumatiser vos oiseaux. Sécuriser l'habitat avec une [porte automatique]({{< ref "porte-automatique-guide" >}}) aide à stabiliser leur environnement.
 
 ## 5. L'âge et la génétique
 Enfin, la capacité de ponte diminue avec le temps. [Le choix de la race]({{< ref "meilleure-race-debutant" >}}) influence grandement la régularité. Les poules rousses pondent intensément durant deux ans, alors que les races anciennes pondent moins mais sur une période plus longue.  
@@ -46,4 +46,4 @@ Enfin, la capacité de ponte diminue avec le temps. [Le choix de la race]({{< re
 Le nichoir vide n'est pas une fatalité. En assurant une sécurité optimale et une alimentation riche, vous aiderez vos protégées à traverser ces cycles naturels.
 
 ---
-**À découvrir aussi :** [Poux rouges : le guide de survie pour protéger votre poulailler]({{< ref "poux-rouges-guide" >}})
+**À découvrir aussi :** [Poux rouges : le guide de survie pour protéger votre poulailler](/posts/poux-rouges-guide/)

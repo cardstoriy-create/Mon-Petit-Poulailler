@@ -97,32 +97,3 @@ Migration d'un blog Blogger vers Hugo. Transformation en guide élégant style "
     * Utilisation de l'image `feature.webp` dans le corps du texte pour améliorer le storytelling visuel avec Anna.
 * **Maintenance** : 
     * Validation du flux de travail standard par copier-coller manuel pour éviter les erreurs de terminal.
----
-## 📝 ENTRÉE DU 30/12/2025 - 17:42
-**Actions réalisées :**
-- ✅ Déploiement de l'article **N°17 (Réglementation Ville 2026)**.
-- ✅ Déploiement de l'article **N°16 (Accessoires Indispensables 2026)**.
-- ✅ Validation du protocole visuel **Artist Grain** (Pistache, Anna, Martin).
-- 🛠️ Installation et configuration de **PowerShell Extension v2025.4.0**.
-- 🛠️ Création de la boîte à outils DevOps (Set-Article, Sync-Images, Build-Test).
-
-**État technique :** Site compilé avec succès (79 pages, 47 images traitées).
-**Note :** L'encodage UTF-8 sans BOM est désormais le standard forcé pour tous les nouveaux fichiers.
-
----
-## 📝 ENTRÉE DU 30/12/2025 - 18:06
-**Actions réalisées :**
-- ✅ Déploiement de l'article **N°08 (Choisir la litière 2026)**.
-- ✅ Validation de l'alerte santé (Avocat/Chocolat) et du tableau comparatif.
-- ✅ Vérification de la cohérence des visuels "Artist Grain" (feature, chanvre, entretien).
-- 🛠️ Synchronisation des Page Bundles effectuée.
-
-**État technique :** Article compilé et prêt pour le déploiement Cloudflare.
-
----
-## 📝 Entrée du 30/12/2025 19:15
-- **Stabilité Technique** : Build Hugo OK (4.3s). Correction définitive des erreurs REF_NOT_FOUND.
-- **Contenu Sécurisé** : Finalisation des articles "Pommes de terre" (Solanine) et "Pain" (Sel/Moisissures).
-- **Affiliation** : Validation des produits Eggersmann (Graines) et Ida Plus (Grit) avec clause de transparence.
-- **État du site** : 81 pages générées, terminal 100% vert. 🟢
----
