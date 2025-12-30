@@ -126,3 +126,22 @@ Migration d'un blog Blogger vers Hugo. Transformation en guide élégant style "
 - **Affiliation** : Validation des produits Eggersmann (Graines) et Ida Plus (Grit) avec clause de transparence.
 - **État du site** : 81 pages générées, terminal 100% vert. 🟢
 ---
+## 📅 Journal de bord - 31/12/2025 à 00:45
+### 🚀 Session de Finalisation et Déploiement (Passage 2025-2026)
+
+**Incidents résolus :**
+- [x] **Restauration de fichiers :** Récupération des articles *Accessoires* et *Réglementation* qui avaient été écrasés.
+- [x] **Correction Git :** Résolution du conflit d'éditeur (Vim) lors du commit.
+
+**Actions de production :**
+- [x] **Contenu Réglementation :** Ajout des spécificités "Belgique" et "Nuisances/Voisinage".
+- [x] **Images :** Validation des liens pour coq-en-ville.webp, declaration-urbanisme.webp, eature.webp.
+- [x] **SEO & Titrage :** Mise à jour du titre vers **"Guide 2026"** pour l'article sur la loi.
+- [x] **Déploiement :** git push effectué avec succès sur la branche master.
+
+**État actuel du projet :**
+- ✅ **Site en Ligne :** 100% Fonctionnel.
+- ✅ **Inventaire :** Complet (Tous les articles prévus sont publiés).
+- 🟢 **Statut :** PRÊT POUR 2026.
+
+---
