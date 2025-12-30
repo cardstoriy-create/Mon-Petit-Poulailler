@@ -9,7 +9,7 @@ Gestion des thèmes : Ajouter le thème en tant que Git Submodule pour garder le
 Extensions VS Code : Installer Hugo Language Support pour la coloration et GitLens pour le suivi.
 
 2. Le Cycle de Développement Iterative Loop
-C'est la phase de création quotidienne.
+c"est la phase de création quotidienne.
 
 Lancement du serveur local : Utiliser hugo server -D pour visualiser les changements en temps réel.
 
@@ -18,7 +18,7 @@ Rédaction en Markdown : Créer du contenu via hugo new posts/mon-article.md.
 Gestion des Assets : Placer les images dans les dossiers static/ ou assets/.
 
 3. Protocole de Gestion de Version GitHub
-C'est ici que la collaboration et la sauvegarde interviennent.
+c"est ici que la collaboration et la sauvegarde interviennent.
 
 Le fichier .gitignore : Exclure le dossier public/ car Cloudflare le reconstruira.
 

@@ -19,7 +19,7 @@ La ponte est régie par le système hormonal de la poule, lequel est stimulé pa
 
 En dessous de 12 à 14 heures de lumière**, la production d'œufs ralentit ou s'arrête totalement.
 
-C'est une pause naturelle qui permet à la poule de préserver ses ressources énergétiques durant l'hiver.
+c"est une pause naturelle qui permet à la poule de préserver ses ressources énergétiques durant l'hiver.
 
 ## 2. La mue annuelle : un chantier énergétique
 Chaque année, généralement à l'automne, vos poules renouvellent leur plumage.

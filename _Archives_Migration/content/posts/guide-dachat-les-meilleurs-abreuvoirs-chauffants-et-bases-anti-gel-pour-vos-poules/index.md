@@ -57,7 +57,7 @@ Portabilité :** Peuvent être déplacés facilement d'un récipient à l'autre.
 Chaleur Directe :** Chauffe l'eau de l'intérieur, assurant une diffusion rapide de la chaleur.
 
 ## ❌ Inconvénients et Points de Vigilance
-Sécurité Électrique :** Nécessite une grande vigilance. Le câble et la résistance doivent être parfaitement isolés et éloignés de la portée des poules pour éviter tout picotage.
+Sécurité Électrique :** Nécessite une grande vigilance. Le c" et la résistance doivent être parfaitement isolés et éloignés de la portée des poules pour éviter tout picotage.
 
 Protection :** Doit être utilisé dans un récipient suffisamment grand pour que la résistance ne touche pas le fond ou les parois et ne surchauffe pas.
 

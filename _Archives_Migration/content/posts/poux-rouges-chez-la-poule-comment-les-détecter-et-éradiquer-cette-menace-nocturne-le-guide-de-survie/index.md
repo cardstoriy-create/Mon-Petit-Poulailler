@@ -8,9 +8,9 @@ aliases: [""]
 ---
 
 ## 🆘 Poux Rouges chez la Poule : Comment les Détecter et Éradiquer cette Menace Nocturne ? Le Guide de Survie
-Si vous entendez parler de la **maladie poule** la plus courante et la plus redoutée, c'est certainement celle des **poux rouges poule**. Ces parasites microscopiques sont les véritables terreurs du poulailler. Pour un débutant, leur présence est souvent un choc, car ils agissent avec une discrétion redoutable.
+Si vous entendez parler de la **maladie poule** la plus courante et la plus redoutée, c"est certainement celle des **poux rouges poule**. Ces parasites microscopiques sont les véritables terreurs du poulailler. Pour un débutant, leur présence est souvent un choc, car ils agissent avec une discrétion redoutable.
 
-Le pou rouge (Dermanyssus gallinae) n'est pas un pou ordinaire. C'est un acarien hématophage (qui se nourrit de sang) et surtout, il est **nocturne**. Le jour, il se cache dans les fissures, les recoins sombres du bois, et sous les litières. La nuit, il sort par milliers pour se gaver du sang de vos poules sur leurs perchoirs. Sans intervention rapide, l'infestation mène à l'anémie sévère, à l'affaiblissement, à l'arrêt de la ponte et, dans les cas extrêmes, à la mort des animaux les plus fragiles.
+Le pou rouge (Dermanyssus gallinae) n'est pas un pou ordinaire. c"est un acarien hématophage (qui se nourrit de sang) et surtout, il est **nocturne**. Le jour, il se cache dans les fissures, les recoins sombres du bois, et sous les litières. La nuit, il sort par milliers pour se gaver du sang de vos poules sur leurs perchoirs. Sans intervention rapide, l'infestation mène à l'anémie sévère, à l'affaiblissement, à l'arrêt de la ponte et, dans les cas extrêmes, à la mort des animaux les plus fragiles.
 
 Notre objectif est de vous donner les outils pour identifier cette menace au plus vite et savoir exactement comment **traiter poulailler** efficacement.
 
@@ -20,7 +20,7 @@ Les poux rouges sont difficiles à observer de jour. Vous devez donc apprendre �
 ## 1. Comportement Nocturne Anormal des Poules
 Le signe le plus précoce est la gène ressentie par les poules la nuit.
 
-**Refus de se percher :** Les poules, normalement, se perchent pour dormir. Si elles préfèrent dormir au sol dans les pondoirs, c'est souvent parce que les perchoirs sont infestés et que les poux les piquent sans arrêt.
+**Refus de se percher :** Les poules, normalement, se perchent pour dormir. Si elles préfèrent dormir au sol dans les pondoirs, c"est souvent parce que les perchoirs sont infestés et que les poux les piquent sans arrêt.
 
 **Irritation et picage :** Elles sont agitées la nuit, se secouent, se grattent ou se piquent pour tenter de chasser les acariens.
 
@@ -59,12 +59,12 @@ L'éradication des poux rouges est un travail méticuleux qui demande de la rigu
 **Concentrez-vous sur l'habitat :** Placez un bain de poussière à base de **Terre de Diatomée** dans le parc. Les poules se poudreront elles-mêmes, ce qui aidera à les débarrasser des poux qui resteraient sur leur peau.
 
 ## Étape 4 : Le Contrôle et la Répétition
-Les œufs de poux rouges peuvent éclore plusieurs jours après le traitement initial. **Il est vital de répéter le traitement complet 5 à 7 jours après le premier nettoyage**, et encore une troisième fois si nécessaire. C'est la clé de la réussite.
+Les œufs de poux rouges peuvent éclore plusieurs jours après le traitement initial. **Il est vital de répéter le traitement complet 5 à 7 jours après le premier nettoyage**, et encore une troisième fois si nécessaire. c"est la clé de la réussite.
 
 ## 🌿 Prévention : Les méthodes naturelles pour les éloigner durablement
 Une fois le poulailler sain, il faut prévenir toute réinfestation. Le secret réside dans l'entretien régulier.
 
-**La Terre de Diatomée (TD) :** C'est l'arme naturelle absolue pour tout éleveur. Cette poudre, composée de micro-squelettes d'algues fossiles, est non toxique pour l'homme et la poule, mais coupe la carapace des acariens, les desséchant.
+**La Terre de Diatomée (TD) :** c"est l'arme naturelle absolue pour tout éleveur. Cette poudre, composée de micro-squelettes d'algues fossiles, est non toxique pour l'homme et la poule, mais coupe la carapace des acariens, les desséchant.
 
 **Utilisation préventive :** Saupoudrez généreusement et régulièrement le fond des pondoirs et la litière.
 

@@ -20,7 +20,7 @@ aliases: [""]
 
 
 
-    L'arrivée de l'hiver est souvent source d'inquiétude. On entend souvent que les poules, robustes, ne craignent pas le froid. C'est vrai… jusqu'à un certain point. Ce n'est pas le **froid sec** qui est dangereux, mais l'**humidité** combinée aux courants d'air. En tant qu'expert pour **Mon Petit Poulailler**, je vous guide pour transformer votre installation en un refuge sûr grâce au bon matériel antigel.
+    L'arrivée de l'hiver est souvent source d'inquiétude. On entend souvent que les poules, robustes, ne craignent pas le froid. c"est vrai… jusqu'à un certain point. Ce n'est pas le **froid sec** qui est dangereux, mais l'**humidité** combinée aux courants d'air. En tant qu'expert pour **Mon Petit Poulailler**, je vous guide pour transformer votre installation en un refuge sûr grâce au bon matériel antigel.
 
 
 
@@ -63,7 +63,7 @@ Lien interne : Découvrez notre [**Guide d'achat des meilleurs abreuvoirs chauff
 
 ## 3. L'Éclairage Additionnel : Maîtriser la photopériode
 
-Pourquoi la ponte chute-t-elle ? C'est une question de lumière, pas seulement de froid. La **glande pinéale** de la poule a besoin de **14 heures de lumière** par jour pour stimuler l'ovulation.
+Pourquoi la ponte chute-t-elle ? c"est une question de lumière, pas seulement de froid. La **glande pinéale** de la poule a besoin de **14 heures de lumière** par jour pour stimuler l'ovulation.
 
 
 

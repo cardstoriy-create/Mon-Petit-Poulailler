@@ -10,7 +10,7 @@ aliases: [""]
 &nbsp;
 
 ## 🥔 Épluchures de pommes de terre aux poules : Crues ou cuites ? Le Guide de Sécurité pour les Débutants
-L'un des grands plaisirs d'avoir un **poulailler jardin** est de pouvoir valoriser ses **restes de cuisine**. Éviter le gaspillage tout en offrant une gâterie à ses poules, c'est idéal ! Cependant, face aux épluchures de pommes de terre, une question de sécurité cruciale se pose : sont-elles comestibles, ou représentent-elles un danger pour nos petites pondeuses ?
+L'un des grands plaisirs d'avoir un **poulailler jardin** est de pouvoir valoriser ses **restes de cuisine**. Éviter le gaspillage tout en offrant une gâterie à ses poules, c"est idéal ! Cependant, face aux épluchures de pommes de terre, une question de sécurité cruciale se pose : sont-elles comestibles, ou représentent-elles un danger pour nos petites pondeuses ?
 
 La pomme de terre, et surtout sa peau, contient une substance toxique naturelle méconnue, qui peut provoquer des troubles graves, voire fatals, si elle est mal préparée. En tant que nutritionniste avicole, je vous propose un guide simple et clair pour éviter toute erreur. Découvrez pourquoi la préparation est vitale et comment offrir ces précieux **restes de cuisine** en toute sécurité à vos poules.
 
@@ -36,7 +36,7 @@ Si vos poules consomment une quantité significative d'épluchures crues ou de g
 
 **Paralysie :** Dans les cas les plus graves, la solanine attaque le système nerveux, pouvant entraîner une paralysie respiratoire et la mort.
 
-C'est pourquoi, en **alimentation poule**, la règle est stricte : **ne donnez jamais d'épluchures de pommes de terre crues.**
+c"est pourquoi, en **alimentation poule**, la règle est stricte : **ne donnez jamais d'épluchures de pommes de terre crues.**
 
 ## Comment les préparer pour qu'elles deviennent comestibles ?
 La bonne nouvelle est que la **solanine** est hydrosoluble et thermolabile, ce qui signifie qu'elle est désactivée par l'eau et la chaleur.
@@ -48,7 +48,7 @@ La seule méthode infaillible pour rendre les épluchures et les restes de pomme
 
 **Cuisson à l'eau (méthode de référence) :** Placez les épluchures dans une casserole d'eau bouillante et laissez-les cuire pendant au moins **15 à 20 minutes**. Assurez-vous qu'elles soient bien tendres.
 
-**Égouttage impératif :** C'est l'étape clé ! Jetez l'eau de cuisson. Une partie importante de la solanine dissoute se trouve dans cette eau. Ne donnez jamais cette eau à vos animaux.
+**Égouttage impératif :** c"est l'étape clé ! Jetez l'eau de cuisson. Une partie importante de la solanine dissoute se trouve dans cette eau. Ne donnez jamais cette eau à vos animaux.
 
 **Préparation pour l'assiette :** Écrasez les épluchures cuites et refroidies. Vous pouvez les mélanger à d'autres aliments non toxiques (comme des légumes cuits ou leur alimentation habituelle) pour former une pâtée appétente.
 

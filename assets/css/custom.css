@@ -1,3 +1,20 @@
+/* --- Mise en page Globale (Effet Livre) --- */
+.prose {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+/* --- Ajustement du Hero via Tailwind --- */
+.hero-image {
+    @apply object-contain w-full h-full !important;
+    background-color: transparent !important;
+}
+
+.hero-image-container {
+    @apply flex items-center justify-center overflow-visible !important;
+    aspect-ratio: auto !important;
+}
+
 /* --- Styles Amazon (Standard 2025) --- */
 .amazon-container { margin: 2.5rem 0; display: flex; justify-content: center; }
 .amazon-card {

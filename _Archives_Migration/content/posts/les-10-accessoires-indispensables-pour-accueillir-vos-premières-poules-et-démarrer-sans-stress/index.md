@@ -22,7 +22,7 @@ Si vous hésitez encore, n'hésitez pas à consulter le comparatif pour vous aid
 L'habitat est le pilier de votre projet. Un poulailler sécurisé et confortable est synonyme de poules en bonne santé et de ponte régulière.
 
 ## 1. Le Poulailler (L'abri de nuit)
-C'est l'investissement le plus important. Il doit protéger vos poules des prédateurs nocturnes et des intempéries.
+c"est l'investissement le plus important. Il doit protéger vos poules des prédateurs nocturnes et des intempéries.
 
 Critères :** Surface de couchage d'au moins $0,5 m, 2$ par poule, bois traité (ou plastique durable), et surtout, des fermetures métalliques robustes.
 
@@ -91,7 +91,7 @@ Matériel recommandé :** Coquilles d'huîtres concassées.
 La prévention est votre meilleure arme contre les parasites et les maladies. Ces produits vous permettront de maintenir une hygiène irréprochable.
 
 ## 8. La Terre de Diatomée (L'anti-parasite Naturel)
-La Terre de Diatomée (TD)** est non toxique et indispensable. C'est l'outil numéro un pour l'hygiène et la prévention des infestations.
+La Terre de Diatomée (TD)** est non toxique et indispensable. c"est l'outil numéro un pour l'hygiène et la prévention des infestations.
 
 Critères :** Choisissez impérativement la TD non calcinée** (amorphe) de grade alimentaire.
 

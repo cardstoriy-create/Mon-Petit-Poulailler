@@ -1,7 +1,10 @@
 ---
 title: "Comment protéger vos poules des prédateurs nocturnes : Les conseils de Martin"
-date: 2025-12-27T10:00:00Z
+date: 2025-12-27
 draft: false
+author: "Martin"
+categories: ["Conseils Élevage"]
+tags: ["Sécurité", "Prédateurs"]
 summary: "Découvrez les astuces de Martin et Barnabé pour sécuriser votre poulailler contre les renards et autres prédateurs nocturnes."
 showTaxonomies: true
 showHero: true
@@ -25,20 +28,10 @@ Pour garantir une protection maximale, Martin vérifie systématiquement trois �
 * **Le grillage enterré :** Le grillage doit être solide et enterré d'au moins 30 cm pour empêcher les prédateurs de creuser dessous.
 * **L'absence de nourriture :** Martin retire systématiquement les restes de nourriture le soir pour ne pas attirer les rongeurs, qui attirent à leur tour les plus gros prédateurs.
 
-{{< alert icon="lightbulb" >}}
-**Le conseil de Martin :** Un poulailler mal fermé est la cause n°1 de perte de volailles. Si vous rentrez tard, l'installation d'une [porte automatique]({{< ref "porte-automatique-guide" >}}) est le meilleur investissement pour la survie de vos poules.
-{{< /alert >}}
+![Julie, Lucas et Anna vérifient la solidité du grillage enterré](securite-enfants.webp)
 
-## Matériel recommandé pour sécuriser un petit poulailler (3-4 poules)
-
-Martin a sélectionné ces équipements essentiels pour garantir des nuits sereines à vos protégées. Ces produits sont robustes et adaptés à un élevage familial :
-
-| Équipement | Utilité | Voir le prix |
-| :--- | :--- | :--- |
-| **Grillage Galvanisé** | Protection périmétrique anti-renard (mailles serrées). | [Voir sur Amazon](https://amzn.to/4pqUaXm) |
-| **Verrou à Ressort** | Sécurité anti-intrusion renforcée pour la porte. | [Voir sur Amazon](https://amzn.to/3KQZjd1) |
-| **Projecteur Solaire** | Dissuasion nocturne automatique par détection. | [Voir sur Amazon](https://amzn.to/498FaXS) |
+> **⚠️ Attention Sécurité :** Un poulailler mal fermé est la cause n°1 de perte de volailles en milieu périurbain. Restez vigilants !
 
 ## L'astuce technologique de Martin
 
-Pour plus de confort, Martin a installé une [porte automatique programmable]({{< ref "porte-automatique-guide" >}}). Cela permet aux poules d'être enfermées à heure fixe, même si la famille est occupée à l'intérieur avec Julie et les enfants. C'est un investissement que nous recommandons vivement pour une tranquillité d'esprit totale.
+Pour plus de confort, Martin a installé une [porte automatique programmable]({{< ref "sécurité-maximale-et-grasse-matinée-assurée-la-porte-automatique-de-poulailler-gadget-ou-investissement-indispensable.md" >}}). Cela permet aux poules d'être enfermées à heure fixe, même si la famille est occupée à l'intérieur avec Julie et les enfants. c"est un investissement que nous recommandons vivement pour une tranquillité d'esprit totale.

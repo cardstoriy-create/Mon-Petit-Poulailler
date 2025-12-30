@@ -12,12 +12,12 @@ aliases: [""]
 ## 🥖 Peut-on donner du pain aux poules ? La vérité sur les quantités, les dangers et la bonne manière de le préparer
 Nous avons tous, un jour ou l'autre, une baguette qui sèche sur le comptoir ou des restes de pain de la veille. Notre réflexe, souvent louable, est de vouloir recycler ce gaspillage en le donnant à nos poules. Après tout, le pain est une céréale, et les poules mangent des graines, n'est-ce pas ?
 
-La réponse à la question "Peut-on donner du pain aux poules ?" est nuancée : **Oui, c'est possible, mais uniquement sous des conditions très strictes et jamais en grande quantité.**
+La réponse à la question "Peut-on donner du pain aux poules ?" est nuancée : **Oui, c"est possible, mais uniquement sous des conditions très strictes et jamais en grande quantité.**
 
 Le pain est l'une des erreurs d'**[alimentation](https://mon-petit-poulailler.blogspot.com/2025/12/epluchures-de-pommes-de-terre-aux.html) poule** les plus fréquentes chez les débutants. Mal préparé ou donné en excès, il peut rapidement devenir une source de déséquilibre alimentaire, voire un danger pour la santé de vos pondeuses. En tant que nutritionniste avicole, je vous apporte la vérité scientifique sur ce qu'il faut faire, ce qu'il faut éviter, et la quantité exacte à respecter pour garder votre petit élevage en pleine forme.
 
 ## ⚠️ Les dangers principaux du pain sec et en excès
-Le pain n'est pas toxique en soi, mais c'est un aliment **très déséquilibré** pour une poule. Le problème vient de sa composition et de la manière dont il interagit avec le système digestif aviaire.
+Le pain n'est pas toxique en soi, mais c"est un aliment **très déséquilibré** pour une poule. Le problème vient de sa composition et de la manière dont il interagit avec le système digestif aviaire.
 
 ## 1. Le Piège du Sel (Excès de sodium)
 Le pain, même non salé à la maison, contient naturellement du sel, souvent en quantité importante pour l'homme. Le système rénal des poules est très peu efficace pour gérer les excès de sodium.
@@ -56,7 +56,7 @@ Le pain doit être considéré comme une gâterie occasionnelle.
 
 **Règle d'or :** Ne donnez jamais de pain plus d'une **fois par semaine**, et la portion ne doit pas excéder l'équivalent d'une petite cuillère à soupe par poule.
 
-C'est un complément, pas une base. Il ne doit jamais rester de pain non consommé dans le poulailler à la fin de la journée.
+c"est un complément, pas une base. Il ne doit jamais rester de pain non consommé dans le poulailler à la fin de la journée.
 
 ## ⛔ Quels types de pain sont absolument interdits ?
 Il existe des restes de pain qui ne devraient **jamais** franchir le seuil de votre poulailler, même cuits ou trempés.
