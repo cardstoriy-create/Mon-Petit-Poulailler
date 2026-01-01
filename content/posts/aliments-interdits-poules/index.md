@@ -8,14 +8,10 @@ tags: ["Nutrition", "Danger", "Sécurité"]
 summary: "Apprenez à identifier les aliments toxiques comme l'avocat ou le chocolat pour garantir la santé de vos poules avec les conseils de Martin."
 showTaxonomies: true
 showHero: true
-featureImage: "feature.webp"
+feature: "feature.webp"
 ---
 
-# Quels sont les aliments interdits et toxiques pour les poules ?
-
 **La santé de vos protégées dépend avant tout de leur alimentation. Martin et Julie vous aident à faire le tri dans vos épluchures pour éviter les aliments toxiques qui pourraient mettre en danger votre petit cheptel.**
-
-![Martin apprend à Anna à trier les restes de cuisine pour les poules](feature.webp)
 
 ## La vigilance en cuisine avec Martin et Julie
 
@@ -61,4 +57,4 @@ Comme le dit souvent Martin à Lucas et Anna : *"Mieux vaut une poule un peu dé
 
 ![Lucas distribue des friandises saines (salade et pastèque) aux poules heureuses](friandises-saines.webp)
 
-Si vous avez le moindre doute après une ingestion suspecte, n'attendez pas et consultez un vétérinaire spécialisé. Avec de la vigilance et les bons réflexes de Julie, votre poulailler restera un havre de paix et de santé !
+Si vous avez le moindre doute après une ingestion suspecte, n'attendez pas et consultez un vétérinaire spécialisé.

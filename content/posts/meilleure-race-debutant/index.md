@@ -1,12 +1,16 @@
 ---
 title: "Quelle est la Meilleure Race de Poule pour un Débutant ? Le Guide Ultime"
+slug: "meilleure-race-debutant"
 date: 2025-12-11T15:31:00Z
 draft: false
-summary: "Découvrez le Top 5 des races idéales pour débuter votre poulailler : de la poule rousse à la poule soie, nous avons testé les meilleures pour votre famille."
-tags: ["Guides Débutant", "Races de Poules"]
-categories: ["Conseils Élevage"]
 author: "Martin"
+categories: ["Conseils Élevage"]
+tags: ["Guides Débutant", "Races de Poules", "Choix"]
+summary: "Découvrez le Top 5 des races idéales pour débuter votre poulailler : de la poule rousse à la poule soie, nous avons testé les meilleures pour votre famille."
+showTaxonomies: true
 showHero: true
+heroStyle: "basic"
+feature: "feature.webp"
 ---
 
 **Pour débuter votre poulailler sans stress, la meilleure race est la Poule Rousse (productivité record), suivie de la Sussex (excellente pondeuse d'hiver) et de la Harco (très rustique). Si vous cherchez un animal de compagnie pour vos enfants, la Poule Soie est inégalable par sa douceur, tandis que la Marans ravira les gourmets avec ses œufs couleur chocolat.**

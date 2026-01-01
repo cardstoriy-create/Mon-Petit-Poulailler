@@ -8,12 +8,10 @@ tags: ["Entretien", "Hygiène", "Bien-être"]
 summary: "Chanvre, paille ou copeaux ? En 2026, le choix de la litière est vital pour éviter l'humidité et les maladies. Martin vous aide à choisir la meilleure option."
 showTaxonomies: true
 showHero: true
-featureImage: "feature.webp"
+feature: "feature.webp"
 ---
 
 **Le choix de la litière impacte directement la santé respiratoire de vos poules. En 2026, la litière de chanvre s'impose comme la solution premium pour son pouvoir absorbant et l'absence totale de poussière.**
-
-![Lucas et Martin installent la litière de chanvre](feature.webp)
 
 Bonjour à tous ! Ici Martin. On me demande souvent : "Martin, la paille c'est gratuit, pourquoi s'embêter ?" La réponse tient en un mot : **l'humidité**. Une mauvaise litière est un nid à bactéries et à odeurs.
 

@@ -6,6 +6,7 @@ draft: false
 tags: ["Sécurité", "Prédateurs", "Matériel"]
 categories: ["Conseils Élevage"]
 author: "Martin"
+showTaxonomies: true
 showHero: true
 feature: "feature.webp"
 summary: "Renards, fouines ou rats : sécurisez votre poulailler avec les conseils de Martin et la vigilance de Barnabé. Découvrez les 3 points de contrôle essentiels."
@@ -26,11 +27,11 @@ Le renard est un opportuniste. Ma première règle est simple : **n'attendez jam
 
 ## 3 points de contrôle pour un poulailler imprenable
 
-En tant que menuisier, j'ai vu trop de poulaillers "en kit" avec des verrous fragiles. Voici ce que je vérifie systématiquement :
+En tant que menuisier, j'ai vu trop de poulaillers \"en kit\" avec des verrous fragiles. Voici ce que je vérifie systématiquement :
 
 1. **Les Verrous :** Utilisez des loquets à ressort ou des targettes solides.
 2. **Le Grillage :** Pour stopper une fouine, il faut une maille soudée de 19mm maximum.
-3. **Le Sous-sol :** J'enterre toujours mon grillage en "L" vers l'extérieur pour bloquer toute tentative de tunnel.
+3. **Le Sous-sol :** J'enterre toujours mon grillage en \"L\" vers l'extérieur pour bloquer toute tentative de tunnel.
 
 ![Martin installe un grillage galvanisé en forme de L sous la terre pour stopper les prédateurs qui creusent](grillage-l.webp)
 

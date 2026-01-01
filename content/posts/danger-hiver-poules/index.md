@@ -1,14 +1,15 @@
 ---
 title: "Neige, Glace et Gelure : Le Danger Silencieux de l'Hiver"
 slug: "danger-hiver-poules"
-description: "L'hiver arrive ? Découvrez pourquoi la neige est l'ennemi de vos poules et comment éviter les gelures fatales grâce aux conseils de Martin et Julie."
 date: 2025-12-12T09:25:00Z
 draft: false
 tags: ["Santé", "Hiver", "Sécurité"]
 categories: ["Conseils Élevage"]
 author: "Martin"
+showTaxonomies: true
 showHero: true
 feature: "feature.webp"
+summary: "L'hiver arrive ? Découvrez pourquoi la neige est l'ennemi de vos poules et comment éviter les gelures fatales grâce aux conseils de Martin et Julie."
 ---
 
 **En hiver, le danger principal pour les poules n'est pas seulement le froid, mais la déshydratation. L'ingestion de neige ou de glace est épuisante pour leur organisme car elle provoque une perte énergétique massive. Pour éviter les gelures fatales, vous devez garantir un accès permanent à de l'eau liquide.**
@@ -39,6 +40,10 @@ L'objectif est vital : votre eau doit rester liquide 24h/24. Voici les équipeme
 | **Abreuvoir 8L** | Isole mieux l'eau. Parfait avec une base chauffante. | [Voir sur Amazon](https://amzn.to/3NnDHWd) |
 | **Vaseline Pure** | Indispensable pour protéger les crêtes du gel intense. | [Voir sur Amazon](https://amzn.to/4qva9Em) |
 
+{{< alert icon="triangle-exclamation" cardColor="#e63946" >}}
+**Alerte Sécurité de Martin :** En hiver, on a tendance à vouloir gâter ses poules avec des restes de cuisine bien chauds. Attention ! Ne leur donnez jamais d'**avocat** ou de **chocolat**, ces aliments restent mortels, même par grand froid.
+{{< /alert >}}
+
 {{< alert icon="lightbulb" >}}
 **Le conseil de Martin :** Ne tentez jamais d'ajouter du sel dans l'eau pour l'empêcher de geler. Cela cause des problèmes rénaux mortels. Rien ne remplace une source de chaleur douce.
 {{< /alert >}}
@@ -55,6 +60,3 @@ Les gelures touchent la crête, les barbillons et les pattes. **Anna** m'aide so
 
 ## Conclusion
 La sécurité hivernale repose sur l'observation. Entre deux batailles de boules de neige avec **Lucas**, n'oubliez pas de vérifier l'abreuvoir !
-
----
-**Besoin d'équipement ?** [Consultez notre Guide des Meilleurs Abreuvoirs Chauffants]({{< ref "abreuvoirs-chauffants-guide" >}})

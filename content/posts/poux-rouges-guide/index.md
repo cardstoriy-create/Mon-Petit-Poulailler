@@ -3,17 +3,18 @@ title: "Poux Rouges : Comment Éradiquer cette Menace Nocturne en 2026 ?"
 slug: "poux-rouges-guide"
 date: 2025-12-29T10:00:00Z
 draft: false
-tags: ["Santé", "Parasites", "Poux"]
-categories: ["Conseils Élevage"]
 author: "Martin"
-featureImage: "feature.webp"
-showHero: true
+categories: ["Conseils Élevage"]
+tags: ["Santé", "Parasites", "Poux"]
 summary: "Vampires miniatures, les poux rouges épuisent vos poules. Martin vous livre son plan d'attaque 2026 en 4 étapes pour assainir votre poulailler."
+showTaxonomies: true
+showHero: true
+feature: "feature.webp"
 ---
 
 **Le pou rouge est un acarien nocturne redoutable. En 2026, l'éradication repose sur une détection précoce (test du torchon blanc), un nettoyage haute pression intégral et l'application de Terre de Diatomée tous les 5 à 7 jours.**
 
-![Inspection nocturne des perchoirs](inspection.webp)
+![Inspection nocturne des perchoirs par Martin](inspection.webp)
 
 À "Mon Petit Poulailler", nous redoutons tous cet ennemi invisible. Comme le dit souvent **Anna**, voir ses poules préférées s'affaiblir est un crève-cœur. Heureusement, avec de la rigueur, on peut gagner cette bataille.
 
@@ -30,7 +31,7 @@ Videz tout ! Utilisez un nettoyeur haute pression pour déloger les œufs des fi
 ![Martin traite les fissures du poulailler](nettoyage-poulailler.webp)
 
 {{< alert icon="triangle-exclamation" cardColor="#e63946" >}}
-**Alerte Santé de l'Expert :** Ne donnez jamais d'**avocat** ou de **chocolat** à vos poules affaiblies. Ces aliments sont des poisons mortels. Pour les aider à récupérer, privilégiez une alimentation saine.
+**Alerte Sécurité de Martin :** Ne donnez jamais d'**avocat** ou de **chocolat** à vos poules affaiblies. Ces aliments sont des poisons mortels. Pour les aider à récupérer, privilégiez une alimentation saine.
 {{< /alert >}}
 
 ### Étape 2 : Protection et Hygiène
@@ -60,4 +61,4 @@ Mieux vaut prévenir que guérir ! Le meilleur moyen d'empêcher le retour des p
 ---
 **En savoir plus :**
 * [Check-list des accessoires indispensables]({{< ref "accessoires-debutant-poules" >}})
-* [La réglementation pour poulailler urbain en 2026](/posts/reglementation-poulailler-ville/)
+* [La réglementation pour poulailler urbain en 2026]({{< ref "reglementation-poulailler-ville" >}})

@@ -7,7 +7,9 @@ tags: ["Alimentation", "Sécurité", "Débutant"]
 categories: ["Conseils Élevage"]
 author: "Martin"
 showHero: true
+showTaxonomies: true
 feature: "feature.webp"
+summary: "Il ne faut jamais donner d'épluchures de pommes de terre crues aux poules car elles contiennent de la solanine. Martin vous explique comment les préparer sans risque."
 ---
 
 **Il ne faut jamais donner d'épluchures de pommes de terre crues aux poules car elles contiennent de la solanine, une substance toxique pouvant entraîner une paralysie mortelle. Pour les offrir en toute sécurité, vous devez impérativement les cuire à l'eau pendant 20 minutes, jeter l'eau de cuisson et les distribuer avec modération.**
@@ -25,7 +27,7 @@ Le danger principal porte un nom : la **solanine**. C'est un poison naturel que 
 
 ## Le Protocole de Sécurité (La méthode Martin)
 
-![La cuisson à l'eau bouillante est indispensable pour neutraliser la solanine des épluchures](cuisson-rinçage.webp)
+![La cuisson à l'eau bouillante est indispensable pour neutraliser la solanine des épluchures](cuisson-rincage.webp)
 
 Heureusement, la solanine est détruite par la chaleur. Pour valoriser vos épluchures, suivez rigoureusement ces étapes :
 
@@ -57,4 +59,4 @@ Même bien cuites, les pommes de terre ne doivent jamais remplacer le mélange d
 Recycler ses épluchures est un geste écologique, mais la **cuisson** est votre seule garantie. En respectant ces réflexes, vous offrirez une friandise appréciée sans risque !
 
 ---
-**Pour aller plus loin :** [Aliments Interdits et Toxiques pour les Poules : Le Guide Complet](/posts/aliments-interdits-poules/)
+**Pour aller plus loin :** [Aliments Interdits et Toxiques pour les Poules : Le Guide Complet]({{< ref "aliments-interdits-poules" >}})

@@ -8,11 +8,11 @@ tags: ["Matériel", "Débutant", "Check-list"]
 summary: "Préparez votre poulailler pour 2026 ! Martin vous dévoile la check-list complète des 10 équipements vitaux pour accueillir vos poules sans stress."
 showTaxonomies: true
 showHero: true
+heroStyle: "basic"
 feature: "feature.webp"
 ---
 
 **Pour bien démarrer votre poulailler en 2026, 10 accessoires sont essentiels : un habitat sécurisé (poulailler, perchoir, pondoir, grillage), un duo mangeoire/abreuvoir efficace, et des produits de santé de base (terre de diatomée, vinaigre de cidre, litière de chanvre).**
-
 
 L'excitation est à son comble ! Vos premières poules pondeuses arrivent bientôt. En tant que spécialiste pour **Mon Petit Poulailler**, je vous ai préparé la check-list indispensable pour une transition douce.
 
