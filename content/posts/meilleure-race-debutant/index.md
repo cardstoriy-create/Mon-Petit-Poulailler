@@ -4,7 +4,7 @@ slug: "meilleure-race-debutant"
 date: 2025-12-11T15:31:00Z
 draft: false
 author: "Martin"
-categories: ["Conseils Élevage"]
+categories: ["guides"]
 tags: ["Guides Débutant", "Races de Poules", "Choix"]
 summary: "Découvrez le Top 5 des races idéales pour débuter votre poulailler : de la poule rousse à la poule soie, nous avons testé les meilleures pour votre famille."
 showTaxonomies: true

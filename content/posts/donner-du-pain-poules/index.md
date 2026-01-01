@@ -4,7 +4,7 @@ slug: "donner-du-pain-poules"
 date: 2025-12-11T22:17:00Z
 draft: false
 tags: ["Alimentation", "Sécurité", "Pain"]
-categories: ["Conseils Élevage"]
+categories: ["nutrition"]
 author: "Martin"
 showTaxonomies: true
 showHero: true

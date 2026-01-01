@@ -3,7 +3,7 @@ title: "Construire son Poulailler DIY ou Acheter un Kit ? Le Guide Budget"
 date: 2025-12-11T21:57:00Z
 draft: false
 tags: ["Matériel", "DIY", "Budget", "Construction"]
-categories: ["Conseils Élevage"]
+categories: ["materiel"]
 author: "Martin"
 showTaxonomies: true
 showHero: true

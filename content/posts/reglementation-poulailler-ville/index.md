@@ -3,7 +3,7 @@ title: "Installer un Poulailler en Ville : Ce que dit la Loi en France et en Bel
 date: 2025-12-30T10:00:00Z
 draft: false
 author: "Martin"
-categories: ["Conseils Élevage"]
+categories: ["guides"]
 tags: ["Réglementation", "Débutant", "Vie en Ville"]
 summary: "Peut-on vraiment avoir des poules en plein centre-ville ? Découvrez les règles d'urbanisme et de voisinage pour installer votre poulailler en toute légalité en France et en Belgique."
 showTaxonomies: true

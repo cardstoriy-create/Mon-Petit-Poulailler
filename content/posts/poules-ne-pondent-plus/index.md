@@ -3,7 +3,7 @@ title: "Pourquoi mes poules ne pondent plus ? 5 Raisons & Solutions"
 date: 2025-12-22T18:01:00Z
 draft: false
 author: "Martin"
-categories: ["Conseils Élevage"]
+categories: ["sante"]
 tags: ["Santé", "Conseils", "Ponte"]
 summary: "Votre panier est vide ? Découvrez les 5 causes principales de l'arrêt de la ponte (mue, hiver, stress) et nos solutions naturelles pour relancer votre petit élevage."
 showTaxonomies: true

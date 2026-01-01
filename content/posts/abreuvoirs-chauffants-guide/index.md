@@ -3,7 +3,7 @@ title: "Guide d'Achat : Les Meilleurs Abreuvoirs Chauffants et Bases Anti-Gel"
 date: 2025-12-11T14:30:00Z
 draft: false
 author: "Martin"
-categories: ["Conseils Élevage"]
+categories: ["materiel"]
 tags: ["Hiver", "Matériel", "Eau"]
 summary: "L'eau gelée est le cauchemar de l'hiver. Martin a testé pour vous les meilleures solutions : bases chauffantes et abreuvoirs intégrés."
 showTaxonomies: true

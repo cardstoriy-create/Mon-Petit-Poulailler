@@ -4,7 +4,7 @@ slug: "equiper-poulailler-hiver"
 date: 2025-12-11T17:09:00Z
 draft: false
 author: "Martin"
-categories: ["Conseils Élevage"]
+categories: ["materiel"]
 tags: ["Matériel", "Hiver", "Conseils", "Protection"]
 summary: "Isolation, chauffage radiant et abreuvoirs antigel : Martin vous présente les 5 équipements essentiels pour protéger vos poules du froid et maintenir la ponte."
 showTaxonomies: true

@@ -4,7 +4,7 @@ slug: "proteger-poulailler-predateurs"
 date: 2025-12-27T10:00:00Z
 draft: false
 tags: ["Sécurité", "Prédateurs", "Matériel"]
-categories: ["Conseils Élevage"]
+categories: ["guides"]
 author: "Martin"
 showTaxonomies: true
 showHero: true

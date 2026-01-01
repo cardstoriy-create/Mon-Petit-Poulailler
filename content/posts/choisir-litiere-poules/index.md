@@ -3,7 +3,7 @@ title: "Quelle litière choisir pour vos poules en 2026 ? Le comparatif complet"
 date: 2025-12-30T16:00:00Z
 draft: false
 author: "Martin"
-categories: ["Conseils Élevage"]
+categories: ["sante"]
 tags: ["Entretien", "Hygiène", "Bien-être"]
 summary: "Chanvre, paille ou copeaux ? En 2026, le choix de la litière est vital pour éviter l'humidité et les maladies. Martin vous aide à choisir la meilleure option."
 showTaxonomies: true

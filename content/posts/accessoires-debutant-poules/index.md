@@ -3,7 +3,7 @@ title: "Check-list 2026 : Les 10 Accessoires Indispensables pour vos Premières 
 date: 2025-12-30T14:00:00Z
 draft: false
 author: "Martin"
-categories: ["Conseils Élevage"]
+categories: ["materiel"]
 tags: ["Matériel", "Débutant", "Check-list"]
 summary: "Préparez votre poulailler pour 2026 ! Martin vous dévoile la check-list complète des 10 équipements vitaux pour accueillir vos poules sans stress."
 showTaxonomies: true

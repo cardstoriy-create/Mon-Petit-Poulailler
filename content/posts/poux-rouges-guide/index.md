@@ -4,7 +4,7 @@ slug: "poux-rouges-guide"
 date: 2025-12-29T10:00:00Z
 draft: false
 author: "Martin"
-categories: ["Conseils Élevage"]
+categories: ["sante"]
 tags: ["Santé", "Parasites", "Poux"]
 summary: "Vampires miniatures, les poux rouges épuisent vos poules. Martin vous livre son plan d'attaque 2026 en 4 étapes pour assainir votre poulailler."
 showTaxonomies: true

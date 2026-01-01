@@ -4,7 +4,7 @@ slug: "pommes-de-terre-danger"
 date: 2025-12-11T16:54:00Z
 draft: false
 tags: ["Alimentation", "Sécurité", "Débutant"]
-categories: ["Conseils Élevage"]
+categories: ["nutrition"]
 author: "Martin"
 showHero: true
 showTaxonomies: true

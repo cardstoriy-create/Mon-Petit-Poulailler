@@ -4,7 +4,7 @@ slug: "porte-automatique-guide"
 date: 2025-12-12T09:56:00Z
 draft: false
 author: "Martin"
-categories: ["Conseils Élevage"]
+categories: ["materiel"]
 tags: ["Matériel", "Sécurité", "Technologie"]
 summary: "Gadget ou investissement ? Martin vous explique pourquoi la porte automatique est l'accessoire n°1 pour la sécurité de vos poules et votre confort."
 showTaxonomies: true

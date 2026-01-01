@@ -3,7 +3,7 @@ title: "Aliments Interdits : Ce qu'il ne faut JAMAIS donner à vos poules"
 date: 2025-12-28T10:00:00Z
 draft: false
 author: "Martin"
-categories: ["Santé & Alimentation"]
+categories: ["nutrition"]
 tags: ["Nutrition", "Danger", "Sécurité"]
 summary: "Apprenez à identifier les aliments toxiques comme l'avocat ou le chocolat pour garantir la santé de vos poules avec les conseils de Martin."
 showTaxonomies: true

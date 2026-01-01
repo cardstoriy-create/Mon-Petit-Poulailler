@@ -5,15 +5,20 @@
 
 [[main]]
   name = "Matériel"
-  pageRef = "categories/conseils-elevage"
+  pageRef = "categories/materiel"
   weight = 20
 
 [[main]]
   name = "Nutrition"
-  pageRef = "tags/alimentation"
+  pageRef = "categories/nutrition"
   weight = 30
 
 [[main]]
   name = "Santé"
-  pageRef = "tags/santé"
+  pageRef = "categories/sante"
   weight = 40
+
+[[main]]
+  name = "Guides"
+  pageRef = "categories/guides"
+  weight = 50
