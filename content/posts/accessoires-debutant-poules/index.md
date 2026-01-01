@@ -8,12 +8,11 @@ tags: ["Matériel", "Débutant", "Check-list"]
 summary: "Préparez votre poulailler pour 2026 ! Martin vous dévoile la check-list complète des 10 équipements vitaux pour accueillir vos poules sans stress."
 showTaxonomies: true
 showHero: true
-featureImage: "feature.webp"
+feature: "feature.webp"
 ---
 
 **Pour bien démarrer votre poulailler en 2026, 10 accessoires sont essentiels : un habitat sécurisé (poulailler, perchoir, pondoir, grillage), un duo mangeoire/abreuvoir efficace, et des produits de santé de base (terre de diatomée, vinaigre de cidre, litière de chanvre).**
 
-![Martin montre à Anna la panoplie d'accessoires nécessaires dans le jardin](feature.webp)
 
 L'excitation est à son comble ! Vos premières poules pondeuses arrivent bientôt. En tant que spécialiste pour **Mon Petit Poulailler**, je vous ai préparé la check-list indispensable pour une transition douce.
 
@@ -28,13 +27,13 @@ L'excitation est à son comble ! Vos premières poules pondeuses arrivent bient�
 ## 1. Les 4 Éléments Clés de l'Habitat
 
 ### Les Pondoirs (Le secret des bons œufs)
-Un pondoir est un endroit sombre et sécurisant. Comme vous pouvez le voir, le confort est tel qu'il attire parfois Pistache, notre chat, pour une sieste surprise au milieu de la paille !
+Un pondoir est un endroit sombre et sécurisant. Comme vous pouvez le voir, le confort est tel qu'il attire parfois Pistache, notre chat Maine Coon, pour une sieste surprise au milieu de la paille !
 
-![Anna s'amuse de voir Pistache dormir dans un nichoir](amenagement-interieur.webp)
+![Anna s'amuse de voir Pistache le chat Maine Coon dormir dans un nichoir](amenagement-interieur.webp)
 
 ## 2. Eau et Nourriture : Le Duo Vital
 
-![Le duo indispensable : une mangeoire et un abreuvoir](mangeoire-abreuvoir.webp)
+![Le duo indispensable : une mangeoire et un abreuvoir pour 3 à 4 poules](mangeoire-abreuvoir.webp)
 
 {{< alert icon="triangle-exclamation" cardColor="#e63946" >}}
 **Alerte Sécurité de Martin :** En installant vos accessoires, n'oubliez jamais que la santé passe par l'auge. Attention : l'**avocat** (contenant de la persine) et le **chocolat** sont des poisons mortels pour vos poules !

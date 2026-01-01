@@ -1,15 +1,21 @@
 # =========================================================================================
-# SCRIPT : Build-Test.ps1
-# RÔLE : Nettoyage profond et lancement du serveur Hugo
+# SCRIPT : build-test.ps1
+# RÔLE : Lance une compilation Hugo pour vérifier l'intégrité du site
 # =========================================================================================
 
-Write-Host "🧹 Nettoyage des résidus de compilation..." -ForegroundColor Gray
-# On supprime les dossiers qui cachent parfois des erreurs d'affichage
-if (Test-Path "public") { Remove-Item -Recurse -Force "public" }
-if (Test-Path "resources") { Remove-Item -Recurse -Force "resources" }
+Write-Host "Lancement de la compilation de test Hugo..." -ForegroundColor Cyan
 
-Write-Host "🚀 Lancement de Hugo (Mode Reconstruction Totale)..." -ForegroundColor Cyan
-Write-Host "📍 Ton site sera disponible sur : http://localhost:1313/" -ForegroundColor Yellow
+# Exécution de Hugo avec mesure du temps
+Measure-Command { 
+    hugo --minify 
+} | ForEach-Object { 
+    Write-Host "Compilation terminée en $($_.TotalSeconds) secondes." -ForegroundColor Green 
+}
 
-# On lance le serveur en forçant le rendu complet et le nettoyage des médias inutilisés
-hugo server --disableFastRender --gc
+# Vérification simple du dossier public
+if (Test-Path ".\public") {
+    $PageCount = (Get-ChildItem -Path ".\public" -Filter *.html -Recurse).Count
+    Write-Host "Succès : $PageCount pages HTML générées dans le dossier ./public" -ForegroundColor Green
+} else {
+    Write-Host "Erreur : Le dossier /public n'a pas été généré." -ForegroundColor Red
+}

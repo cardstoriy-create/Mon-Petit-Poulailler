@@ -1,3 +1,11 @@
+# =========================================================================================
+# SCRIPT : Update-Content-Equiper-Hiver.ps1
+# RÔLE : Applique le Standard Pro à l'article sur l'équipement d'hiver
+# =========================================================================================
+
+$postPath = "C:\Users\madji\Documents\Mon-Petit-Poulailler\content\posts\equiper-poulailler-hiver"
+
+$content = @"
 ---
 title: "Équiper son Poulailler pour l'Hiver : Les 5 Incontournables de Martin"
 slug: "equiper-poulailler-hiver"
@@ -8,7 +16,6 @@ tags: ["Matériel", "Hiver", "Conseils"]
 categories: ["Conseils Élevage"]
 author: "Martin"
 showHero: true
-feature: "feature.webp"
 ---
 
 **L'hiver approche et avec lui le défi du gel et de l'humidité. Pour protéger vos poules, cinq équipements font la différence : une porte automatique isolante, un chauffage radiant sécurisé, un abreuvoir antigel, un éclairage adapté et une alimentation riche. Voici l'essentiel à retenir.**
@@ -24,9 +31,6 @@ Le vent est l'ennemi n°1. L'objectif est de bloquer les courants d'air tout en 
 * **En savoir plus :** [Pourquoi la porte automatique est un investissement indispensable]({{< ref "porte-automatique-guide" >}})
 
 ## 2. Le Chauffage Radiant (Plaques)
-
-![Pistache le chat profite du chauffage radiant pour piquer un dodo bien au chaud](chauffage-radiant.webp)
-
 Contrairement aux lampes rouges énergivores et risquées, la plaque chauffante diffuse une chaleur douce par rayonnement. C'est l'équipement idéal pour les nuits de grand gel afin d'éviter les gelures de crêtes.
 
 ### Sélection de plaques chauffantes
@@ -36,9 +40,6 @@ Contrairement aux lampes rouges énergivores et risquées, la plaque chauffante 
 | **Plaque Digitale Pro** | Télécommande et thermostat précis pour un contrôle total. | [Voir sur Amazon](https://amzn.to/4qvoiSh) |
 
 ## 3. L'Abreuvoir Chauffant (Antigel)
-
-![Anna observe avec curiosité ses poules boire l'eau restée liquide grâce à l'abreuvoir chauffant](abreuvoirs-chauffants-guide.webp)
-
 Une poule est composée à 75 % d'eau. Si son eau gèle, elle s'arrête de pondre instantanément. Maintenir l'eau liquide est donc la priorité absolue.
 
 * **La solution :** Qu'il s'agisse d'une base chauffante à glisser sous votre bac ou d'un système à thermostat, il existe une solution pour chaque budget.
@@ -64,3 +65,7 @@ Préparer son poulailler pour l'hiver demande de la vigilance, mais avec ces éq
 
 ---
 **À lire également :** [Neige et Gelures : Le guide de survie pour protéger vos poules]({{< ref "danger-hiver-poules" >}})
+"@
+
+[System.IO.File]::WriteAllLines("$postPath\index.md", $content, (New-Object System.Text.UTF8Encoding($false)))
+Write-Host "✅ Article 'Équiper Hiver' optimisé au Standard Pro." -ForegroundColor Green

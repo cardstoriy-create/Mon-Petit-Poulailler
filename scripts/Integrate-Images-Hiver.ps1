@@ -1,3 +1,11 @@
+# =========================================================================================
+# SCRIPT : Integrate-Images-Hiver.ps1
+# RÔLE : Intègre les visuels finalisés dans l'article Équipement Hiver
+# =========================================================================================
+
+$postPath = "C:\Users\madji\Documents\Mon-Petit-Poulailler\content\posts\equiper-poulailler-hiver"
+
+$content = @"
 ---
 title: "Équiper son Poulailler pour l'Hiver : Les 5 Incontournables de Martin"
 slug: "equiper-poulailler-hiver"
@@ -64,3 +72,7 @@ Préparer son poulailler pour l'hiver demande de la vigilance, mais avec ces éq
 
 ---
 **À lire également :** [Neige et Gelures : Le guide de survie pour protéger vos poules]({{< ref "danger-hiver-poules" >}})
+"@
+
+[System.IO.File]::WriteAllLines("$postPath\index.md", $content, (New-Object System.Text.UTF8Encoding($false)))
+Write-Host "✅ Article 'Équiper Hiver' mis à jour avec les images et légendes." -ForegroundColor Green

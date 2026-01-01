@@ -1,3 +1,18 @@
+# =========================================================================================
+# SCRIPT : Fix-Images-Paths.ps1
+# RÔLE : Corrige les noms de fichiers (accents) et les appels dans le Markdown
+# =========================================================================================
+
+$postPath = "C:\Users\madji\Documents\Mon-Petit-Poulailler\content\posts\pommes-de-terre-danger"
+
+# 1. Renommer le fichier avec accent pour éviter les erreurs 404
+if (Test-Path "$postPath\récompense-Barnabé.webp") {
+    Rename-Item -Path "$postPath\récompense-Barnabé.webp" -NewName "recompense-barnabe.webp"
+    Write-Host "✅ Fichier renommé : recompense-barnabe.webp" -ForegroundColor Cyan
+}
+
+# 2. Mise à jour du Markdown
+$content = @"
 ---
 title: "Épluchures de pommes de terre aux poules : Crues ou cuites ? Le Guide de Sécurité"
 slug: "pommes-de-terre-danger"
@@ -58,3 +73,7 @@ Recycler ses épluchures est un geste écologique, mais la **cuisson** est votre
 
 ---
 **Pour aller plus loin :** [Aliments Interdits et Toxiques pour les Poules : Le Guide Complet](/posts/aliments-interdits-poules/)
+"@
+
+[System.IO.File]::WriteAllLines("$postPath\index.md", $content, (New-Object System.Text.UTF8Encoding($false)))
+Write-Host "✅ Markdown mis à jour avec les chemins sécurisés." -ForegroundColor Green

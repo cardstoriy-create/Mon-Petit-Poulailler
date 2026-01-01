@@ -8,15 +8,10 @@ tags: ["Réglementation", "Débutant", "Vie en Ville"]
 summary: "Peut-on vraiment avoir des poules en plein centre-ville ? Découvrez les règles d'urbanisme et de voisinage pour installer votre poulailler en toute légalité en France et en Belgique."
 showTaxonomies: true
 showHero: true
-heroStyle: "basic"
-featureImage: "feature.webp"
+feature: "feature.webp"
 ---
 
-# Installer un Poulailler en Ville : Le Guide Légal
-
 **Le chant d'une poule qui vient de pondre au milieu du bourdonnement urbain ? C'est tout à fait possible ! De plus en plus de citadins sautent le pas pour retrouver le plaisir des œufs frais et réduire leurs déchets. Pourtant, l'aventure peut vite s'arrêter si l'on ne respecte pas quelques règles de base.**
-
-![Julie discute avec sa voisine par-dessus la clôture du jardin](feature.webp)
 
 Que vous habitiez en France ou en Belgique, la loi encadre l'installation de nos amies à plumes pour garantir la tranquillité de tous. Entre les autorisations d'urbanisme et le respect du voisinage, voici tout ce que vous devez savoir pour que votre projet reste un plaisir, pour vous comme pour vos voisins.
 
@@ -42,42 +37,38 @@ Le Code de l'Urbanisme définit vos démarches selon l'emprise au sol de l'abri 
 Attention ! Même si la loi nationale vous autorise, votre mairie peut avoir des règles spécifiques via le PLU. Dans certaines zones urbaines très denses, l'élevage d'animaux de basse-cour peut être restreint ou soumis à des distances précises par rapport aux habitations voisines.
 
 ### Le cas épineux du Coq en ville
-Si la poule est silencieuse (ou presque), le coq est souvent le point de discorde. En France, aucun texte n'interdit formellement le coq, mais les tribunaux retiennent souvent le concept de **"trouble anormal du voisinage"**. En zone urbaine, le chant du coq à 5h du matin est rarement considéré comme un bruit "normal". 
+Si la poule est silencieuse (ou presque), le coq est souvent le point de discorde. En France, aucun texte n'interdit formellement le coq, mais les tribunaux retiennent souvent le concept de **"trouble anormal du voisinage"**. En zone urbaine, le chant du coq à 5h du matin est rarement considéré comme un bruit "normal".
 
 > **Le conseil de Martin :** En ville, évitez le coq. Vos poules pondront très bien sans lui, et vos voisins vous remercieront !
 
 ## 2. La Réglementation en Belgique : Une Approche Écologique 🇧🇪
 
-En Belgique, la vision est légèrement différente. Les autorités encouragent souvent la possession de poules car elles sont considérées comme de formidables "composteurs sur pattes" capables de réduire considérablement le volume des sacs poubelles ménagers.
+En Belgique, la vision est légèrement différente. Les autorités encouragent souvent la possession de poules car elles sont considérées comme de formidables "composteurs sur pattes".
 
 ### Wallonie : Une grande souplesse
 Dans la plupart des communes wallonnes, l'installation d'un petit poulailler est dispensée de permis d'urbanisme, à condition de respecter certains critères :
-* **Surface :** Moins de 15 m² au sol (ce qui est généreux pour la ville !).
-* **Emplacement :** Il doit être situé dans votre jardin de côté ou de derrière.
-* **Hauteur :** Ne pas dépasser 2,50 m ou 3,50 m selon le type de toiture.
+* **Surface :** Moins de 15 m² au sol.
+* **Emplacement :** Dans votre jardin de côté ou de derrière.
+* **Hauteur :** Ne pas dépasser 2,50 m ou 3,50 m.
 
 ### Bruxelles et la Flandre
-À Bruxelles, les règles sont plus strictes en raison de la densité de population. Une déclaration environnementale peut être requise selon votre commune si vous dépassez un certain nombre d'animaux. En Flandre, une dispense de permis existe également pour les petites structures en bois, mais les règles de recul par rapport aux limites de propriété sont à surveiller de près.
+À Bruxelles, les règles sont plus strictes. Une déclaration environnementale peut être requise selon votre commune. En Flandre, les règles de recul par rapport aux limites de propriété sont à surveiller de près.
 
-![Une poule calme dans un jardin urbain, illustrant la gestion du bruit](coq-en-ville.webp)
+![Julie observe Barnabé le Border Collie qui surveille une poule calme dans le jardin](coq-en-ville.webp)
 
 ---
 
 ## 3. Le Voisinage : La clé d'un poulailler serein
 
-Que vous soyez à Paris, Lyon, Bruxelles ou Namur, le "bon voisinage" prime sur la loi. Un voisin mécontent peut invoquer des nuisances même si vous êtes en règle avec l'urbanisme.
+Que vous soyez à Paris, Lyon, Bruxelles ou Namur, le "bon voisinage" prime sur la loi. 
 
 ### Les nuisances sonores et olfactives
 La loi est claire : nul ne doit causer à autrui un trouble anormal de voisinage.
-1. **L'entretien :** Un poulailler qui sent mauvais est un poulailler mal entretenu. Nettoyez régulièrement la litière pour éviter les remontées d'ammoniac.
-2. **Le bruit :** Si vos poules caquettent un peu trop fort après la ponte, essayez de ne pas placer le poulailler juste sous la fenêtre de la chambre de votre voisin.
+1. **L'entretien :** Un poulailler propre ne sent pas. Utilisez de la litière de chanvre pour absorber les odeurs.
+2. **Le bruit :** Évitez de placer le poulailler sous la fenêtre de vos voisins.
 
-### Le secret de Martin pour une entente parfaite
-Le meilleur moyen d'éviter les plaintes ? **La diplomatie de l'œuf !**
-Avant d'installer vos poules, parlez-en à vos voisins. Expliquez-leur votre démarche écologique. Et une fois que vos poules pondent, n'hésitez pas à offrir régulièrement une boîte d'œufs frais à vos voisins directs. Il est beaucoup plus difficile de se plaindre d'un poulailler quand on en déguste les produits au petit-déjeuner !
+### Le secret de Martin : La diplomatie de l'œuf !
+Avant d'installer vos poules, parlez-en à vos voisins. Et une fois que vos poules pondent, offrez-leur régulièrement une boîte d'œufs frais. C'est le meilleur moyen de cultiver l'amitié !
 
-En conclusion, avoir un poulailler en ville est une expérience merveilleuse qui connecte toute la famille à la nature. En respectant les seuils de surface (5 m² en France, 15 m² en Wallonie) et en soignant vos relations de voisinage, vous transformerez votre petit jardin en un véritable havre de paix productif.
-
-Prêt à choisir votre modèle ? N'oubliez pas de vérifier votre règlement de copropriété ou votre bail si vous êtes locataire, car ces documents privés peuvent parfois interdire les animaux de ferme, même si la mairie l'autorise.
-
-**Alors, quand accueillez-vous vos premières citadines ?**
+## Conclusion
+En respectant les seuils de surface et en soignant vos relations de voisinage, vous transformerez votre petit jardin en un havre de paix. Prêt à accueillir vos premières citadines ?

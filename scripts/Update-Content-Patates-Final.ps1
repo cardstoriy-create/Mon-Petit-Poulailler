@@ -1,3 +1,11 @@
+# =========================================================================================
+# SCRIPT : Update-Content-Patates-Final.ps1
+# RÔLE : Valide le contenu Standard Pro pour l'article Pommes de Terre
+# =========================================================================================
+
+$postPath = "C:\Users\madji\Documents\Mon-Petit-Poulailler\content\posts\pommes-de-terre-danger"
+
+$content = @"
 ---
 title: "Épluchures de pommes de terre aux poules : Crues ou cuites ? Le Guide de Sécurité"
 slug: "pommes-de-terre-danger"
@@ -7,7 +15,6 @@ tags: ["Alimentation", "Sécurité", "Débutant"]
 categories: ["Conseils Élevage"]
 author: "Martin"
 showHero: true
-feature: "feature.webp"
 ---
 
 **Il ne faut jamais donner d'épluchures de pommes de terre crues aux poules car elles contiennent de la solanine, une substance toxique pouvant entraîner une paralysie mortelle. Pour les offrir en toute sécurité, vous devez impérativement les cuire à l'eau pendant 20 minutes, jeter l'eau de cuisson et les distribuer avec modération.**
@@ -24,9 +31,6 @@ Le danger principal porte un nom : la **solanine**. C'est un poison naturel que 
 {{< /alert >}}
 
 ## Le Protocole de Sécurité (La méthode Martin)
-
-![La cuisson à l'eau bouillante est indispensable pour neutraliser la solanine des épluchures](cuisson-rinçage.webp)
-
 Heureusement, la solanine est détruite par la chaleur. Pour valoriser vos épluchures, suivez rigoureusement ces étapes :
 
 1. **Le Tri :** Jetez impérativement toutes les parties vertes et les germes. Même cuits, ils restent dangereux.
@@ -45,16 +49,21 @@ Les épluchures cuites sont une source d'énergie (amidon), mais elles sont pauv
 | **Mélange de Graines Premium** | Apport en céréales de haute qualité (Sans OGM). | [Voir sur Amazon](https://amzn.to/4sf8ODD) |
 | **Grit & Minéraux** | Aide à la digestion et renforce la coquille des œufs. | [Voir sur Amazon](https://amzn.to/49dJQM6) |
 
+{{< alert icon="circle-info" >}}
+**Note de transparence :** Le mélange de graines Eggersmann sélectionné ici est un "aliment complémentaire". Étant composé de grains entiers, son taux de protéines est d'environ 10%. Il est donc idéal pour les poules ayant accès à un parcours herbeux ou recevant des compléments pour atteindre les 16% nécessaires à une ponte optimale.
+{{< /alert >}}
+
 ## La règle d'or des quantités : Pas d'excès !
-
-![Anna distribue la pâtée tiède aux poules sous le regard attentif de Barnabé](recompense-barnabe.webp)
-
 Même bien cuites, les pommes de terre ne doivent jamais remplacer le mélange de graines.
 
-**Respectez la règle des 15% :** Les restes de cuisine ne doivent pas représenter plus d'une petite cuillère à soupe par poule et par jour.
+**Respectez la règle des 15% :** Les restes de cuisine ne doivent pas représenter plus d'une petite cuillère à soupe par poule et par jour. Un excès favoriserait l'obésité de vos pondeuses et ferait chuter la ponte.
 
 ## Conclusion
-Recycler ses épluchures est un geste écologique, mais la **cuisson** est votre seule garantie. En respectant ces réflexes, vous offrirez une friandise appréciée sans risque !
+Recycler ses épluchures de pommes de terre est un geste écologique et économique, mais la **cuisson à l'eau** est votre seule garantie de sécurité. En respectant ces quelques réflexes, vous offrirez une friandise énergétique appréciée sans prendre le moindre risque !
 
 ---
-**Pour aller plus loin :** [Aliments Interdits et Toxiques pour les Poules : Le Guide Complet](/posts/aliments-interdits-poules/)
+**Pour aller plus loin :** [Aliments Interdits et Toxiques pour les Poules : Le Guide Complet du Nouvel Éleveur](/posts/aliments-interdits-poules/)
+"@
+
+[System.IO.File]::WriteAllLines("$postPath\index.md", $content, (New-Object System.Text.UTF8Encoding($false)))
+Write-Host "✅ Article 'Pommes de Terre' vérifié et validé (Standard Pro)." -ForegroundColor Green

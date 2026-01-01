@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Poux Rouges : Comment Éradiquer cette Menace Nocturne en 2026 ?"
 slug: "poux-rouges-guide"
 date: 2025-12-29T10:00:00Z
@@ -36,7 +36,15 @@ Videz tout ! Utilisez un nettoyeur haute pression pour déloger les œufs des fi
 ### Étape 2 : Protection et Hygiène
 Appliquez de la Terre de Diatomée. Pensez aussi à vérifier votre [choix de litière]({{< ref "choisir-litiere-poules" >}}) : une litière propre et sèche est votre meilleure alliée contre l'humidité que les parasites adorent.
 
-![Application de la Terre de Diatomée](hygiene-poulailler.webp)
+![Julie protège les nichoirs avec de la Terre de Diatomée](hygiene-poulailler.webp)
+
+
+## 3. La Prévention : Le Secret d'Anna
+Mieux vaut prévenir que guérir ! Le meilleur moyen d'empêcher le retour des parasites est de laisser vos poules prendre soin d'elles-mêmes. 
+
+![Anna observe le bain de poussière à la terre de diatomée](prevention.webp)
+
+**Anna** adore remplir un vieux pneu ou un bac avec un mélange de sable fin et de **Terre de Diatomée**. Les poules s'y roulent avec délice : c'est leur "spa" naturel qui déchiquette les carapaces des insectes avant qu'ils ne deviennent un problème.
 
 ## Votre Kit de Survie Anti-Poux
 

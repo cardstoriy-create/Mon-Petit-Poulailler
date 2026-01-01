@@ -1,3 +1,11 @@
+# =========================================================================================
+# SCRIPT : Finalize-Article-Construction.ps1
+# RÔLE : Intègre les visuels finalisés dans l'article Construction
+# =========================================================================================
+
+$postPath = "C:\Users\madji\Documents\Mon-Petit-Poulailler\content\posts\construire-son-poulailler-guide"
+
+$content = @"
 ---
 title: "Construire son Poulailler DIY ou Acheter un Kit ? Le Guide Budget"
 date: 2025-12-11T21:57:00Z
@@ -10,6 +18,8 @@ feature: "feature.webp"
 ---
 
 **Le choix entre construire son poulailler (DIY) ou acheter un kit dépend de votre arbitrage entre temps, budget et durabilité. Mais attention : pour commencer un élevage sain, il faut accueillir au minimum 3 à 4 poules (animaux grégaires). Cela impose un volume habitable spécifique qui disqualifie d'emblée les "mini-kits" premier prix.**
+
+![Martin et Lucas étudient les plans d'un poulailler dans l'atelier de menuiserie](feature.webp)
 
 ---
 
@@ -34,8 +44,15 @@ Construire soi-même son abri, c'est l'assurance d'une qualité supérieure. Vou
 * **Solidité :** Face aux prédateurs (renards, fouines), une structure en bois massif de 20mm est imprenable.
 * **Isolation :** Vous pouvez isoler les parois pour l'hiver, ce qui est impossible sur un kit.
 
+{{< alert icon="lightbulb" >}}
+**Le conseil de Martin :** Ne rognez jamais sur la qualité du plancher. C'est la zone la plus exposée à l'humidité et aux fientes.
+{{< /alert >}}
+
 ## Le Kit Prêt à Monter : La simplicité (si bien choisi)
 C'est la solution "clé en main". Idéale pour démarrer sans être bricoleur, à condition de choisir un modèle "XXL".
+
+### Inconvénients :
+* **Sécurité :** Les verrous d'origine sont souvent faibles. Pensez à les renforcer ou à installer une porte automatique.
 
 ![Anna observe le fonctionnement d'une porte automatique ChickenGuard sur le poulailler](securite-automatique.webp)
 
@@ -45,16 +62,11 @@ C'est la solution "clé en main". Idéale pour démarrer sans être bricoleur, �
 | :--- | :--- | :--- |
 | **Total Estimé** | **450 € - 650 €** | **250 € - 400 €** |
 
-## Notre Sélection "Format Familial"
-Pour ne pas vous tromper, voici une sélection adaptée à un démarrage avec 3 poules :
-
-| Produit | Pourquoi ce choix ? | Voir le prix |
-| :--- | :--- | :--- |
-| **Poulailler Surélevé (Renforcé)** | **Le choix Durable.** Pieds protégés de l'humidité, dortoir spacieux pour 3-4 poules. | [Voir sur Amazon](https://amzn.to/45uaKOB) |
-| **Moteur ChickenGuard PRO** | **Le Top du marché.** Modèle Pro (Sonde + Minuterie) capable de soulever n'importe quelle trappe. | [Voir sur Amazon](https://amzn.to/4pd3mhy) |
-| **Mangeoire à Pédale (5kg)** | **Anti-Rat.** Indispensable dès 3 poules pour éviter d'attirer les nuisibles. | [Voir sur Amazon](https://amzn.to/3LgASpg) |
-
-***(Note : Les capacités annoncées par les fabricants sont souvent exagérées. Un modèle vendu pour "6 poules" est souvent parfait pour 3 ou 4.)*** ## Conclusion
+## Conclusion
 Le kit gagne sur le terrain du prix et de la rapidité, c'est un excellent tremplin pour débuter. Le DIY est un investissement sur 20 ans.
 
 Quel que soit votre choix, respectez la règle des 3 poules : offrez-leur de l'espace, elles vous le rendront en œufs !
+"@
+
+[System.IO.File]::WriteAllLines("$postPath\index.md", $content, (New-Object System.Text.UTF8Encoding($false)))
+Write-Host "✅ Article 'Construction' finalisé avec les visuels." -ForegroundColor Green

@@ -1,3 +1,12 @@
+# =========================================================================================
+# SCRIPT : Update-Post-Pain.ps1
+# RÔLE : Met à jour l'article Pain avec les formats exacts et la structure Standard Pro
+# =========================================================================================
+
+$Utf8NoBom = New-Object System.Text.UTF8Encoding($false)
+$FilePath = "C:\Users\madji\Documents\Mon-Petit-Poulailler\content\posts\donner-du-pain-poules\index.md"
+
+$Content = @"
 ---
 title: "Peut-on donner du pain aux poules ? Le Guide de Sécurité de Martin"
 slug: "donner-du-pain-poules"
@@ -30,7 +39,7 @@ showHero: true
 
 ## La Méthode Martin : Préparer le pain sans danger
 
-![Martin pressant vigoureusement du pain trempé au-dessus d'un seau, sous les yeux curieux d'Anna](methode-trempage.webp)
+![Les mains de Martin pressant vigoureusement du pain trempé au-dessus d'un seau](methode-trempage.webp)
 
 * **Le Trempage Total :** Utilisez uniquement du pain **sec et dur**. Faites-le tremper dans un grand volume d'eau pendant plusieurs heures.
 * **L'Égouttage Rigoureux :** Pressez le pain très fortement entre vos mains pour extraire l'eau salée avant de le servir.
@@ -58,3 +67,7 @@ Le pain peut rester un plaisir partagé si vous respectez le protocole de trempa
 
 ---
 **Pour aller plus loin :** [Guide Complet des Aliments Interdits et Toxiques](/posts/aliments-interdits-poules/)
+"@
+
+[System.IO.File]::WriteAllText($FilePath, $Content, $Utf8NoBom)
+Write-Host "✅ Fichier index.md mis à jour avec les formats 5kg/6kg et la structure finale." -ForegroundColor Green

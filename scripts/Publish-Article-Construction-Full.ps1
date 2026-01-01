@@ -1,3 +1,11 @@
+# =========================================================================================
+# SCRIPT : Publish-Article-Construction-Full.ps1
+# RÔLE : Réintégration de la sélection de produits et des visuels finalisés
+# =========================================================================================
+
+$postPath = "C:\Users\madji\Documents\Mon-Petit-Poulailler\content\posts\construire-son-poulailler-guide"
+
+$content = @"
 ---
 title: "Construire son Poulailler DIY ou Acheter un Kit ? Le Guide Budget"
 date: 2025-12-11T21:57:00Z
@@ -10,6 +18,8 @@ feature: "feature.webp"
 ---
 
 **Le choix entre construire son poulailler (DIY) ou acheter un kit dépend de votre arbitrage entre temps, budget et durabilité. Mais attention : pour commencer un élevage sain, il faut accueillir au minimum 3 à 4 poules (animaux grégaires). Cela impose un volume habitable spécifique qui disqualifie d'emblée les "mini-kits" premier prix.**
+
+![Martin et Lucas étudient les plans d'un poulailler dans l'atelier de menuiserie](feature.webp)
 
 ---
 
@@ -58,3 +68,7 @@ Pour ne pas vous tromper, voici une sélection adaptée à un démarrage avec 3 
 Le kit gagne sur le terrain du prix et de la rapidité, c'est un excellent tremplin pour débuter. Le DIY est un investissement sur 20 ans.
 
 Quel que soit votre choix, respectez la règle des 3 poules : offrez-leur de l'espace, elles vous le rendront en œufs !
+"@
+
+[System.IO.File]::WriteAllLines("$postPath\index.md", $content, (New-Object System.Text.UTF8Encoding($false)))
+Write-Host "✅ Article 'Construction' corrigé et complet !" -ForegroundColor Green

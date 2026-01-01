@@ -1,3 +1,12 @@
+# =========================================================================================
+# SCRIPT : Update-Article-Pain.ps1
+# RÔLE : Écrase le fichier index.md de l'article Pain avec la version finale validée
+# =========================================================================================
+
+$postPath = "C:\Users\madji\Documents\Mon-Petit-Poulailler\content\posts\donner-du-pain-poules"
+if (!(Test-Path $postPath)) { New-Item -ItemType Directory -Force -Path $postPath }
+
+$content = @"
 ---
 title: "Peut-on donner du pain aux poules ? Le Guide de Sécurité de Martin"
 slug: "donner-du-pain-poules"
@@ -30,7 +39,7 @@ showHero: true
 
 ## La Méthode Martin : Préparer le pain sans danger
 
-![Martin pressant vigoureusement du pain trempé au-dessus d'un seau, sous les yeux curieux d'Anna](methode-trempage.webp)
+![Les mains de Martin pressant vigoureusement du pain trempé au-dessus d'un seau](methode-trempage.webp)
 
 * **Le Trempage Total :** Utilisez uniquement du pain **sec et dur**. Faites-le tremper dans un grand volume d'eau pendant plusieurs heures.
 * **L'Égouttage Rigoureux :** Pressez le pain très fortement entre vos mains pour extraire l'eau salée avant de le servir.
@@ -58,3 +67,8 @@ Le pain peut rester un plaisir partagé si vous respectez le protocole de trempa
 
 ---
 **Pour aller plus loin :** [Guide Complet des Aliments Interdits et Toxiques](/posts/aliments-interdits-poules/)
+"@
+
+[System.IO.File]::WriteAllLines("$postPath\index.md", $content, (New-Object System.Text.UTF8Encoding($false)))
+
+Write-Host "✅ Fichier index.md mis à jour avec le contenu validé !" -ForegroundColor Green

@@ -1,3 +1,11 @@
+# =========================================================================================
+# SCRIPT : Finalize-Porte-Automatique.ps1
+# RÔLE : Intégration finale du contenu et des 3 images (Feature, Installation, Sécurité)
+# =========================================================================================
+
+$postPath = "C:\Users\madji\Documents\Mon-Petit-Poulailler\content\posts\porte-automatique-guide"
+
+$content = @"
 ---
 title: "Sécurité Maximale et Grasse Matinée Assurée : La Porte Automatique de Poulailler"
 slug: "porte-automatique-guide"
@@ -61,3 +69,7 @@ Si vous ne deviez acheter qu'un seul accessoire \"technique\", c'est celui-ci. P
 
 ---
 **ASTUCE :** Découvrez aussi notre [Check-list des 10 Accessoires Indispensables]({{< ref "accessoires-debutant-poules" >}}) pour compléter votre installation.
+"@
+
+[System.IO.File]::WriteAllLines("$postPath\index.md", $content, (New-Object System.Text.UTF8Encoding($false)))
+Write-Host "✅ Article 'Porte Automatique' finalisé avec les 3 images." -ForegroundColor Green

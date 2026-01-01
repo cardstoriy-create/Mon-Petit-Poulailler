@@ -1,3 +1,12 @@
+# =========================================================================================
+# SCRIPT : Finalize-Article-Hiver-Danger.ps1
+# RÔLE : Finalisation de l'article sur les dangers de la neige et du gel
+# =========================================================================================
+
+$postPath = "C:\Users\madji\Documents\Mon-Petit-Poulailler\content\posts\danger-hiver-poules"
+if (!(Test-Path $postPath)) { New-Item -ItemType Directory -Force -Path $postPath }
+
+$content = @"
 ---
 title: "Neige, Glace et Gelure : Le Danger Silencieux de l'Hiver"
 slug: "danger-hiver-poules"
@@ -58,3 +67,7 @@ La sécurité hivernale repose sur l'observation. Entre deux batailles de boules
 
 ---
 **Besoin d'équipement ?** [Consultez notre Guide des Meilleurs Abreuvoirs Chauffants]({{< ref "abreuvoirs-chauffants-guide" >}})
+"@
+
+[System.IO.File]::WriteAllLines("$postPath\index.md", $content, (New-Object System.Text.UTF8Encoding($false)))
+Write-Host "✅ Article 'Dangers Hiver' finalisé et nettoyé." -ForegroundColor Green

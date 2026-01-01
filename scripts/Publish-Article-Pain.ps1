@@ -1,3 +1,12 @@
+# =========================================================================================
+# SCRIPT : Publish-Article-Pain.ps1
+# RÔLE : Publication finale de l'article "Pain" avec la version corrigée
+# =========================================================================================
+
+$postPath = "C:\Users\madji\Documents\Mon-Petit-Poulailler\content\posts\donner-du-pain-poules"
+if (!(Test-Path $postPath)) { New-Item -ItemType Directory -Force -Path $postPath }
+
+$content = @"
 ---
 title: "Peut-on donner du pain aux poules ? Le Guide de Sécurité de Martin"
 slug: "donner-du-pain-poules"
@@ -58,3 +67,9 @@ Le pain peut rester un plaisir partagé si vous respectez le protocole de trempa
 
 ---
 **Pour aller plus loin :** [Guide Complet des Aliments Interdits et Toxiques](/posts/aliments-interdits-poules/)
+"@
+
+# Enregistrement du fichier index.md
+[System.IO.File]::WriteAllLines("$postPath\index.md", $content, (New-Object System.Text.UTF8Encoding($false)))
+
+Write-Host "🚀 L'article 'Pain' a été mis en ligne avec succès !" -ForegroundColor Cyan
