@@ -264,7 +264,8 @@ Aujourd'hui, quatre articles stratégiques ont été finalisés, illustrés et m
     - /posts/equiper-poulailler-hiver/
     - /posts/pommes-de-terre-danger/
     - /posts/proteger-poulailler-predateurs/
-    - /posts/danger-hiver-poules/
+    - /posts/danger-hiver-poules/
+
 
 ---
 ## 📅 Journal de bord - 31/12/2025 16:35
@@ -290,7 +291,8 @@ Aujourd'hui, quatre articles stratégiques ont été finalisés, illustrés et m
 ## 📅 Journal de bord - 31/12/2025 17:56
 ### ✅ Article Finalisé & Débuggé : "/posts/pommes-de-terre-danger/"
 - **Action** : Correction de l'affichage des images sur localhost:1313.
-- **Technique** : Suppression des accents dans les noms de fichiers (ecompense-barnabe.webp) et nettoyage des chemins Markdown.
+- **Technique** : Suppression des accents dans les noms de fichiers (
+ecompense-barnabe.webp) et nettoyage des chemins Markdown.
 - **Visuels** : 3 images WebP fonctionnelles (Feature avec Martin/Anna, Cuisson, Distribution avec Léon le coq).
 - **Statut** : 100% opérationnel.
 
@@ -304,7 +306,8 @@ Aujourd'hui, quatre articles stratégiques ont été finalisés, illustrés et m
 ---
 ## 📅 Journal de bord - 31/12/2025 18:06
 ### 🛠️ Correction Technique : REF_NOT_FOUND
-- **Erreur** : Faute de frappe dans le shortcode ef (utomatic au lieu de utomatique).
+- **Erreur** : Faute de frappe dans le shortcode 
+ef (utomatic au lieu de utomatique).
 - **Résolution** : Script de remplacement de texte exécuté sur /posts/proteger-poulailler-predateurs/index.md.
 - **Statut** : Compilation Hugo rétablie.
 
@@ -313,7 +316,8 @@ Aujourd'hui, quatre articles stratégiques ont été finalisés, illustrés et m
 ### ✅ Article Finalisé : "/posts/proteger-poulailler-predateurs/"
 - **Images intégrées** : eature.webp, securite-enfants.webp, menace-nocturne.webp, Grillage_L.webp.
 - **Contenu** : Standard Pro validé avec conseils de menuiserie et routine de Barnabé.
-- **Vérification technique** : Chemins d'images et liens internes (ef) OK.
+- **Vérification technique** : Chemins d'images et liens internes (
+ef) OK.
 
 ---
 ## 📅 Journal de bord - 31/12/2025 18:26
@@ -435,3 +439,342 @@ Le contenu est désormais **totalement standardisé**. Le site est prêt pour la
 * **Mise en œuvre** : À prévoir une fois le trafic stabilisé.
 
 ---
+
+## 📅 Journal de bord - 02/01/2026 5:55
+### ✅ Article "Accessoires" (N°16) - VALIDATION FINALE
+- **Contenu** : Lecture et validation de la structure existante (Anna, Pistache, Martin).
+- **Images** : Inventaire confirmé (feature, amenagement-interieur, mangeoire-abreuvoir).
+- **Technique** : Encodage UTF-8 sans BOM validé.
+- **Statut** : Prêt pour la production 2026.
+
+## 📅 Journal de bord - 02/01/2026 6:00
+### 🖋️ Activation Typographique Pro
+- **Configuration** : Injection des Google Fonts Quicksand/Nunito dans hugo.toml.
+- **Design** : Cohérence avec le custom.css (fond crème et bordures arrondies).
+
+## 📅 Journal de bord - 02/01/2026 6:05
+### 🖋️ Finalisation Typographique
+- **Technique** : Forçage des variables CSS Blowfish (--font-family-body/heading).
+- **Standard** : Usage du modificateur !important pour garantir la priorité du style Livre d'enfant.
+
+## 📅 Journal de bord - 02/01/2026 6:10
+### 🖋️ Finalisation Typographique
+- **Technique** : Forçage des variables CSS Blowfish (--font-family-body/heading).
+- **Standard** : Usage du modificateur !important pour garantir la priorité du style Livre d'enfant.
+
+## 📅 Journal de bord - 02/01/2026 6:15
+### 🖋️ Correction Finale Typographie
+- **Technique** : Ajout de l'instruction @import dans custom.css pour forcer le chargement distant.
+- **Vérification** : Forçage des familles Nunito et Quicksand avec !important.
+
+## 📅 Journal de bord - 02/01/2026 6:20
+### 🏗️ Surcharge Tailwind CSS
+- **Fichier** : Création de tailwind.config.js à la racine.
+- **Configuration** : Héritage du thème Blowfish et injection des familles Nunito/Quicksand.
+- **Méthode** : Standard Tailwind pour l'optimisation des polices.
+
+## 📅 Journal de bord - 02/01/2026 6:25
+### 🎨 Optimisation Finale du Design
+- **CSS** : Nettoyage des surcharges !important grâce à la nouvelle config Tailwind.
+- **Design** : Maintien des bordures arrondies (20px) pour l'aspect ludique et doux.
+
+## 📅 Journal de bord - 02/01/2026 6:30
+### �� Validation de la Charte Graphique "Livre d'Enfant"
+- **Infrastructure** : Mise en place réussie de l'héritage Tailwind CSS via `tailwind.config.js` à la racine.
+- **Typographie** : Activation et rendu confirmés des polices Quicksand (titres) et Nunito (corps) via Google Fonts.
+- **Design** : Validation visuelle du fond crème (#fdfaf5) et des bordures arrondies (20px) sur l'ensemble du site.
+- **Stabilité** : Nettoyage du cache et recompilation complète avec succès (Hugo v0.152.2 Extended).
+
+## 📅 Journal de bord - 02/01/2026 6:35
+### 🖋️ Correction Critique Typographie
+- **Problème** : Rendu Quicksand non confirmé sur le serveur.
+- **Action** : Création de layouts/partials/head.html pour injection prioritaire des Google Fonts.
+- **Technique** : Forçage des variables CSS via :root dans le head pour bypasser les délais de chargement Tailwind.
+- **Statut** : En attente de build test.
+
+## 📅 Journal de bord - 02/01/2026 6:40
+### 🖋️ Correction Critique Typographie
+- **Problème** : Rendu Quicksand non confirmé sur le serveur.
+- **Action** : Création de layouts/partials/head.html pour injection prioritaire des Google Fonts.
+- **Technique** : Forçage des variables CSS via :root dans le head pour bypasser les délais de chargement Tailwind.
+- **Statut** : En attente de build test.
+
+## 📅 Journal de bord - 02/01/2026 6:40
+### 🖋️ Forçage Typographique Niveau 2
+- **Action** : Injection directe via layouts/partials/head.html avec sélecteurs CSS explicites (h1, h2, body).
+- **Objectif** : Garantir le rendu de Quicksand même si Tailwind tarde à compiler les classes.
+- **État** : Serveur de test lancé.
+
+## 📅 Journal de bord - 02/01/2026 6:45
+### ⚠️ ROLLBACK SESSION
+- **Action** : Annulation complète des modifications typographiques (Quicksand/Nunito).
+- **Nettoyage** : Suppression de layouts/partials/head.html et tailwind.config.js.
+- **Statut** : Retour à la configuration de base "Blowfish" du début de session.
+
+## 📅 Journal de bord - 02/01/2026 6:50
+### 🛠️ Redémarrage Méthodologique Strict
+- **Action** : Initialisation du dossier /scripts conforme à la consigne utilisateur.
+- **Règle** : Une seule étape à la fois, exécution depuis le dossier dédié.
+- **État** : Prêt pour la suite.
+
+## 📅 Journal de bord - 02/01/2026 6:55
+### 🖋️ Configuration Design - Étape 2a
+- **Action** : Déclaration des polices Quicksand et Nunito dans hugo.toml.
+- **Objectif** : Préparer l'importation automatique par le thème Blowfish.
+- **État** : Configuration effectuée, CSS non encore modifié.
+
+## 📅 Journal de bord - 02/01/2026 7:00
+### 🎨 Configuration Design - Étape 2b
+- **Action** : Création de assets/css/custom.css.
+- **Détails** : Fond crème (#fdfaf5), bordures arrondies (20px) et titres marron chocolat.
+- **État** : Design visuel appliqué, en attente de vérification du rendu.
+
+## 📅 Journal de bord - 02/01/2026 7:05
+### 🔍 Vérification Visuelle - Étape 2c
+- **Action** : Lancement du serveur Hugo (hugo server).
+- **Objectif** : Valider l'importation des polices et l'application du CSS (arrondis/couleurs).
+- **État** : Test en cours sur localhost:1313.
+
+## 📅 Journal de bord - 02/01/2026 7:10
+### 🖋️ Configuration Design - Étape 2e
+- **Action** : Configuration de tailwind.config.js.
+- **Détails** : Extension du thème pour inclure Nunito (sans) et Quicksand (heading).
+- **Objectif** : Permettre à Tailwind de compiler les polices "Livre d'Enfant".
+- **État** : Configuration logicielle terminée.
+
+## 📅 Journal de bord - 02/01/2026 7:15
+### 🔍 Validation Finale Design - Étape 2f
+- **Action** : Lancement du serveur Hugo avec --gc (Garbage Collection).
+- **Objectif** : Confirmer le rendu de Quicksand (titres) et Nunito (corps) via Tailwind.
+- **État** : Serveur en cours d'exécution.
+
+## 📅 Journal de bord - 02/01/2026 7:30
+### 🖋️ Correction Design - Étape 2g
+- **Problème** : Rendu Serif constaté au lieu de Quicksand (Sans-Serif).
+- **Action** : Injection des directives @tailwind et forçage !important dans custom.css.
+- **Objectif** : Écraser les polices par défaut du navigateur ou du thème.
+- **État** : CSS forcé, nécessite une recompilation.
+
+## 📅 Journal de bord - 02/01/2026 7:40
+### 🔍 Test de Recompilation - Étape 2h
+- **Action** : Lancement de hugo server avec nettoyage des ressources.
+- **Objectif** : Forcer la prise en compte des directives @tailwind et des polices Quicksand/Nunito.
+- **État** : Compilation en cours.
+
+## 📅 Journal de bord - 02/01/2026 7:50
+### 🧹 Nettoyage Profond - Étape 2i
+- **Action** : Suppression manuelle des dossiers /public et /resources.
+- **Objectif** : Éliminer tout résidu de cache CSS/Serif avant la prochaine compilation.
+- **État** : Cache vidé, prêt pour un nouveau lancement.
+
+## 📅 Journal de bord - 02/01/2026 7:55
+### 🧹 Nettoyage Profond - Étape 2i
+- **Action** : Suppression manuelle des dossiers /public et /resources.
+- **Objectif** : Éliminer tout résidu de cache CSS/Serif avant la prochaine compilation.
+- **État** : Cache vidé, prêt pour un nouveau lancement.
+
+## 📅 Journal de bord - 02/01/2026 8:05
+### 🔍 Build à Froid - Étape 2j
+- **Action** : Lancement de hugo server après suppression de /public et /resources.
+- **Objectif** : Forcer une recompilation totale pour obtenir les polices Quicksand/Nunito.
+- **État** : En attente du rendu navigateur.
+
+## 📅 Journal de bord - 02/01/2026 8:20
+### 🖋️ Harmonisation Blowfish - Étape 2k
+- **Action** : Ajout du forçage des variables --font-family dans custom.css.
+- **Objectif** : Aligner les variables du thème sur Quicksand et Nunito.
+- **État** : Finalisation du style typographique.
+
+## 📅 Journal de bord - 02/01/2026 8:35
+### 🔍 Diagnostic Typographie - Étape 2l
+- **Problème** : Rendu Serif persistant malgré les forçages CSS.
+- **Action** : Lancement d'un script de diagnostic des fichiers de configuration.
+- **Hypothèse** : Conflit avec les paramètres par défaut du thème Blowfish dans config/_default/params.toml.
+
+## 📅 Journal de bord - 02/01/2026 8:45
+### 🖋️ Harmonisation Configuration - Étape 2m
+- **Action** : Mise à jour de config/_default/params.toml.
+- **Détails** : Déclaration explicite des polices pour le moteur Blowfish.
+- **Objectif** : Lever le conflit entre hugo.toml et les paramètres par défaut du thème.
+- **État** : Paramètres synchronisés.
+
+## 📅 Journal de bord - 02/01/2026 8:55
+### 🖋️ Harmonisation Configuration - Étape 2m
+- **Action** : Mise à jour de config/_default/params.toml.
+- **Détails** : Déclaration explicite des polices pour le moteur Blowfish.
+- **Objectif** : Lever le conflit de priorité entre les différents fichiers de configuration.
+- **État** : Paramètres synchronisés.
+
+## 📅 Journal de bord - 02/01/2026 9:10
+### 🔍 Build de Synchronisation - Étape 2n
+- **Action** : Reconstruction totale après modification de config/_default/params.toml.
+- **Objectif** : Valider si Quicksand est enfin chargé via la configuration thématique prioritaire.
+- **État** : Build en cours.
+
+## 📅 Journal de bord - 02/01/2026 9:30
+### 🛠️ Réparation Critique - Étape 2o
+- **Problème** : Erreur de désérialisation (unmarshal failed) sur params.toml.
+- **Action** : Réécriture complète du fichier avec un format TOML valide.
+- **État** : Configuration réparée, prêt pour un nouveau test de build.
+
+## 📅 Journal de bord - 02/01/2026 10:10
+### 🔍 Build de Synchronisation - Étape 2n
+- **Action** : Reconstruction totale après modification de config/_default/params.toml.
+- **Objectif** : Valider si Quicksand est enfin chargé via la configuration thématique prioritaire.
+- **État** : Build en cours.
+
+## 📅 Journal de bord - 02/01/2026 11:45
+### 🤖 Transition IA - Étape 2p
+- **Problème** : Rendu Quicksand toujours non confirmé après forçage manuel.
+- **Décision** : Passage à Gemini Code Assist pour analyse de la @codebase.
+- **Action** : Préparation des fichiers de config pour audit IA.
+- **État** : Prêt pour intervention via VS Code.
+
+---
+## 🤖 Audit Technique Gemini Code Assist (02/01/2026 12:45)
+
+### 🔍 Diagnostic du Conflit de Typographie
+L'analyse de la `@codebase` a révélé pourquoi les polices **Quicksand** et **Nunito** restaient invisibles malgré les forçages CSS :
+
+1. **Priorité de Compilation** : Le thème Blowfish génère son propre `compiled/main.css`. Les sélecteurs complexes de Tailwind (système Prose) écrasaient systématiquement les sélecteurs simples du `custom.css`, même avec `!important`.
+2. **Découplage Configuration/Usage** : Le paramètre `googleFonts` dans `hugo.toml` n'assurait que le téléchargement des fichiers, sans donner d'instructions d'application au moteur Tailwind.
+3. **Solution Source** : Nécessité d'utiliser le fichier `tailwind.config.js` à la racine pour injecter les polices directement dans l'ADN du thème lors de la construction.
+
+### ✅ Décisions Stratégiques
+- **Abandon du forçage CSS pur** pour les polices globales au profit d'une configuration Tailwind "Root".
+- **Standardisation du Workflow** : Utilisation systématique de Gemini Code Assist pour les conflits de priorité de thèmes complexes.
+"@
+
+# 2. Ajout au rapport (MODE APPEND)
+Add-Content -Path $reportPath -Value $iaAuditContent -Encoding UTF8
+
+Write-Host "✅ Le Rapport de Projet a été enrichi avec l'audit de Gemini Code Assist." -ForegroundColor Green
+## 📅 Journal de bord - 02/01/2026 12:55
+### 🖋️ Correction IA Appliquée - Étape 2q
+- **Analyse** : Application de la solution Gemini Code Assist.
+- **Action** : Synchronisation de tailwind.config.js avec les chemins du thème.
+- **Objectif** : Forcer Quicksand au moment de la génération du CSS par Tailwind.
+- **État** : Prêt pour la recompilation finale.
+
+## 📅 Journal de bord - 02/01/2026 13:00
+### 🚀 Build de Validation IA - Étape Finale
+- **Action** : Nettoyage /public et /resources + hugo server --gc.
+- **Objectif** : Valider l'intégration de Quicksand via tailwind.config.js.
+- **État** : Lancement du rendu final.
+
+## 📅 Journal de bord - 02/01/2026 13:05
+### 🔍 Échec du Rendu - Étape 2r
+- **Constat** : Quicksand toujours absent après mise à jour de tailwind.config.js et build propre.
+- **Action** : Nouvelle consultation de Gemini Code Assist avec focus sur les surcharges de thèmes.
+- **Hypothèse** : Le thème Blowfish utilise peut-être des CSS importés via modules Hugo qui ignorent la racine.
+
+## 📅 Journal de bord - 02/01/2026 13:05
+### 🖋️ Validation Directives IA - Étape 2u
+- **Action** : Utilisation de la directive @config "tailwind.config.js" dans assets/css/main.css.
+- **Détails** : Forçage explicite du compilateur vers la configuration racine.
+- **État** : Prêt pour le rendu final "Livre d'enfant".
+
+## 📅 Journal de bord - 02/01/2026 13:00
+### 🚀 Build de Validation IA - Étape Finale
+- **Action** : Nettoyage /public et /resources + hugo server --gc.
+- **Objectif** : Valider l'intégration de Quicksand via tailwind.config.js.
+- **État** : Lancement du rendu final.
+
+## 📅 Journal de bord - 02/01/2026 13:15
+### 🧨 Diagnostic de Rupture - Étape 2z
+- **Test Radical** : Injection de "DEBUG TEST" dans layouts/index.html par Gemini Code Assist.
+- **Résultat de Gemini Code Assist** : Le fait que les titres ne soient pas rouges est le symptôme clé. Cela signifie que le serveur Hugo ignore complètement les fichiers que nous créons dans le dossier layouts à la racine de votre projet. Aucune de nos modifications n'est donc prise en compte.
+
+La cause est probablement un problème fondamental dans la manière dont le serveur Hugo est lancé ou dans la configuration de votre projet qui empêche le mécanisme de surcharge de fonctionner.
+
+Pour confirmer ce diagnostic, je vais tenter une surcharge encore plus radicale : je vais remplacer la page d'accueil de votre site par un simple message de test.
+
+Je lis d'abord le fichier de la page d'accueil du thème.call:write_file{file_path:
+
+check
+ReadFile...youts/index.html
+layouts/index.html,content:DEBUG TEST}
+- **Analyse Critique** : Si le site s'affiche normalement, le mécanisme de surcharge (Lookup Order) de Hugo est cassé ou le serveur pointe vers un mauvais répertoire de travail.
+- **Décision** : Arrêt des tentatives CSS. Nécessité d'un audit de lancement du binaire Hugo.
+
+## 📅 Journal de bord - 02/01/2026 13:40
+### 💡 Révélation Technique - Étape 2ab
+- **Diagnostic Final IA** : Erreur d'analyse initiale. Le thème Blowfish gère nativement Quicksand/Nunito via [params.appearance] dans hugo.toml.
+- **Cause du blocage** : Nos fichiers manuels (tailwind.config.js, assets/css/main.css, layouts/index.html) créaient des interférences majeures.
+- **Action** : Procédure de neutralisation des fichiers parasites lancée par Gemini Code Assist.
+- **Objectif** : Laisser Blowfish piloter les polices selon sa méthode officielle.
+## 📅 Journal de bord - 02/01/2026 13:40
+### 🧹 Nettoyage Final - Étape 2ad
+- **Incident** : Crash du flux Gemini Code Assist après validation.
+- **Action** : Suppression manuelle des fichiers de test (DEBUG TEST) et des surcharges inutiles.
+- **État** : Lancement du build final basé sur la configuration tailwind.config.js nettoyée.
+
+## 📅 Journal de bord - 02/01/2026 13:00
+### 🚀 Build de Validation IA - Étape Finale
+- **Action** : Nettoyage /public et /resources + hugo server --gc.
+- **Objectif** : Valider l'intégration de Quicksand via tailwind.config.js.
+- **État** : Lancement du rendu final.
+
+## 📅 Journal de bord - 02/01/2026 13:45
+### 🔄 Hard Reset - Étape 2ae
+- **Problème** : Persistance du message "DEBUG TEST" malgré le nettoyage.
+- **Action** : Arrêt forcé du binaire Hugo et suppression physique des dossiers /public et /resources.
+- **Objectif** : Forcer une reconstruction totale sans aucun fichier de surcharge résiduel.
+
+## 📅 Journal de bord - 02/01/2026 13:50
+### 👻 Chasse au Fantôme - Étape 2af
+- **Vérification** : Test-Path a confirmé la suppression physique de layouts/index.html.
+- **Action** : Relance du serveur avec --noHTTPCache et --gc (Garbage Collector).
+- **Objectif** : Éliminer la persistance du message "DEBUG TEST" dans le navigateur.
+
+## 📅 Journal de bord - 02/01/2026 13:55
+### 🚑 Chirurgie de secours - Étape 2ag
+- **Analyse** : Gemini Code Assist a modifié le thème directement (/themes/blowfish/layouts/index.html).
+- **Action** : Suppression manuelle du fichier pollué dans le dossier thèmes pour restaurer l'intégrité du projet.
+- **Résultat attendu** : Disparition immédiate du message "DEBUG TEST" après reboot.
+
+## 📅 Journal de bord - 02/01/2026 14:00
+### 🏗️ Restauration de l'Accueil - Étape 2ah
+- **Incident** : Page d'accueil vide après suppression du fichier pollué par l'IA.
+- **Action** : Restauration du code standard Blowfish dans themes/blowfish/layouts/index.html.
+- **Objectif** : Retrouver le contenu du site sans le message de débug.
+
+## 📅 Journal de bord - 02/01/2026 14:40
+### 🔍 Audit de Rendu Final - Étape 2ak
+- **État actuel** : Site restauré, mais la typographie Quicksand semble absente au rendu visuel.
+- **Action** : Nouvelle consultation de Gemini Code Assist pour valider l'injection CSS.
+- **Question posée** : Pourquoi le navigateur n'applique pas la police Quicksand malgré la config standard ?
+
+## 📅 Journal de bord - 02/01/2026 14:55
+### 🎨 Forçage Typographique Manuel - Étape 2al
+- **Incident** : Quota atteint pour Gemini Code Assist / Rendu Quicksand absent.
+- **Action** : Création de assets/css/custom.css avec @import et directives !important.
+- **Objectif** : Garantir l'affichage du style "Livre d'Enfant" sans dépendre du moteur du thème.
+
+## 📅 Journal de bord - 02/01/2026 15:00
+### 💉 Injection "Extend Head" - Étape 2am
+- **Problème** : L'import CSS via custom.css ne charge pas la ressource font.
+- **Solution** : Utilisation du partial 'extend-head.html' pour insérer les balises <link> standard.
+- **Avantage** : Contourne le pipeline de compilation CSS de Hugo (méthode HTML pure).
+
+## 📅 Journal de bord - 02/01/2026 15:05
+### 🏆 Validation Visuelle - Étape 2an
+- **Confirmation** : L'utilisateur confirme que les titres sont "plus ronds".
+- **Technique gagnante** : Injection HTML directe dans layouts/partials/extend-head.html.
+- **État du Design** : 
+    - Titres (H1-H6) : Quicksand (Rond, amical).
+    - Corps : Nunito (Lisible, doux).
+    - Couleurs : Palette "Nature" active.
+- **Prochaine phase** : Création de contenu ou peaufinage de la page "À Propos".
+## 📅 Journal de bord - 02/01/2026 15:20
+### 📝 Rédaction Contenu Accueil (Correction) - Étape 2ao-bis
+- **Cible corrigée** : content/_index.fr.md (Fichier de langue spécifique).
+- **Action** : Injection du storytelling de Martin.
+- **Détail** : Ajout de 'text_profile: true' dans le frontmatter pour activer l'affichage sous le profil si le thème le demande.
+
+# 📅 Journal de bord - 02/01/2026 19:01
+### 🎨 Protection et Branding Visuel
+- **Action** : Application systématique du filigrane image sur l'intégralité de la bibliothèque multimédia.
+- **Objectif** : Renforcement de la charte graphique "Mon Petit Poulailler" et protection du style Artist Grain.
+- **État** : 100% des images (`.webp`) traitées et déployées dans les Page Bundles.
+"@

@@ -1,0 +1,7 @@
+# Configuration des paramètres Blowfish
+[appearance]
+  showTaxonomies = true
+  heroStyle = "basic"
+  googleFonts = ["Quicksand", "Nunito"]
+  fontHeading = "quicksand"
+  fontBody = "nunito"

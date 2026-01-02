@@ -1,53 +1,66 @@
 ---
-title: "Quelle litière choisir pour vos poules en 2026 ? Le comparatif complet"
-date: 2025-12-30T16:00:00Z
+title: "Quelle Litière Choisir ? Paille, Copeaux ou Chanvre : Le Guide Hygiène 2026"
+date: 2025-12-31T09:00:00Z
+lastmod: 2026-01-02T10:00:00Z
 draft: false
-author: "Martin"
-categories: ["sante"]
-tags: ["Entretien", "Hygiène", "Bien-être"]
-summary: "Chanvre, paille ou copeaux ? En 2026, le choix de la litière est vital pour éviter l'humidité et les maladies. Martin vous aide à choisir la meilleure option."
-showTaxonomies: true
+authors: ["Martin"]
+categories: ["Conseils Élevage"]
+tags: ["Hygiène", "Santé", "Nettoyage", "Litière"]
+summary: "Chanvre, paille ou copeaux ? Le choix de la litière est déterminant pour la santé de vos poules. Martin vous présente son kit 'Hygiène Parfaite' et les produits testés."
 showHero: true
-feature: "feature.webp"
+featureImage: "feature.webp"
+showTaxonomies: true
+heroStyle: "basic"
 ---
 
-**Le choix de la litière impacte directement la santé respiratoire de vos poules. En 2026, la litière de chanvre s'impose comme la solution premium pour son pouvoir absorbant et l'absence totale de poussière.**
-
-Bonjour à tous ! Ici Martin. On me demande souvent : "Martin, la paille c'est gratuit, pourquoi s'embêter ?" La réponse tient en un mot : **l'humidité**. Une mauvaise litière est un nid à bactéries et à odeurs.
+**Le choix de la litière est déterminant pour la santé de vos poules. Contrairement aux idées reçues, la paille est souvent déconseillée dans le dortoir car elle retient l'humidité. Pour garder un poulailler sec et sans odeur, privilégiez le chanvre ou les copeaux dépoussiérés.**
 
 ---
 
-## 1. Le Match des Matériaux : Comparatif 2026
+## Pourquoi il faut éviter la Paille
+C'est l'erreur du débutant par excellence. La paille (tige jaune du blé) est constituée de tubes creux.
+* **L'effet "Éponge" inversé :** L'urine coule à travers et stagne sur le bois.
+* **Le nid à parasites :** Les tiges creuses sont des cachettes pour les poux rouges.
+* **Les spores :** Risque de moisissures (aspergillose) pour les poumons fragiles.
 
-### La Litière de Chanvre (Le Choix de Martin)
-C’est notre préférée à la maison. Elle est ultra-absorbante (elle peut absorber jusqu'à 4 fois son volume en eau) et ne vole pas au moindre coup d'aile.
+*Note : Gardez la paille uniquement pour les pondoirs (les nids).*
 
-* **Avantages :** Zéro poussière (idéal pour les poules fragiles), compostable, isolant thermique.
-* **Inconvénient :** Prix légèrement supérieur à la paille.
+## Le Match : Copeaux de Bois vs Chanvre
 
-### Les Copeaux de Bois (Dépoussiérés)
-Une bonne alternative si vous choisissez des copeaux **spécifiquement dépoussiérés**. Attention aux copeaux de menuiserie classique qui sont trop fins et irritants pour les poumons de vos oiseaux.
+![Comparatif texture litière chanvre et copeaux](comparatif-litiere-chanvre-copeaux.webp)
 
-## 2. L'Entretien et l'Hygiène
+Pour le sol du dortoir, nous cherchons un matériau qui boit l'humidité comme un buvard.
 
-![Texture de la litière de chanvre manipulée par Anna](litiere-chanvre.webp)
+### 1. Les Copeaux de Bois (Dépoussiérés)
+C'est la solution économique. Attention, n'utilisez jamais de sciure de menuiserie brute !
+* **Avantages :** Prix bas, bonne odeur de bois frais.
+* **Inconvénients :** Moins absorbant que le chanvre.
+
+### 2. La Litière de Chanvre : Le Choix de Martin
+C'est la "Rolls" de la litière. Issue de la tige centrale du chanvre, elle agit comme une éponge naturelle.
+* **Absorption record :** Jusqu'à 5 fois son volume en eau.
+* **Compostable :** Se dégrade très vite au compost.
 
 {{< alert icon="lightbulb" >}}
-**L'Astuce d'Anna :** Nous saupoudrons toujours un peu de **Terre de Diatomée** sur le sol avant d'étaler le chanvre. C'est la meilleure barrière préventive contre les poux rouges.
+**Le conseil de Martin :** Pour une hygiène parfaite, saupoudrez un peu de Terre de Diatomée sur le plancher nu *avant* de remettre la litière propre. Cela crée une barrière asséchante sous le tapis de chanvre.
 {{< /alert >}}
 
-## 3. Alerte Santé de l'Expert
+![Application de la terre de diatomée sous la litière](application-terre-diatomee-sous-litiere.webp)
 
-{{< alert icon="triangle-exclamation" cardColor="#e63946" >}}
-**Rappel Crucial :** Pendant que vous nettoyez le poulailler, gardez un œil sur vos poules si elles se promènent près du potager ou de la cuisine. Ne leur donnez jamais d'**avocat** ou de **chocolat**, car ces aliments sont mortels pour elles.
-{{< /alert >}}
+## Votre Kit "Hygiène Parfaite" (Sélection 2026)
+Voici les produits exacts que nous utilisons pour nos 3-4 poules :
 
-## 4. Tableau Récapitulatif
+| Produit | Pourquoi ce choix ? | Voir le prix |
+| :--- | :--- | :--- |
+| **Litière de Chanvre (100L)** | **Le Top (Zolux/Sicofor).** Grand volume économique. Absorbe 5x plus que la paille. | [Voir sur Amazon](https://amzn.to/4b6dvcz) |
+| **Copeaux Dépoussiérés** | **L'Alternative (Duvo+).** 100% naturels et sans poussière. Odeur agréable. | [Voir sur Amazon](https://amzn.to/4shHqoq) |
+| **Terre de Diatomée** | **L'Asséchant.** À saupoudrer SOUS la litière pour assainir et tuer les larves. | [Voir sur Amazon](https://amzn.to/4paDzXp) |
 
-| Litière | Absorption | Poussière | Note Martin |
-| :--- | :--- | :--- | :--- |
-| **Chanvre** | ⭐⭐⭐⭐⭐ | Nulle | 10/10 |
-| **Copeaux** | ⭐⭐⭐ | Faible | 7/10 |
-| **Paille** | ⭐ | Élevée | 4/10 |
+## La routine de nettoyage en 5 minutes
+Pas besoin de tout vider tous les jours !
+1. **Chaque matin :** Enlevez les fientes sous les perchoirs.
+2. **Hebdo :** Remettez une poignée de litière fraîche.
+3. **Mensuel :** Videz tout, désinfectez et remplacez intégralement.
 
-En conclusion, si vous visez le confort et la longévité de votre poulailler en 2026, le chanvre reste votre meilleur allié !
+---
+*Si vous voulez éviter les maladies et ne pas vous boucher le nez en ouvrant le poulailler, oubliez la paille !*

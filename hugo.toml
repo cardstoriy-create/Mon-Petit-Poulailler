@@ -10,6 +10,9 @@ defaultContentLanguage = "fr"
 
 # --- CONFIGURATION DU THÈME BLOWFISH ---
 [params]
+  # --- STYLE LIVRE D'ENFANT (POLICES) ---
+  googleFonts = ["Quicksand", "Nunito"]
+
   colorScheme = "blowfish"
   mainSections = ["posts"]
   amazonTag = "monpetitpoulailler-21"
@@ -57,3 +60,7 @@ defaultContentLanguage = "fr"
   [languages.fr.params.header]
     showLogo = true
     logo = "martin.png"
+[params.appearance]
+  googleFonts = ["Quicksand", "Nunito"]
+  fontHeading = "Quicksand"
+  fontBody = "Nunito"
