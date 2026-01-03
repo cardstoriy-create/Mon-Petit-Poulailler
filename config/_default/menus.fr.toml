@@ -1,24 +1,29 @@
 [[main]]
   name = "Accueil"
-  pageRef = "/"
+  url = "/"
   weight = 10
 
 [[main]]
-  name = "Matériel"
-  pageRef = "categories/materiel"
+  name = "Nutrition"
+  url = "/categories/nutrition/"
   weight = 20
 
 [[main]]
-  name = "Nutrition"
-  pageRef = "categories/nutrition"
+  name = "Matériel"
+  url = "/categories/materiel/"
   weight = 30
 
 [[main]]
-  name = "Santé"
-  pageRef = "categories/sante"
+  name = "Santé & Hygiène"
+  url = "/categories/sante/"
   weight = 40
 
 [[main]]
-  name = "Guides"
-  pageRef = "categories/guides"
+  name = "Réglementation"
+  url = "/categories/guides/"
   weight = 50
+
+[[main]]
+  name = "À Propos"
+  url = "/about/"
+  weight = 60

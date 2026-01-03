@@ -5,3 +5,9 @@
   googleFonts = ["Quicksand", "Nunito"]
   fontHeading = "quicksand"
   fontBody = "nunito"
+
+[header]
+  logo = "images/martin.svg"
+  # Pas de showLogo, pas de chichi. Juste le fichier.
+
+

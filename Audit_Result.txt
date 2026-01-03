@@ -1,0 +1,21 @@
+
+=== RAPPORT D'AUDIT TECHNIQUE - 01/03/2026 16:07:40 ===
+✅ IMAGE : martin.png trouvé dans /assets
+✅ CONFIG : params.toml trouvé
+--- Contenu de params.toml ---
+# Configuration des paramètres Blowfish
+[appearance]
+  showTaxonomies = true
+  heroStyle = "basic"
+  googleFonts = ["Quicksand", "Nunito"]
+  fontHeading = "quicksand"
+  fontBody = "nunito"
+
+[header]
+  showLogo = true
+  logo = "martin.png"
+  showMenu = true
+-----------------------------
+📦 DOSSIER PUBLIC : Présent
+📦 DOSSIER RESOURCES : Présent
+

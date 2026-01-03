@@ -1,0 +1,13 @@
+baseURL = "https://mon-petit-poulailler.com/"
+languageCode = "fr"
+title = "Mon Petit Poulailler"
+theme = "blowfish"
+
+# On laisse Hugo utiliser les chemins par défaut pour éviter l'erreur de type
+# Le dossier 'assets' sera trouvé automatiquement à la racine.
+
+[languages]
+  [languages.fr]
+    languageName = "Français"
+    contentDir = "content"
+    weight = 1

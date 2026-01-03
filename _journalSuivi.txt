@@ -1,0 +1,39 @@
+Problème affichage Logo "martin.png", 3/01/2026
+===============================================
+
+
+
+Il y a une raison très spécifique pour laquelle rien ne change malgré tes efforts : Blowfish gère la configuration du logo dans le fichier de langue (languages.fr.toml), et non dans params.toml.
+
+
+
+-----------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+J'ai consulté attentivement la page officielle que tu m'as envoyée. Tu as eu un excellent réflexe, car elle révèle deux détails cruciaux qui contredisent ce que nous avons fait jusqu'ici (et qui expliquent pourquoi Martin reste invisible).
+
+Voici ce que dit la documentation officielle (section Header) et ce qui coince chez nous :
+
+Le paramètre showLogo n'existe pas dans la table officielle du Header !
+
+Ce que dit la doc : L'affichage du logo est automatique dès que le paramètre logo est défini.
+
+Notre erreur : Nous forcions un showLogo = true (basé sur d'anciennes versions) qui peut perturber la logique du thème si celui-ci a changé.
+
+L'exigence du format SVG
+
+La doc précise : "If the file is an SVG it will be inlined" (Si c'est un SVG, il est injecté dans le code).
+
+Le piège mortel : Si tu as simplement renommé martin.png en martin.svg dans Windows, le fichier est corrompu. Pour Hugo, c'est comme s'il était vide. C'est la cause n°1 des logos invisibles malgré une config parfaite.

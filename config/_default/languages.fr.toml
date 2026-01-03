@@ -1,4 +1,3 @@
-disabled = false
 languageCode = "fr"
 languageName = "Français"
 weight = 1
@@ -9,11 +8,18 @@ title = "Mon Petit Poulailler"
   isoCode = "fr"
   rtl = false
   dateFormat = "2 January 2006"
-  description = "Conseils passionnés pour élever vos poules avec Martin et Julie."
- copyright = "En tant que Partenaire Amazon, je réalise un bénéfice sur les achats remplissant les conditions requises. | © 2025 Mon Petit Poulailler"
+  logo = "martin.png" 
+  # C'est cette ligne ci-dessus qui est CRUCIALE pour Martin
 
-[params.author]
-  name = "Martin"
-  # image = "img/martin_logo.png" # À créer plus tard
-  headline = "Menuisier passionné et expert en poulaillers"
-  bio = "Martin partage ses astuces de menuisier pour offrir le meilleur confort à vos poules."
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Accueil"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Le Poulailler"
+    url = "/posts/"
+    weight = 20

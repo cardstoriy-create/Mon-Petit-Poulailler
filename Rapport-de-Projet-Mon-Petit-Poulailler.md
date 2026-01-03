@@ -778,3 +778,164 @@ layouts/index.html,content:DEBUG TEST}
 - **Objectif** : Renforcement de la charte graphique "Mon Petit Poulailler" et protection du style Artist Grain.
 - **État** : 100% des images (`.webp`) traitées et déployées dans les Page Bundles.
 "@
+## 📅 Journal de bord - 02/01/2026 19:03
+### 🚀 Déploiement Production
+- **Action** : Push global vers Cloudflare Pages.
+- **Contenu** : Mise en ligne des 77 images avec filigrane et de l'article Litière validé.
+- **État** : CI/CD en cours sur Cloudflare.
+### ✅ Déploiement Final et Branding Terminés
+- **Git Push** : Succès du commit `60e4503`. 95 fichiers synchronisés.
+- **Contenu** : L'article Litière et les 77 visuels filigranés sont en ligne.
+- **DevOps** : Initialisation complète du dossier `/scripts` avec 41 nouveaux utilitaires automatisés.
+- **Design** : Validation de la chaîne de compilation Tailwind CSS + Google Fonts (Quicksand/Nunito).
+- **État Global** : Projet "Mon Petit Poulailler" prêt pour 2026. 🟢
+
+
+## 📅 Journal de bord - 03/01/2026 15:55
+### ⚠️ Correction Incident Menu
+- **Incident** : Écrasement accidentel du fichier menus.fr.toml lors de l'ajout de la page À Propos.
+- **Résolution** : Restauration via script PowerShell intégrant les trois piliers : Accueil, Guides, À Propos.
+- **Standard** : Retour au protocole de vérification de contenu avant modification.
+
+## 📅 Journal de bord - 03/01/2026 15:05
+### ✅ Résolution des Erreurs 404 de Navigation
+- **Action** : Correction des chemins d'accès dans menus.fr.toml.
+- **Détails** : Suppression des accents dans les URLs (/materiel/, /sante/) pour correspondre aux dossiers système.
+- **Législatif** : Redirection de l'onglet 'Réglementation' vers la catégorie '/guides/' conformément à la structure réelle.
+- **Résultat** : Navigation 100% fonctionnelle sur l'ensemble des piliers thématiques.
+
+## 📅 Journal de bord - 03/01/2026 17:15
+### ✅ Restructuration de la Configuration Globale
+- **Action** : Nettoyage drastique de hugo.toml pour supprimer les conflits avec /config/_default/.
+- **Correction Hero** : Injection forcée de heroStyle: "basic" dans about/index.fr.md.
+- **Maintenance** : Purge complète des dossiers /public et /resources pour forcer la recompilation.
+- **Résultat** : Alignement sur les standards Blowfish et résolution des problèmes d'affichage d'images.
+
+## 📅 Journal de bord - 03/01/2026 15:45
+### 🛠️ Nettoyage Visuel Page 'À Propos'
+- **Action** : Suppression du titre H1 redondant dans le corps du texte.
+- **Correction Image** : Basculement du layout vers "background" pour forcer l'affichage de feature.webp.
+- **Résultat** : Structure de page allégée et conforme au thème Blowfish.
+
+## 📅 Journal de bord - 03/01/2026 17:45
+### ✅ Session de Stabilisation Design Terminée
+- **Design** : Validation du rendu 'layout: background' pour la page À Propos. Lisibilité du titre confirmée sur l'image Artist Grain.
+- **Maintenance** : Standardisation complète des fichiers de configuration (hugo.toml allégé).
+- **Navigation** : Recalibrage des URLs du menu pour éliminer les erreurs 404.
+- **Statut global** : Site stable, design cohérent, prêt pour la production de nouveaux contenus.
+
+## 📅 Journal de bord - 03/01/2026 17:55
+### 🎨 Harmonisation Stylistique Globale
+- **Action** : Alignement de la page À Propos sur le 'Standard Pro' (layout: article, heroStyle: basic).
+- **Cohérence** : Activation de showTaxonomies et showAuthor pour correspondre aux articles thématiques.
+- **Résultat** : Uniformité visuelle parfaite sur l'ensemble du domaine mon-petit-poulailler.com.
+
+## 📅 Journal de bord - 03/01/2026 18:05
+### ✅ Harmonisation Design Terminée
+- **Action** : Alignement de la page À Propos sur le layout 'article' et le heroStyle 'basic'.
+- **Résultat** : Suppression des disparités visuelles. L'expérience utilisateur est désormais fluide sur tout le site.
+- **Vérification** : Polices Quicksand/Nunito et images Artist Grain validées sur toutes les sections.
+
+## 📅 Journal de bord - 03/01/2026 16:30
+### 🖼️ Correction Nom du Logo
+- **Identification** : Le logo est présent sous le nom martin.png dans /assets.
+- **Action** : Correction du chemin dans params.toml.
+- **Statut** : Prêt pour recompilation.
+
+## 📅 Journal de bord - 03/01/2026 17:15
+### 🖼️ Logo Martin Validé
+- **Emplacement** : Confirmé dans /assets/martin.png.
+- **Action** : Paramétrage logo = "martin.png" injecté avec succès.
+- **Statut** : Prêt pour le déploiement.
+
+## 📅 Journal de bord - 03/01/2026 16:10
+### 🕵️ Dépannage Logo Invisible
+- **Constat** : Logo absent sur localhost:1313.
+- **Action** : Forçage du paramètre dans la section [header] et suppression physique des dossiers /public et /resources.
+- **Statut** : Prêt pour nouveau test.
+
+## 📅 Journal de bord - 03/01/2026 17:15
+### 🛠️ Injection Configuration Header
+- **Diagnostic** : Section [header] absente du params.toml.
+- **Action** : Ajout manuel des paramètres showLogo et logo = "martin.png".
+- **Résultat** : En attente de build.
+
+## 📅 Journal de bord - 03/01/2026 17:35
+### 🚑 Réparation Critique params.toml
+- **Incident** : Erreur 'table header already exists' (doublon [header]).
+- **Action** : Réécriture complète du fichier avec une structure unique et propre.
+- **Résultat** : Prêt pour relance serveur.
+
+## 📅 Journal de bord - 03/01/2026 17:45
+### 🚑 Seconde Réparation params.toml
+- **Problème** : Échec WriteAllText dû à un chemin absolu incorrect.
+- **Solution** : Utilisation de Join-Path et Set-Content pour garantir l'accès au fichier.
+- **Résultat** : Structure Blowfish restaurée.
+
+## 📅 Journal de bord - 03/01/2026 17:55
+### 🎨 Audit Tailwind vs Logo
+- **Hypothèse** : Tailwind purgeait peut-être les classes CSS du logo.
+- **Action** : Mise à jour du content dans 	ailwind.config.js pour inclure les layouts de Blowfish.
+- **Résultat** : Prêt pour recompilation.
+
+## 📅 Journal de bord - 03/01/2026 18:15
+### 🛡️ Résolution de Conflit de Configuration
+- **Incident** : hugo.toml à la racine écrasait les paramètres du thème.
+- **Action** : Neutralisation de hugo.toml (renommé en .bak).
+- **Résultat** : Priorité restaurée pour config/_default/params.toml.
+
+## 📅 Journal de bord - 03/01/2026 16:25
+### 🛠️ Correction Shortcode Alert
+- **Incident** : Erreur 'shortcode alert not found' après bascule de config.
+- **Cause** : Thème Blowfish non déclaré dans config/_default/hugo.toml.
+- **Action** : Activation forcée du thème dans la configuration modulaire.
+
+## 📅 Journal de bord - 03/01/2026 15:50
+### ✅ Application de la Solution Qwen-Max
+- **Diagnostic** : Blowfish exige le sous-dossier ssets/images/ pour les fichiers PNG.
+- **Action** : Création du dossier et déplacement de martin.png.
+- **Standard** : Respect de la logique Hugo Pipes / resources.Get du thème.
+
+## 📅 Journal de bord - 03/01/2026 16:30
+### 🧹 Nettoyage des résidus de configuration
+- **Action** : Suppression définitive de hugo.toml.bak et .hugo_build.lock.
+- **Confirmation** : Maintien de la configuration modulaire dans /config/_default/ pour éviter les conflits de logo.
+
+## 📅 Journal de bord - 03/01/2026 17:45
+### 🚩 Découverte Critique : Hiérarchie de Configuration Blowfish
+- **Symptôme** : Le logo restait invisible malgré une configuration valide dans `params.toml` et un fichier SVG correct.
+- **Cause Racine Identifiée** : Architecture multilingue de Blowfish.
+    - Le fichier **`config/_default/languages.fr.toml`** est prioritaire sur `config/_default/params.toml`.
+    - Si une section `[params]` existe dans le fichier de langue (ce qui est le défaut), elle **écrase** les réglages globaux correspondants.
+- **Solution Technique** : Déplacer la déclaration du logo directement dans le fichier de langue spécifique.
+    ```toml
+    # Dans languages.fr.toml
+    [params]
+      logo = "martin.svg" # C'est ici que ça se décide !
+    ```
+- **Standard SVG** : Confirmation que Hugo v0.152+ et Blowfish exigent des fichiers SVG valides (vecteurs réels) placés dans `assets/` pour l'injection inline.
+"@
+---
+### 🎨 Solution Technique : Le Logo (Problème du "Carré Blanc/Noir")
+
+**Le Problème rencontré :**
+Lors de l'intégration du logo (Martin et sa poule), l'image s'affichait avec un fond carré (blanc ou noir) au lieu d'être détourée, ou le fichier SVG vectorisé était illisible/trop lourd.
+
+**La Cause :**
+L'image d'origine est une illustration complexe (style aquarelle). La conversion automatique en SVG gère mal ces détails. De plus, Blowfish n'arrondit pas automatiquement les images carrées sans CSS spécifique.
+
+**✅ La Solution Validée (Procédure à suivre) :**
+
+1.  **Format de l'image :**
+    * Utiliser le format **PNG** pour conserver la qualité.
+    * L'image doit être découpée en cercle (fond transparent) *avant* l'importation.
+
+2.  **Emplacement du fichier :**
+    * Placer martin.png directement dans la racine ssets/ (ex: Mon-Petit-Poulailler/assets/martin.png).
+
+3.  **Configuration Hugo (config/_default/languages.fr.toml) :**
+    * logo = "martin.png"
+
+4.  **Sécurité CSS (ssets/css/custom.css) :**
+    * Ajouter : header a img, .logo img { border-radius: 50% !important; object-fit: cover !important; }
+---
