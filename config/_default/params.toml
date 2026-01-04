@@ -10,4 +10,11 @@
   logo = "images/martin.svg"
   # Pas de showLogo, pas de chichi. Juste le fichier.
 
+# --- Réglages des Articles ---
+[article]
+  showDate = true
+  showAuthor = true
+  # On force le style "Fond d'écran" pour tous les articles par défaut
+  heroStyle = "background"
+  showHero = true
 

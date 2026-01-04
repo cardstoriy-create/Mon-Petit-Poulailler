@@ -1,4 +1,6 @@
 ---
+layout: "background"
+heroStyle: "background"
 title: "Neige, Glace et Gelure : Le Danger Silencieux de l'Hiver"
 slug: "danger-hiver-poules"
 date: 2025-12-12T09:25:00Z
@@ -11,10 +13,14 @@ showHero: true
 feature: "feature.webp"
 summary: "L'hiver arrive ? Découvrez pourquoi la neige est l'ennemi de vos poules et comment éviter les gelures fatales grâce aux conseils de Martin et Julie."
 ---
+layout: "background"
+heroStyle: "background"
 
 **En hiver, le danger principal pour les poules n'est pas seulement le froid, mais la déshydratation. L'ingestion de neige ou de glace est épuisante pour leur organisme car elle provoque une perte énergétique massive. Pour éviter les gelures fatales, vous devez garantir un accès permanent à de l'eau liquide.**
 
 ---
+layout: "background"
+heroStyle: "background"
 
 L'hiver a transformé le jardin de \"Mon Petit Poulailler\" en un magnifique paysage blanc. Si **Barnabé** s'en donne à cœur joie dans la poudreuse, pour nos poules, la situation est plus délicate. Avec **Julie**, nous surveillons de près leur comportement, car la neige cache un piège redoutable.
 
@@ -35,7 +41,9 @@ Le corps d'une poule fonctionne sur un budget énergétique strict. Pour transfo
 L'objectif est vital : votre eau doit rester liquide 24h/24. Voici les équipements que j'utilise pour nos poules :
 
 | Produit | Utilité & Conseil de Martin | Voir le prix |
-| :--- | :--- | :--- |
+| :---
+layout: "background"
+heroStyle: "background"
 | **Plaque Chauffante** | Maintient l'eau tiède avec une consommation minimale. | [Voir sur Amazon](https://amzn.to/4qp3P1d) |
 | **Abreuvoir 8L** | Isole mieux l'eau. Parfait avec une base chauffante. | [Voir sur Amazon](https://amzn.to/3NnDHWd) |
 | **Vaseline Pure** | Indispensable pour protéger les crêtes du gel intense. | [Voir sur Amazon](https://amzn.to/4qva9Em) |

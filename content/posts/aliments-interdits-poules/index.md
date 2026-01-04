@@ -1,4 +1,6 @@
 ---
+layout: "background"
+heroStyle: "background"
 title: "Aliments Interdits : Ce qu'il ne faut JAMAIS donner à vos poules"
 date: 2025-12-28T10:00:00Z
 draft: false
@@ -10,6 +12,8 @@ showTaxonomies: true
 showHero: true
 feature: "feature.webp"
 ---
+layout: "background"
+heroStyle: "background"
 
 **La santé de vos protégées dépend avant tout de leur alimentation. Martin et Julie vous aident à faire le tri dans vos épluchures pour éviter les aliments toxiques qui pourraient mettre en danger votre petit cheptel.**
 
@@ -46,7 +50,9 @@ Même avec la plus grande vigilance de Julie, un accident peut arriver. Martin c
 ![Julie prépare des soins naturels (vinaigre de cidre et charbon) sous le regard de Pistache](sante-naturelle.webp)
 
 | Produit | Utilité | Format | Voir le prix |
-| :--- | :--- | :--- | :--- |
+| :---
+layout: "background"
+heroStyle: "background"
 | **Charbon Végétal** | Aide à absorber les toxines. | Poudre | [Voir sur Amazon](https://amzn.to/4aBweg6) |
 | **Vinaigre de Cidre** | Équilibre la flore intestinale. | Liquide | [Voir sur Amazon](https://amzn.to/3N4Uz3Y) |
 | **Terre de Diatomée** | Vermifuge naturel préventif. | Poudre | [Voir sur Amazon](https://amzn.to/45gtocM) |

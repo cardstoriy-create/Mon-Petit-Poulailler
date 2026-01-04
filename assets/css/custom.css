@@ -1,20 +1,32 @@
-/* assets/css/custom.css - VERSION FINALE PROPRE */
+/* --- DESIGN DE BASE STABLE --- */
 
-/* 1. Tes Polices */
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&family=Nunito:wght@200..1000&display=swap');
+body {
+    background-color: #fdfaf5 !important; /* Fond crème */
+    color: #3d2b1f !important;           /* Marron texte */
+}
 
-h1, h2, h3, h4, h5, h6, .font-heading {
+h1, h2, h3 {
+    color: #8b5e3c !important;           /* Marron chocolat */
     font-family: 'Quicksand', sans-serif !important;
-    font-weight: 700;
 }
 
-body, p, .font-body {
-    font-family: 'Nunito', sans-serif !important;
+.card, img {
+    border-radius: 20px !important;      /* Bordures arrondies standards */
 }
 
-/* 2. Sécurité pour le Logo */
-/* Comme ton image est déjà ronde, ça sert juste à s'assurer qu'elle reste parfaite */
-header a img, .logo img {
-    border-radius: 50% !important;
-    object-fit: cover !important; /* Garde les proportions de Martin */
+/* --- CORRECTION OPACITÉ BLOWFISH --- */
+
+/* Le thème utilise la classe "bg-neutral-900/60".
+   En CSS, il FAUT mettre un antislash devant le / pour que ça marche.
+*/
+.bg-neutral-900\/60 {
+    /* On remplace la couleur semi-transparente par une version beaucoup plus claire
+       rgba(23, 23, 23, 0.2) = Noir à 20% d'opacité (au lieu de 60%) 
+    */
+    background-color: rgba(23, 23, 23, 0.2) !important;
+}
+
+/* Sécurité : Si le thème utilise l'attribut opacity séparé */
+.opacity-60 {
+    opacity: 0.02 !important;
 }

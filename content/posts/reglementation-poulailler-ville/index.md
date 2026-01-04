@@ -1,4 +1,6 @@
 ---
+layout: "background"
+heroStyle: "background"
 title: "Installer un Poulailler en Ville : Ce que dit la Loi en France et en Belgique (Guide 2026)"
 date: 2025-12-30T10:00:00Z
 draft: false
@@ -10,12 +12,16 @@ showTaxonomies: true
 showHero: true
 feature: "feature.webp"
 ---
+layout: "background"
+heroStyle: "background"
 
 **Le chant d'une poule qui vient de pondre au milieu du bourdonnement urbain ? C'est tout à fait possible ! De plus en plus de citadins sautent le pas pour retrouver le plaisir des œufs frais et réduire leurs déchets. Pourtant, l'aventure peut vite s'arrêter si l'on ne respecte pas quelques règles de base.**
 
 Que vous habitiez en France ou en Belgique, la loi encadre l'installation de nos amies à plumes pour garantir la tranquillité de tous. Entre les autorisations d'urbanisme et le respect du voisinage, voici tout ce que vous devez savoir pour que votre projet reste un plaisir, pour vous comme pour vos voisins.
 
 ---
+layout: "background"
+heroStyle: "background"
 
 ## 1. La Réglementation en France : Ce qu'il faut savoir 🇫🇷
 
@@ -57,6 +63,8 @@ Dans la plupart des communes wallonnes, l'installation d'un petit poulailler est
 ![Julie observe Barnabé le Border Collie qui surveille une poule calme dans le jardin](coq-en-ville.webp)
 
 ---
+layout: "background"
+heroStyle: "background"
 
 ## 3. Le Voisinage : La clé d'un poulailler serein
 

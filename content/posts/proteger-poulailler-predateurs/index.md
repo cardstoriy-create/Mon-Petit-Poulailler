@@ -1,4 +1,6 @@
 ---
+layout: "background"
+heroStyle: "background"
 title: "Comment protéger vos poules des prédateurs nocturnes : Les conseils de Martin"
 slug: "proteger-poulailler-predateurs"
 date: 2025-12-27T10:00:00Z
@@ -11,10 +13,14 @@ showHero: true
 feature: "feature.webp"
 summary: "Renards, fouines ou rats : sécurisez votre poulailler avec les conseils de Martin et la vigilance de Barnabé. Découvrez les 3 points de contrôle essentiels."
 ---
+layout: "background"
+heroStyle: "background"
 
 **Sécuriser son poulailler contre les prédateurs est une priorité absolue. À \"Mon Petit Poulailler\", Martin et Barnabé veillent au grain : entre routine du soir et équipements robustes, découvrez comment protéger vos poules des renards et des fouines.**
 
 ---
+layout: "background"
+heroStyle: "background"
 
 L'hiver et les nuits qui tombent tôt sont les moments préférés des prédateurs. Chaque soir, dès que le ciel vire au gris, j'entame ma ronde de sécurité. Je suis toujours accompagné de **Barnabé**, notre Border Collie Sable.
 
@@ -42,7 +48,9 @@ En tant que menuisier, j'ai vu trop de poulaillers \"en kit\" avec des verrous f
 ## Matériel recommandé par Martin (3-4 poules)
 
 | Équipement | Pourquoi Martin le recommande ? | Voir le prix |
-| :--- | :--- | :--- |
+| :---
+layout: "background"
+heroStyle: "background"
 | **Grillage Galvanisé** | Mailles soudées indéchirables. | [Voir sur Amazon](https://amzn.to/4pqUaXm) |
 | **Verrou à Ressort** | Impossible à ouvrir pour un animal. | [Voir sur Amazon](https://amzn.to/3KQZjd1) |
 | **Projecteur Solaire** | La lumière effraie les rôdeurs. | [Voir sur Amazon](https://amzn.to/498FaXS) |
@@ -51,4 +59,6 @@ En tant que menuisier, j'ai vu trop de poulaillers \"en kit\" avec des verrous f
 La sécurité est une affaire de vigilance quotidienne. Avec Barnabé, nous ne manquons jamais une ronde pour que toute la famille dorme tranquille !
 
 ---
+layout: "background"
+heroStyle: "background"
 **À lire aussi :** [Construire son poulailler DIY ou acheter un kit ?]({{< ref "construire-son-poulailler-guide" >}})

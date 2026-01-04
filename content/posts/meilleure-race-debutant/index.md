@@ -1,4 +1,6 @@
 ---
+layout: "background"
+heroStyle: "background"
 title: "Quelle est la Meilleure Race de Poule pour un Débutant ? Le Guide Ultime"
 slug: "meilleure-race-debutant"
 date: 2025-12-11T15:31:00Z
@@ -9,13 +11,16 @@ tags: ["Guides Débutant", "Races de Poules", "Choix"]
 summary: "Découvrez le Top 5 des races idéales pour débuter votre poulailler : de la poule rousse à la poule soie, nous avons testé les meilleures pour votre famille."
 showTaxonomies: true
 showHero: true
-heroStyle: "basic"
 feature: "feature.webp"
 ---
+layout: "background"
+heroStyle: "background"
 
 **Pour débuter votre poulailler sans stress, la meilleure race est la Poule Rousse (productivité record), suivie de la Sussex (excellente pondeuse d'hiver) et de la Harco (très rustique). Si vous cherchez un animal de compagnie pour vos enfants, la Poule Soie est inégalable par sa douceur, tandis que la Marans ravira les gourmets avec ses œufs couleur chocolat.**
 
 ---
+layout: "background"
+heroStyle: "background"
 
 Imaginez la scène à "Mon Petit Poulailler" : c'est un matin frais et la rosée perle sur l'herbe. **Anna** et **Lucas** courent vers le jardin, impatients de découvrir les trésors du jour. Soulever le pondoir et découvrir deux magnifiques œufs frais, pondus il y a à peine quelques heures, est une satisfaction incroyable.
 
@@ -51,7 +56,9 @@ Elle est célèbre pour ses œufs "extra-roux" couleur chocolat foncé.
 ## Tableau Comparatif
 
 | Race | Œufs / an | Couleur de l'œuf | Note Facilité |
-| :--- | :--- | :--- | :--- |
+| :---
+layout: "background"
+heroStyle: "background"
 | **La Rousse** | ~ 300 | Roux clair | 5/5 |
 | **La Sussex** | ~ 240 | Beige / Rosé | 5/5 |
 | **La Soie** | ~ 150 | Crème | 4/5 |

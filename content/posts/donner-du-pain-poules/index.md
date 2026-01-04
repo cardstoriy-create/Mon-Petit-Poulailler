@@ -1,4 +1,6 @@
 ---
+layout: "background"
+heroStyle: "background"
 title: "Peut-on donner du pain aux poules ? Le Guide de Sécurité de Martin"
 slug: "donner-du-pain-poules"
 date: 2025-12-11T22:17:00Z
@@ -11,10 +13,14 @@ showHero: true
 feature: "feature.webp"
 summary: "Donner du pain à vos poules : bonne ou mauvaise idée ? Découvrez la méthode de Martin pour neutraliser le sel et éviter les dangers du pain rassis."
 ---
+layout: "background"
+heroStyle: "background"
 
 **Oui, vous pouvez donner du pain à vos poules, mais uniquement en tant que friandise occasionnelle (maximum une fois par semaine). Pour éviter tout danger, le pain doit être sec, longuement trempé dans l'eau puis vigoureusement pressé afin d'éliminer l'excès de sel.**
 
 ---
+layout: "background"
+heroStyle: "background"
 
 À "Mon Petit Poulailler", **Julie** a horreur du gaspillage. Dès qu'une baguette commence à durcir sur le comptoir, le premier réflexe est de vouloir la donner à nos pondeuses. Cependant, si le pain semble être un régal pour elles, il cache des pièges que tout éleveur débutant doit connaître. 
 
@@ -49,7 +55,9 @@ summary: "Donner du pain à vos poules : bonne ou mauvaise idée ? Découvrez la
 La santé de vos poules repose avant tout sur un mélange de graines de qualité et des minéraux adaptés.
 
 | Produit | Utilité & Format | Voir le prix |
-| :--- | :--- | :--- |
+| :---
+layout: "background"
+heroStyle: "background"
 | **Graines Premium Eggersmann** | Mélange de céréales haute qualité. **Format 5 kg**. | [Voir sur Amazon](https://amzn.to/4sf8ODD) |
 | **Grit & Minéraux Ida Plus** | Aide à la digestion et renforce la coquille. **Format 6 kg**. | [Voir sur Amazon](https://amzn.to/49dJQM6) |
 
@@ -63,4 +71,6 @@ Le pain peut rester un plaisir partagé si vous respectez le protocole de trempa
 ![Barnabé regardant une poule s'enfuir fièrement avec son morceau de pain pressé](friandise-raisonnable.webp)
 
 ---
+layout: "background"
+heroStyle: "background"
 **Pour aller plus loin :** [Guide Complet des Aliments Interdits et Toxiques]({{< ref "aliments-interdits-poules" >}})

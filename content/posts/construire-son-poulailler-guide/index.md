@@ -1,4 +1,6 @@
 ---
+layout: "background"
+heroStyle: "background"
 title: "Construire son Poulailler DIY ou Acheter un Kit ? Le Guide Budget"
 date: 2025-12-11T21:57:00Z
 draft: false
@@ -10,10 +12,14 @@ showHero: true
 feature: "feature.webp"
 summary: "Le choix entre construire son poulailler (DIY) ou acheter un kit dépend de votre arbitrage entre temps, budget et durabilité. Martin vous guide pour 3 à 4 poules."
 ---
+layout: "background"
+heroStyle: "background"
 
 **Le choix entre construire son poulailler (DIY) ou acheter un kit dépend de votre arbitrage entre temps, budget et durabilité. Mais attention : pour commencer un élevage sain, il faut accueillir au minimum 3 à 4 poules (animaux grégaires).**
 
 ---
+layout: "background"
+heroStyle: "background"
 
 Accueillir ses premières poules à \"Mon Petit Poulailler\" est toujours une fête. **Lucas** et **Anna** trépignent d'impatience, mais avant de ramasser les œufs, il faut décider où elles vont dormir. En tant que menuisier, j'ai souvent débattu de cette question avec **Julie** : faut-il sortir la scie circulaire ou déballer un carton ?
 
@@ -48,14 +54,18 @@ C'est la solution \"clé en main\". Idéale pour démarrer sans être bricoleur,
 ## Le Comparatif Financier (Pour 3-4 Poules)
 
 | Élément de Coût | DIY (Matériaux Neufs) | Kit Prêt à Monter (Qualité) |
-| :--- | :--- | :--- |
+| :---
+layout: "background"
+heroStyle: "background"
 | **Total Estimé** | **450 € - 650 €** | **250 € - 400 €** |
 
 ## Notre Sélection \"Format Familial\"
 Pour ne pas vous tromper, voici une sélection adaptée à un démarrage avec 3 poules :
 
 | Produit | Pourquoi ce choix ? | Voir le prix |
-| :--- | :--- | :--- |
+| :---
+layout: "background"
+heroStyle: "background"
 | **Poulailler Surélevé (Renforcé)** | **Le choix Durable.** Pieds protégés de l'humidité. | [Voir sur Amazon](https://amzn.to/45uaKOB) |
 | **Moteur ChickenGuard PRO** | **Le Top du marché.** Sonde + Minuterie. | [Voir sur Amazon](https://amzn.to/4pd3mhy) |
 | **Mangeoire à Pédale (5kg)** | **Anti-Rat.** Indispensable dès 3 poules. | [Voir sur Amazon](https://amzn.to/3LgASpg) |
@@ -64,3 +74,5 @@ Pour ne pas vous tromper, voici une sélection adaptée à un démarrage avec 3 
 Le kit gagne sur le terrain du prix et de la rapidité, c'est un excellent tremplin pour débuter. Le DIY est un investissement sur 20 ans. Quel que soit votre choix, respectez la règle des 3 poules !
 
 ---
+layout: "background"
+heroStyle: "background"

@@ -1,4 +1,6 @@
 ---
+layout: "background"
+heroStyle: "background"
 title: "Check-list 2026 : Les 10 Accessoires Indispensables pour vos Premières Poules"
 date: 2025-12-30T14:00:00Z
 draft: false
@@ -8,21 +10,26 @@ tags: ["Matériel", "Débutant", "Check-list"]
 summary: "Préparez votre poulailler pour 2026 ! Martin vous dévoile la check-list complète des 10 équipements vitaux pour accueillir vos poules sans stress."
 showTaxonomies: true
 showHero: true
-heroStyle: "basic"
 feature: "feature.webp"
 ---
+layout: "background"
+heroStyle: "background"
 
 **Pour bien démarrer votre poulailler en 2026, 10 accessoires sont essentiels : un habitat sécurisé (poulailler, perchoir, pondoir, grillage), un duo mangeoire/abreuvoir efficace, et des produits de santé de base (terre de diatomée, vinaigre de cidre, litière de chanvre).**
 
 L'excitation est à son comble ! Vos premières poules pondeuses arrivent bientôt. En tant que spécialiste pour **Mon Petit Poulailler**, je vous ai préparé la check-list indispensable pour une transition douce.
 
 ---
+layout: "background"
+heroStyle: "background"
 
 {{< alert icon="link" >}}
 **Hésitation sur l'abri ?** Consultez d'abord notre comparatif : [Construire son Poulailler Soi-Même ou Acheter un Kit ?]({{< ref "construire-son-poulailler-guide" >}})
 {{< /alert >}}
 
 ---
+layout: "background"
+heroStyle: "background"
 
 ## 1. Les 4 Éléments Clés de l'Habitat
 
@@ -42,7 +49,9 @@ Un pondoir est un endroit sombre et sécurisant. Comme vous pouvez le voir, le c
 ## 3. Sélection de Martin : Le Top 3 pour 2026
 
 | Accessoire | Pourquoi c'est indispensable ? | Lien |
-| :--- | :--- | :--- |
+| :---
+layout: "background"
+heroStyle: "background"
 | **Mangeoire Anti-Nuisible** | Empêche les rats de voler le grain. | [Vérifier sur Amazon](https://amzn.to/498l0gx) |
 | **Abreuvoir 10L sur pieds** | Garde l'eau propre et saine. | [Vérifier sur Amazon](https://amzn.to/4jtleUs) |
 | **Terre de Diatomée** | L'arme absolue contre les poux rouges. | [Vérifier sur Amazon](https://amzn.to/3YLwj9B) |

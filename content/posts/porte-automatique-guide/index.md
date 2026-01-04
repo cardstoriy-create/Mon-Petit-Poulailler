@@ -1,4 +1,6 @@
 ---
+layout: "background"
+heroStyle: "background"
 title: "Sécurité Maximale et Grasse Matinée Assurée : La Porte Automatique de Poulailler"
 slug: "porte-automatique-guide"
 date: 2025-12-12T09:56:00Z
@@ -11,10 +13,14 @@ showTaxonomies: true
 showHero: true
 feature: "feature.webp"
 ---
+layout: "background"
+heroStyle: "background"
 
 **Combien de fois le doux rêve d'une grasse matinée a-t-il été brisé par le besoin de libérer vos protégées ? La porte automatique n'est pas un gadget : c'est l'investissement le plus crucial pour la sécurité de vos poules et votre tranquillité d'esprit.**
 
 ---
+layout: "background"
+heroStyle: "background"
 
 Vous êtes un fier éleveur, mais avouons-le : qui n'a jamais été pris d'une sueur froide en rentrant tard, se demandant : \"Ai-je bien fermé la porte du poulailler ?\" Ce dilemme a trouvé sa solution dans la domotique de basse-cour.
 
@@ -51,7 +57,9 @@ C'est le mode le plus proche du rythme naturel. La porte suit le soleil.
 ## Notre Sélection des Meilleurs Modèles (3-4 poules)
 
 | Modèle Phare | Pourquoi on l'aime ? | Énergie | Voir le prix |
-| :--- | :--- | :--- | :--- |
+| :---
+layout: "background"
+heroStyle: "background"
 | **Chamuty (Solaire)** | Le plus complet avec son panneau déporté. | Solaire | [Voir sur Amazon](https://amzn.to/3YL2R3w) |
 | **Run-Chicken** | Conception robuste en aluminium, ultra compact. | Piles | [Voir sur Amazon](https://amzn.to/4b4UpUg) |
 | **ChickenGuard** | La référence historique, fiabilité et écran LCD clair. | Piles | [Voir sur Amazon](https://amzn.to/3KTWNCO) |
@@ -65,4 +73,6 @@ Si vous ne deviez acheter qu'un seul accessoire \"technique\", c'est celui-ci. P
 ![Depuis son salon, Martin observe la LED verte de la porte confirmant que les poules sont en sécurité pour la nuit](securite-nuit.webp)
 
 ---
+layout: "background"
+heroStyle: "background"
 **ASTUCE :** Découvrez aussi notre [Check-list des 10 Accessoires Indispensables]({{< ref "accessoires-debutant-poules" >}}) pour compléter votre installation.

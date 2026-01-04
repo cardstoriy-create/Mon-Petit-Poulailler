@@ -1,4 +1,6 @@
 ---
+layout: "background"
+heroStyle: "background"
 title: "Épluchures de pommes de terre aux poules : Crues ou cuites ? Le Guide de Sécurité"
 slug: "pommes-de-terre-danger"
 date: 2025-12-11T16:54:00Z
@@ -11,10 +13,14 @@ showTaxonomies: true
 feature: "feature.webp"
 summary: "Il ne faut jamais donner d'épluchures de pommes de terre crues aux poules car elles contiennent de la solanine. Martin vous explique comment les préparer sans risque."
 ---
+layout: "background"
+heroStyle: "background"
 
 **Il ne faut jamais donner d'épluchures de pommes de terre crues aux poules car elles contiennent de la solanine, une substance toxique pouvant entraîner une paralysie mortelle. Pour les offrir en toute sécurité, vous devez impérativement les cuire à l'eau pendant 20 minutes, jeter l'eau de cuisson et les distribuer avec modération.**
 
 ---
+layout: "background"
+heroStyle: "background"
 
 À "Mon Petit Poulailler", rien ne se perd ! **Anna** adore m'aider à trier les restes de cuisine pour les donner à nos pondeuses, sous la surveillance toujours très intéressée de **Barnabé**. Mais attention : recycler ses déchets est une excellente idée, à condition de ne pas transformer une friandise en danger pour la santé de vos poules.
 
@@ -43,7 +49,9 @@ Heureusement, la solanine est détruite par la chaleur. Pour valoriser vos éplu
 Les épluchures cuites sont une source d'énergie (amidon), mais elles sont pauvres en protéines et en calcium. Pour maintenir la ponte et la santé de vos poules, vous devez compenser ces manques.
 
 | Produit | Utilité | Voir le prix |
-| :--- | :--- | :--- |
+| :---
+layout: "background"
+heroStyle: "background"
 | **Mélange de Graines Premium** | Apport en céréales de haute qualité (Sans OGM). | [Voir sur Amazon](https://amzn.to/4sf8ODD) |
 | **Grit & Minéraux** | Aide à la digestion et renforce la coquille des œufs. | [Voir sur Amazon](https://amzn.to/49dJQM6) |
 
@@ -59,4 +67,6 @@ Même bien cuites, les pommes de terre ne doivent jamais remplacer le mélange d
 Recycler ses épluchures est un geste écologique, mais la **cuisson** est votre seule garantie. En respectant ces réflexes, vous offrirez une friandise appréciée sans risque !
 
 ---
+layout: "background"
+heroStyle: "background"
 **Pour aller plus loin :** [Aliments Interdits et Toxiques pour les Poules : Le Guide Complet]({{< ref "aliments-interdits-poules" >}})

@@ -1,4 +1,6 @@
 ---
+layout: "background"
+heroStyle: "background"
 title: "Équiper son Poulailler pour l'Hiver : Les 5 Incontournables de Martin"
 slug: "equiper-poulailler-hiver"
 date: 2025-12-11T17:09:00Z
@@ -11,10 +13,14 @@ showTaxonomies: true
 showHero: true
 feature: "feature.webp"
 ---
+layout: "background"
+heroStyle: "background"
 
 **L'hiver approche et avec lui le défi du gel et de l'humidité. Pour protéger vos poules, cinq équipements font la différence : une porte automatique isolante, un chauffage radiant sécurisé, un abreuvoir antigel, un éclairage adapté et une alimentation riche. Voici l'essentiel à retenir.**
 
 ---
+layout: "background"
+heroStyle: "background"
 
 L'hiver s'est installé à "Mon Petit Poulailler". On entend souvent que les poules sont robustes, mais c'est l'humidité combinée aux courants d'air qui représente le vrai danger. Avec **Julie**, nous avons identifié les cinq piliers pour sécuriser leur abri sans transformer le poulailler en étuve.
 
@@ -32,7 +38,9 @@ Contrairement aux lampes rouges énergivores et risquées, la plaque chauffante 
 
 ### 🛡️ Sélection Sécurité Hiver 2026
 | Équipement | Avantage Martin | Lien de confiance |
-| :--- | :--- | :--- |
+| :---
+layout: "background"
+heroStyle: "background"
 | **Plaque Standard** | Consommation ultra-faible (20W), sécurité thermique intégrée. | [Vérifier le prix](https://amzn.to/3L77fa2) |
 | **Plaque avec Thermostat** | Se coupe automatiquement selon la température ambiante. | [Vérifier le stock](https://amzn.to/4qvoiSh) |
 
@@ -61,4 +69,6 @@ La poule brûle énormément de calories pour lutter contre le froid. Sa ration 
 Avec ces équipements, vos poules traverseront l'hiver en pleine santé. **Lucas** et **Barnabé** sont déjà prêts pour la neige !
 
 ---
+layout: "background"
+heroStyle: "background"
 **À lire également :** [Guide de survie : Neige et Gelures]({{< ref "danger-hiver-poules" >}})

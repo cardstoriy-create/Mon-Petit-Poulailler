@@ -9,24 +9,9 @@ Migration d'un blog Blogger vers Hugo. Transformation en guide élégant style "
 
 ---
 
-## 2. 📝 Inventaire du Contenu Éditorial
-
-| N° | **Titre de l'Article** | Thématique | Statut |
-| :--- | :--- | :--- | :--- |
-| 10 | **Porte Automatique** | Matériel | ✅ Terminé |
-| 11 | **Aliments Interdits** | Nutrition | ✅ Terminé |
-| 12 | **Abreuvoirs Chauffants** | Matériel | ✅ Terminé |
-| 13 | **Journal Jamstack** | Documentation | ✅ Créé (DOCS) |
-| 14 | **Poux Rouges** | Santé/Hygiène | ✅ Terminé |
-| 15 | **Choisir sa Litière** | Hygiène | ✅ Terminé |
-| 16 | **Accessoires Indispensables** | Matériel | ✅ Terminé |
-| 17 | **Réglementation Ville** | Législatif | ✅ Terminé |
-
----
-
 ## 3. ⚙️ Socle Technique et Infrastructure
 * **Moteur :** Hugo v0.152.2 (Extended).
-* **Thème :** Blowfish (Git Submodule).
+* **Thème :** Blowfish Version : v2.93.0 (Git Submodule, Dépôt officiel : github.com/nunocoracao/blowfish) avec Tailwind CSS version 4.1.17 (tailwind.config.js). Utilisation de page Bundles avec des fichiers nommés index.md
 * **Hébergement :** Cloudflare Pages.
 * **Domaine :** `mon-petit-poulailler.com` (Namecheap + Cloudflare).
 * **Infrastructure Google Cloud :** Projet actif nommé `mon-petit-poulailler-pro`.
@@ -939,3 +924,161 @@ L'image d'origine est une illustration complexe (style aquarelle). La conversion
 4.  **Sécurité CSS (ssets/css/custom.css) :**
     * Ajouter : header a img, .logo img { border-radius: 50% !important; object-fit: cover !important; }
 ---
+
+## 📅 Journal de bord - 03/01/2026 23:46
+# =========================================================================================
+# SCRIPT : Rapport-de-Projet-Mon-Petit-Poulailler.md (MODE APPEND - SUIVI LOG)
+# RÔLE : Ajoute une entrée au journal sans effacer l'historique
+# =========================================================================================
+- ✅ **Aesthetic Polish** : Déploiement du pack "Artist Grain Premium".
+- ✅ **Cartes** : Ajout d'ombres sépia et d'effets de lévitation au survol.
+- ✅ **Logo** : Forçage du rendu circulaire pour martin.png.
+- ✅ **UI** : Stylisation des alertes et des boutons pour un look "Livre d'Enfant" cohérent.
+- 🛠️ **Technique** : Nettoyage du fichier custom.css et forçage des variables de couleur racine.
+
+## 📅 Journal de bord - 03/01/2026 23:47
+# =========================================================================================
+# SCRIPT : Rapport-de-Projet-Mon-Petit-Poulailler.md (MODE APPEND - SUIVI LOG)
+# RÔLE : Ajoute une entrée au journal sans effacer l'historique
+# =========================================================================================
+- ⚠️ **Rollback** : Annulation des modifications esthétiques "Premium".
+- ✅ **Restauration** : Retour au CSS de base (fond crème #fdfaf5 et bordures 20px).
+- ✅ **Stabilité** : Nettoyage des interférences visuelles.
+
+## 📅 Journal de bord - 03/01/2026 23:49
+# =========================================================================================
+# SCRIPT : Rapport-de-Projet-Mon-Petit-Poulailler.md (MODE APPEND - SUIVI LOG)
+# RÔLE : Ajoute une entrée au journal sans effacer l'historique
+# =========================================================================================
+- ✅ **Focus Branding** : Application du médaillon circulaire pour le logo Martin.
+- ✅ **Design** : Ajout d'un liseré chocolat et d'une ombre légère pour l'effet "camée".
+- 🛠️ **Technique** : Injection ciblée dans custom.css avec forçage de l'aspect ratio 1:1.
+
+## 📅 Journal de bord - 03/01/2026 23:50
+# =========================================================================================
+# SCRIPT : Rapport-de-Projet-Mon-Petit-Poulailler.md (MODE APPEND - SUIVI LOG)
+# RÔLE : Ajoute une entrée au journal sans effacer l'historique
+# =========================================================================================
+- ⚠️ **Annulation** : Retrait du code CSS pour le logo circulaire (non fonctionnel).
+- ✅ **Nettoyage** : Restauration de custom.css à l'état stable du 03/01/2026.
+- 🔍 **Note Technique** : Persistance du format carré, probablement dû à la priorité du thème ou au cache.
+
+---
+## 📅 Journal de bord - 04/01/2026 00:04
+### 🎨 Harmonisation Visuelle "Livre d'Enfant" (Layout Background)
+- **Action** : Migration massive de l'ensemble des articles (15 dossiers) vers le mode d'affichage layout: "background".
+- **Objectif** : Améliorer l'immersion narrative en utilisant les illustrations **Artist Grain** (eature.webp) comme arrière-plan plein écran.
+- **Résolution Technique** : 
+    - Suppression des insertions parasites de layout dans le corps du texte.
+    - Configuration du Front Matter avec heroStyle: "background" pour assurer la compatibilité avec le thème Blowfish.
+    - Forçage de l'encodage **UTF-8 sans BOM** pour garantir l'intégrité des caractères spéciaux.
+- **État Technique** : Build Hugo validé avec succès. Rendu visuel harmonisé sur tous les piliers (Matériel, Santé, Nutrition).
+
+---
+## 📅 Journal de bord - 04/01/2026 00:13
+### ✅ Clôture de la Phase de Production Initiale
+- **Statut de l'Inventaire** : La totalité des **15 articles** prévus dans l'inventaire original est désormais **validée et publiée**.
+- **Contrôle Qualité** : 
+    - Chaque article répond à une intention de recherche spécifique pour débutant (Sécurité, Santé, Nutrition, Lois).
+    - Harmonisation visuelle layout: "background" appliquée à 100% du contenu pour une immersion narrative totale.
+- **Bilan Technique** : 87 pages générées, 77 images filigranées, zéro erreur de build (Standard Pro).
+
+### 🚀 Opportunités et Perspectives 2026 (Nouveaux Projets)
+Afin de renforcer l'autorité du site, la rédaction de nouveaux articles ciblera les tendances de recherche émergentes :
+1. **L'arrivée des poules : Les 48h critiques** (Gestion du stress et acclimatation).
+2. **Le Poulailler "Zéro Déchet"** (Intégration au compostage et gestion des biodéchets).
+3. **Soigner ses poules au naturel** (Phytothérapie : vinaigre de cidre, ail, herbes aromatiques).
+4. **Domotique Avancée** (Caméras Wi-Fi et capteurs d'humidité pour poulailler connecté).
+5. **Gestion des prédateurs du ciel** (Protection spécifique contre les rapaces).
+
+---
+## 📅 Journal de bord - 04/01/2026 00:29
+### 🎨 Peaufinage du Footer
+- **Branding** : Ajout de la mention de copyright "© 2026 Mon Petit Poulailler" pour renforcer l'aspect professionnel du guide.
+- **Conformité** : Fusion du copyright avec la mention légale Amazon dans languages.fr.toml.
+
+---
+## 📅 Journal de bord - 04/01/2026 00:34
+### 🏁 Finalisation Ergonomique et Légale
+- **Footer** : Résolution définitive de l'affichage simultané du Copyright et de la mention Amazon.
+- **Méthode de Résolution (Crucial pour le futur)** :
+    1. **Hiérarchie** : Dans une configuration multilingue Blowfish, les réglages dans config/_default/languages.fr.toml sont prioritaires sur params.toml.
+    2. **Priorité de Champ** : Le champ copyright situé à la racine de la section [params] est plus "fort" que le champ ooterText. 
+    3. **Solution** : Il faut fusionner toutes les mentions (Branding + Affiliation) dans la variable copyright pour garantir leur rendu visuel.
+- **État du Projet** : Site 100% opérationnel, conforme et prêt pour l'expansion du contenu 2026.
+
+---
+## 📅 Journal de bord - 04/01/2026 00:34
+### 🏁 Finalisation Ergonomique et Légale
+- **Footer** : Résolution définitive de l'affichage simultané du Copyright et de la mention Amazon.
+- **Méthode de Résolution (Leçon Apprise)** :
+    1. **Hiérarchie de Fichier** : Dans l'architecture multilingue de Blowfish, les réglages dans config/_default/languages.fr.toml sont prioritaires et écrasent params.toml.
+    2. **Priorité de Variable** : Le champ racine copyright (sous [params]) est le plus stable pour l'affichage en pied de page.
+    3. **Solution Technique** : Fusionner le Branding (Copyright) et l'Affiliation (Amazon) dans cette unique variable copyright pour garantir le rendu visuel sans conflit TOML.
+- **État du Projet** : Site 100% opérationnel, ergonomique et conforme. Prêt pour l'expansion éditoriale 2026.
+
+---
+## 📅 Journal de bord - 04/01/2026 01:06
+### ✍️ Création de Contenu : Guide N°18
+- **Sujet** : "L'arrivée des poules : Les 48h critiques".
+- **Structure** : Page Bundle (index.md) pour une gestion optimisée des ressources.
+- **Visuels** : Planification de deux illustrations (Header 16:9 et Corps d'article) via prompts ciblés pour conserver le style "Livre d'enfant".
+- **SEO** : Intégration d'un tableau checklist et de conseils pédagogiques (Martin & Anna).
+
+---
+## 📅 Journal de bord - 04/01/2026 01:40
+### ✅ Tâche Terminée : Guide N°18 (L'arrivée des poules)
+- **État** : PUBLIÉ et VISIBLE (Menu 'Santé & Hygiène').
+- **Solutions Techniques Validées** :
+  1. **Visibilité** : Utilisation de la catégorie existante `["sante"]` pour l'intégration automatique au menu.
+  2. **Affichage Image** : Ajout des paramètres `heroStyle: "background"` et `showHero: true`.
+  3. **Structure** : Alignement sur le modèle de l'article "Aliments Interdits".
+
+### 📌 MÉMO TECHNIQUE : Standard Frontmatter
+Pour les prochains articles, copier-coller ce bloc en haut du fichier index.md :
+
+'''yaml
+---
+layout: "background"
+heroStyle: "background"
+title: "Titre de l'article"
+date: 2026-XX-XX
+description: "Description courte"
+# Choisir UNE catégorie existante : ["sante"], ["materiel"], ["nutrition"] ou ["guides"]
+categories: ["sante"]
+tags: ["Tag1", "Tag2"]
+showHero: true
+feature: "feature.webp"
+---
+'''
+
+### 🎨 Amélioration Design (Global)
+- **Problème** : Images de fond trop sombres en mode `layout: "background"`.
+- **Solution** : Override CSS dans `assets/css/custom.css`.
+- **Note Technique** : Nécessité d'échapper le slash de la classe Tailwind.
+  ```css
+  /* Fix Opacité Blowfish */
+  .bg-neutral-900\/60 {
+      background-color: rgba(23, 23, 23, 0.2) !important;
+  }
+  ---
+- **Stack technique confirmée : Blowfish avec Tailwind CSS v4.1.17. Nécessite l'échappement des caractères spéciaux dans custom.css.
+
+## 📅 Prévisions pour la prochaine session
+### 🔜 Guide N°19 : Le langage des poules
+- **Lien logique** : Sera la destination du lien créé à la fin du Guide N°18.
+- **Slug prévu** : `comprendre-langage-poules` (Indispensable pour que le lien fonctionne).
+- **Catégorie** : À définir (probablement `["guides"]` ou `["sante"]`).
+- **Besoin** :
+  - Une image `feature.webp` (une poule qui "parle" ou qui a l'air expressive).
+  - Le texte explicatif sur les différents bruits (côt-côt, chant, alerte...).
+
+
+---
+## 📅 Journal de bord - 04/01/2026 02:17
+### 🚀 Déploiement Production (Guide N°18 & CSS)
+- **Git Push** : Envoi des modifications vers le dépôt distant (Master).
+- **Contenu** : 
+    - Publication du guide : *"L'arrivée des poules : Les 48h critiques"*.
+    - Mise à jour du style : Opacité du fond (CSS) pour la lisibilité sur images sombres.
+- **Statut** : Déclenchement du pipeline CI/CD sur Cloudflare Pages.

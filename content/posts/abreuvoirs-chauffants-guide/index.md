@@ -1,4 +1,6 @@
 ---
+layout: "background"
+heroStyle: "background"
 title: "Guide d'Achat : Les Meilleurs Abreuvoirs Chauffants et Bases Anti-Gel"
 date: 2025-12-11T14:30:00Z
 draft: false
@@ -9,6 +11,8 @@ summary: "L'eau gelée est le cauchemar de l'hiver. Martin a testé pour vous le
 showTaxonomies: true
 showHero: true
 ---
+layout: "background"
+heroStyle: "background"
 
 # Guide d'Achat : Les Meilleurs Abreuvoirs Chauffants et Bases Anti-Gel
 
@@ -24,6 +28,8 @@ Si l'eau gèle :
 Il existe trois grandes familles de solutions pour éviter la corvée de "casser la glace" matin et soir.
 
 ---
+layout: "background"
+heroStyle: "background"
 
 ## 1. La Base Chauffante (La Solution Universelle)
 C'est la solution préférée de Martin. Il s'agit d'un socle électrique sur lequel vous posez votre abreuvoir habituel (plastique ou métal).
@@ -49,13 +55,17 @@ Un câble souple avec thermostat que l'on plonge directement dans l'eau.
 * **Inconvénient :** Il faut bien le fixer pour ne pas qu'il sorte de l'eau.
 
 ---
+layout: "background"
+heroStyle: "background"
 
 ## Notre Sélection Anti-Gel (Liens Amazon)
 
 Pour vous aider à passer l'hiver sereinement, voici les meilleures combinaisons testées pour vos protégées :
 
 | Solution | Le Modèle Recommandé | Pourquoi ce choix ? | Voir le prix |
-| :--- | :--- | :--- | :--- |
+| :---
+layout: "background"
+heroStyle: "background"
 | **La Base Chauffante** | **Plaque Universelle 30 cm** | Idéale pour les abreuvoirs plats (sans pieds) jusqu'à 15 L. Simple et efficace. | [Voir sur Amazon](https://amzn.to/4qp3P1d) |
 | **Le Grand Volume** | **Novital 30 L (Original)** | La référence robuste fabriquée en Italie. Très stable au sol. | [Voir sur Amazon](https://amzn.to/4pWrYfJ) |
 | **Le Système Anti-Gel** | **Câble avec Thermostat** | Indispensable pour les grands volumes. Se plonge dans l'eau et s'active seul au gel. | [Voir sur Amazon](https://amzn.to/49c7GYF) |
@@ -66,4 +76,6 @@ Pour vous aider à passer l'hiver sereinement, voici les meilleures combinaisons
 Pour une base chauffante ou un câble de qualité, comptez une trentaine d'euros. C'est un investissement minime comparé au confort qu'il apporte : fini les allers-retours avec des bouilloires d'eau chaude à 7h du matin ! Vos poules vous remercieront avec de beaux œufs d'hiver.
 
 ---
+layout: "background"
+heroStyle: "background"
 **À découvrir aussi :** Découvrez comment protéger l'ensemble du poulailler dans notre article : [Protéger votre poulailler en hiver : Les 5 équipements indispensables]({{< ref "proteger-poulailler-predateurs" >}}).

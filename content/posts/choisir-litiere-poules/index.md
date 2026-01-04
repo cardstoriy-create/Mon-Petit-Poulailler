@@ -1,4 +1,6 @@
 ---
+layout: "background"
+heroStyle: "background"
 title: "Quelle Litière Choisir ? Paille, Copeaux ou Chanvre : Le Guide Hygiène 2026"
 date: 2025-12-31T09:00:00Z
 lastmod: 2026-01-02T10:00:00Z
@@ -10,12 +12,15 @@ summary: "Chanvre, paille ou copeaux ? Le choix de la litière est déterminant 
 showHero: true
 featureImage: "feature.webp"
 showTaxonomies: true
-heroStyle: "basic"
 ---
+layout: "background"
+heroStyle: "background"
 
 **Le choix de la litière est déterminant pour la santé de vos poules. Contrairement aux idées reçues, la paille est souvent déconseillée dans le dortoir car elle retient l'humidité. Pour garder un poulailler sec et sans odeur, privilégiez le chanvre ou les copeaux dépoussiérés.**
 
 ---
+layout: "background"
+heroStyle: "background"
 
 ## Pourquoi il faut éviter la Paille
 C'est l'erreur du débutant par excellence. La paille (tige jaune du blé) est constituée de tubes creux.
@@ -51,7 +56,9 @@ C'est la "Rolls" de la litière. Issue de la tige centrale du chanvre, elle agit
 Voici les produits exacts que nous utilisons pour nos 3-4 poules :
 
 | Produit | Pourquoi ce choix ? | Voir le prix |
-| :--- | :--- | :--- |
+| :---
+layout: "background"
+heroStyle: "background"
 | **Litière de Chanvre (100L)** | **Le Top (Zolux/Sicofor).** Grand volume économique. Absorbe 5x plus que la paille. | [Voir sur Amazon](https://amzn.to/4b6dvcz) |
 | **Copeaux Dépoussiérés** | **L'Alternative (Duvo+).** 100% naturels et sans poussière. Odeur agréable. | [Voir sur Amazon](https://amzn.to/4shHqoq) |
 | **Terre de Diatomée** | **L'Asséchant.** À saupoudrer SOUS la litière pour assainir et tuer les larves. | [Voir sur Amazon](https://amzn.to/4paDzXp) |
@@ -63,4 +70,6 @@ Pas besoin de tout vider tous les jours !
 3. **Mensuel :** Videz tout, désinfectez et remplacez intégralement.
 
 ---
+layout: "background"
+heroStyle: "background"
 *Si vous voulez éviter les maladies et ne pas vous boucher le nez en ouvrant le poulailler, oubliez la paille !*

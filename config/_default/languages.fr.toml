@@ -1,25 +1,14 @@
-languageCode = "fr"
 languageName = "Français"
+contentDir = "content"
 weight = 1
-title = "Mon Petit Poulailler"
 
 [params]
-  displayName = "FR"
-  isoCode = "fr"
-  rtl = false
-  dateFormat = "2 January 2006"
-  logo = "martin.png" 
-  # C'est cette ligne ci-dessus qui est CRUCIALE pour Martin
+  logo = "martin.png"
+  # On injecte la mention Amazon ici car le thème affiche ce champ en priorité
+  copyright = "© 2026 Mon Petit Poulailler - Tous droits réservés. | En tant que Partenaire Amazon, je réalise un bénéfice sur les achats remplissant les conditions requises."
 
-[menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "Accueil"
-    url = "/"
-    weight = 10
-
-  [[menu.main]]
-    identifier = "blog"
-    name = "Le Poulailler"
-    url = "/posts/"
-    weight = 20
+  [params.footer]
+    enable = true
+    showCopyright = true
+    showThemeNumber = false
+    showSocial = true

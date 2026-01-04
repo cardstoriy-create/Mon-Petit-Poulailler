@@ -1,4 +1,6 @@
 ---
+layout: "background"
+heroStyle: "background"
 title: "Poux Rouges : Comment Éradiquer cette Menace Nocturne en 2026 ?"
 slug: "poux-rouges-guide"
 date: 2025-12-29T10:00:00Z
@@ -11,6 +13,8 @@ showTaxonomies: true
 showHero: true
 feature: "feature.webp"
 ---
+layout: "background"
+heroStyle: "background"
 
 **Le pou rouge est un acarien nocturne redoutable. En 2026, l'éradication repose sur une détection précoce (test du torchon blanc), un nettoyage haute pression intégral et l'application de Terre de Diatomée tous les 5 à 7 jours.**
 
@@ -19,6 +23,8 @@ feature: "feature.webp"
 À "Mon Petit Poulailler", nous redoutons tous cet ennemi invisible. Comme le dit souvent **Anna**, voir ses poules préférées s'affaiblir est un crève-cœur. Heureusement, avec de la rigueur, on peut gagner cette bataille.
 
 ---
+layout: "background"
+heroStyle: "background"
 
 ## 1. Détection : Le Test du Torchon Blanc
 Si vos poules refusent de dormir dans le poulailler, suspectez immédiatement les poux. Étalez un linge blanc sous les perchoirs le soir ; si vous voyez des taches rouges au matin, l'infestation est confirmée.
@@ -50,7 +56,9 @@ Mieux vaut prévenir que guérir ! Le meilleur moyen d'empêcher le retour des p
 ## Votre Kit de Survie Anti-Poux
 
 | Solution | Utilité | Voir le prix |
-| :--- | :--- | :--- |
+| :---
+layout: "background"
+heroStyle: "background"
 | **Terre de Diatomée** | L'arme naturelle n°1. | [Voir sur Amazon](https://amzn.to/4paDzXp) |
 | **Pulvérisateur 2L** | Pour les fissures du bois. | [Voir sur Amazon](https://amzn.to/3NkZ5eL) |
 
@@ -59,6 +67,8 @@ Mieux vaut prévenir que guérir ! Le meilleur moyen d'empêcher le retour des p
 {{< /alert >}}
 
 ---
+layout: "background"
+heroStyle: "background"
 **En savoir plus :**
 * [Check-list des accessoires indispensables]({{< ref "accessoires-debutant-poules" >}})
 * [La réglementation pour poulailler urbain en 2026]({{< ref "reglementation-poulailler-ville" >}})

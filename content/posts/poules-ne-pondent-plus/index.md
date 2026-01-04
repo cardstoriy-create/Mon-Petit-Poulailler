@@ -1,4 +1,6 @@
 ---
+layout: "background"
+heroStyle: "background"
 title: "Pourquoi mes poules ne pondent plus ? 5 Raisons & Solutions"
 date: 2025-12-22T18:01:00Z
 draft: false
@@ -10,10 +12,14 @@ showTaxonomies: true
 showHero: true
 feature: "feature.webp"
 ---
+layout: "background"
+heroStyle: "background"
 
 **L'arrêt de la ponte chez une poule est généralement causé par des facteurs naturels ou environnementaux : la baisse de luminosité saisonnière, la mue annuelle, le stress ou une alimentation déséquilibrée.**
 
 ---
+layout: "background"
+heroStyle: "background"
 
 C'est un petit drame matinal à "Mon Petit Poulailler" : **Anna** revient avec son panier vide et une mine déçue. Même **Barnabé** semble perplexe devant le nichoir déserté. Pas de panique ! En tant qu'éleveur, j'ai appris que l'arrêt de la ponte n'est souvent qu'une réaction logique de l'organisme.
 
@@ -41,7 +47,9 @@ Faire un œuf demande énormément de calcium et de protéines. Si vos poules co
 ## Solutions pour relancer la ponte
 
 | Produit | Utilité & Conseil | Voir le prix |
-| :--- | :--- | :--- |
+| :---
+layout: "background"
+heroStyle: "background"
 | **Coquilles d'Huîtres** | Calcium pur pour la coquille. | [Voir sur Amazon](https://amzn.to/4qtImV0) |
 | **Mélange de Graines** | Riche en protéines (15kg/mois pour 3 poules). | [Voir sur Amazon](https://amzn.to/45y9Xw7) |
 | **Vitamines (Liquide)** | Idéal lors de la mue ou des grands froids. | [Voir sur Amazon](https://amzn.to/3LeHip4) |
